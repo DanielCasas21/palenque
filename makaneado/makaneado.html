@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="sp">
+
+<head>
+<head>
+<title>Ma tiembo ri makaneo</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="css/stylePalenque.css">
+<script src="js/makaneado.js"></script>
+</head>
+
+<body>
+<header>
+<h1>Ma tiembo ri makaneo</h1>
+<h4>Conjugador verbal en lengua palenquera</h4>
+</header>
+
+<section>
+<h2>Asina ría ma kombilesa suto!</h2>
+<h3>Ké a tá kelé sabé bo?</h3>
+<!--
+<a href="makaneado.html">Kribí makaneo</a>
+<a href="ndaMakaneo.html">Nda makaneo (aleatoreo)</a>
+-->
+<p>Kribí makaneo:  
+<input type="text" id="myText" value="">
+<button id= "myBtn" onclick= "myFunction(), paratatikos(), aoristos(), ayeToMaRia(), maana(), guatia()" >Pa lante!</button>
+</p>
+<p id="demo100"></p>
+</section>
+
+<button type="button" class="collapsible">Agué</button>
+<div class="content">
+<p>Tiembo ri agué a tá jablá ri to ma kusa lo ke suto asé kara ría.</p>
+<p>Ele a sé asé ku majende i ku ma makaneo nú má. Guatiá:</p>
+<p>Í (majende) + kumé (makaneo) + tó ma ría (uto kusa)</p>
+<h3 id="demo0" class="normal"></h3>
+<p id="demo"></p>
+<p id="demo1"></p>
+<p id="demo2"></p>
+<p id="demo3"></p>
+<p id="demo4"></p>
+<p id="demo5"></p>
+</div>
+
+<button type="button" class="collapsible">Ague ya</button>
+<div class="content">
+<p>Tiembo ri agué ya a tá jablá ri to ma kusa lo ke suto asé ya memo.</p>
+<p>Ele a sé asé ku majende, ku pate "a tá" i ku ma makaneo nú má. Guatiá:</p>
+<p>Í (majende) + a tá (pate) + kumé (makaneo) + andi posá mí (uto kusa)</p>
+<h3 id="demo6" class="normal"></h3>
+<p id="demo7"></p>
+<p id="demo8"></p>
+<p id="demo9"></p>
+<p id="demo10"></p>
+<p id="demo11"></p>
+<p id="demo12"></p>
+</div>
+
+<button type="button" class="collapsible">Ayé</button>
+<div class="content">
+<p>Tiembo ri ayé a tá jablá ri to ma kusa lo ke suto a asé uto ria.</p>
+<p>Ele a sé asé ku majende, ku pate "a" i ku ma makaneo nú má. Guatiá:</p>
+<p>Í (majende) + a (pate) + kumé (makaneo) + ria ri ayé (uto kusa)</p>
+<h3 id="demo13" class="normal"></h3>
+<p id="demo14"></p>
+<p id="demo15"></p>
+<p id="demo16"></p>
+<p id="demo17"></p>
+<p id="demo18"></p>
+<p id="demo19"></p>
+</div>
+
+<button type="button" class="collapsible">Ayé tó ma ría</button>
+<div class="content">
+<p>Tiembo ri ayé a tá jablá ri to ma kusa lo ke suto a asé tó ma uto ria.</p>
+<p>Ele a sé asé ku majende i ku ma makaneo má pate "-ba". Guatiá:</p>
+<p>Í (majende) + kume<u>ba</u> (makaneo+ba) + kaundi moná (uto kusa)</p>
+<h3 id="demo20" class="normal"></h3>
+<p id="demo21"></p>
+<p id="demo22"></p>
+<p id="demo23"></p>
+<p id="demo24"></p>
+<p id="demo25"></p>
+<p id="demo26"></p>
+</div>
+
+<button type="button" class="collapsible">Maána</button>
+<div class="content">
+<p>Tiembo ri maána a tá jablá ri to ma kusa lo ke suto a tan asé andi ria imaána.</p>
+<p>Ele a sé asé ku majende, ku pate "a tan" i ku ma makaneo nú má. Guatiá:</p>
+<p>Í (majende) + a tan (pate) + kumé (makaneo) + ria ri ayé (uto kusa)</p>
+<h3 id="demo27" class="normal"></h3>
+<p id="demo28"></p>
+<p id="demo29"></p>
+<p id="demo30"></p>
+<p id="demo31"></p>
+<p id="demo32"></p>
+<p id="demo33"></p>
+</div>
+
+<footer>Ata uto begá!</footer>
+</body>
+
+<script>
+var input = document.getElementById("myText");
+input.addEventListener("keyup", function(event) {
+if (event.keyCode === 13) {
+event.preventDefault();
+document.getElementById("myBtn").click();
+}
+});
+
+var coll = document.getElementsByClassName("collapsible");
+var i;
+
+for (i = 0; i < coll.length; i++) {
+coll[i].addEventListener("click", function() {
+this.classList.toggle("active");
+var content = this.nextElementSibling;
+if (content.style.maxHeight){
+content.style.maxHeight = null;
+} else {
+content.style.maxHeight = content.scrollHeight + "px";
+} 
+});
+}
+</script>
+</html>
+
