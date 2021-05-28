@@ -87,6 +87,7 @@
               var content = nouns[rand1] + " " + determiners[rand2] + " " + verbs[rand3] + " " + adverbs[rand4] + "."
 
               document.getElementById('sentence').innerHTML = content;
+              
               document.getElementById('demo').innerHTML = consultas;
               consultas.push(" " + content.slice(0, -1));
             }
