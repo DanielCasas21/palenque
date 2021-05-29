@@ -144,7 +144,7 @@ background-color:#950536;
 button:hover, button:active {
 background-color: gray;
 color: white;
-    text-align: center;
+text-align: center;
 
 }
 
@@ -173,8 +173,8 @@ width: 100%;
 border: none;
 outline: none;
 font-size: 20px;
-    text-align: center;
-    border: 6px #ffcc01;
+text-align: center;
+border: 6px #ffcc01;
 border-style:double;
 
 }
@@ -182,7 +182,7 @@ border-style:double;
 .active, .collapsible:hover {
 background-color: #046322;
 font-size: 25px;
-    text-align: center;
+text-align: center;
 
 }
 .collapsible {
@@ -194,7 +194,7 @@ border: none;
 text-align: center;
 outline: none;
 font-size: 25px;
-    border: 6px #ffcc01;
+border: 6px #ffcc01;
 border-style:double;
 }
 
