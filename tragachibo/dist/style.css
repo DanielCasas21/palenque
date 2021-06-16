@@ -175,7 +175,8 @@ body {
   font-size: 1.3rem;
 }
 .container .info .prize-table .doubles {
-  padding-right: 2rem;
+  padding-left: 2rem;
+  padding-right: 1rem;
 }
 .container .info .prize-table .prize-item {
   opacity: 0.4;
