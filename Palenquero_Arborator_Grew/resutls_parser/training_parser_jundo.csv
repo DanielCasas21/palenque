@@ -1,0 +1,14 @@
+﻿Index,Project,Language,Sentence_number,Date_Trained,Best_LAS,Epoch
+1,Palenquero_jundo,Palenquero,10,2024-03-26_04:56:13.687,0.1818,72
+2,Palenquero_jundo,Palenquero,20,2024-03-26_04:58:18.054,0.25,84
+3,Palenquero_jundo,Palenquero,30,2024-03-26_05:00:15.916,0.5526,82
+4,Palenquero_jundo,Palenquero,40,2024-03-26_05:02:31.904,0.3966,75
+5,Palenquero_jundo,Palenquero,50,2024-03-26_05:05:39.787,0.5373,71
+6,Palenquero_jundo,Palenquero,60,2024-03-26_05:07:40.442,0.3814,61
+7,Palenquero_jundo,Palenquero,70,2024-03-26_05:09:33.283,0.4255,49
+8,Palenquero_jundo,Palenquero,80,2024-03-26_05:11:19.290,0.4595,51
+9,Palenquero_jundo,Palenquero,90,2024-03-26_05:13:06.709,0.4921,82
+10,Palenquero_jundo,Palenquero,95,2024-03-26_05:15:54.850,0.4841,53
+11,Palenquero_jundo,Palenquero,647,2024-03-26_05:17:52.066,0.7849,28
+12,Palenquero_jundo,Palenquero,1004,2024-03-26_05:21:03.579,0.8184,36
+13,Palenquero_jundo,Palenquero,1525,2024-03-26_05:25:45.472,0.8095,38

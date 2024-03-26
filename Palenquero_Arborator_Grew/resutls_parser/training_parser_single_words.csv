@@ -1,0 +1,8 @@
+﻿Index,Project,Language,Sentence_number,Date_Trained,Best_LAS,Epoch
+1,Palenquero_words,Palenquero,357,2024-03-15_01:14:00.001,1,14
+2,Palenquero_words,Palenquero,521,2024-03-15_01:15:55.701,1,29
+3,Palenquero_words,Palenquero,552,2024-03-15_01:18:29.491,1,32
+4,Palenquero_words,Palenquero,878,2024-03-15_01:29:06.308,0.8949,20
+5,Palenquero_words,Palenquero,909,2024-03-15_01:32:00.806,0.8462,26
+6,Palenquero_words,Palenquero,1073,2024-03-15_01:35:20.434,1,31
+7,Palenquero_words,Palenquero,1430,2024-03-15_01:39:42.678,0.8829,21
