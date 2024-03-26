@@ -1,0 +1,4168 @@
+# sent_id = 4
+# text = Aberúnto.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Aberúnto	aberunto	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 5
+# text = Aggaritá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Aggaritá	aggarita	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 6
+# text = Ajuí.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Ajuí	ajui	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 7
+# text = Akasionáo.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Akasionáo	akasionao	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 8
+# text = Akíba.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Akíba	akiba	ADV	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 9
+# text = Akkansá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Akkansá	akkansa	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 10
+# text = Aló.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Aló	alo	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 11
+# text = Amó.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Amó	amo	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 12
+# text = Anchóba.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Anchóba	anchoba	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 13
+# text = Anchobéro.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Anchobéro	anchobero	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 14
+# text = Anchúncho.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Anchúncho	anchuncho	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 15
+# text = Andi.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Andi	andi	ADP	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 16
+# text = Andómia.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Andómia	andomia	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 17
+# text = Andundéro.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Andundéro	andundero	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 18
+# text = Ané.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Ané	ane	PRON	pp3mp000	Case=Acc,Nom|Number=Plur|Person=3|PronType=Prs	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 19
+# text = Animalá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Animalá	animala	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 20
+# text = Anjá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Anjá	anja	ADV	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 21
+# text = Anjualá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Anjualá	anjuala	INTJ	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 22
+# text = Añarí.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Añarí	anari	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 23
+# text = Añerí.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Añerí	aneri	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 24
+# text = Añukí.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Añukí	anuki	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 25
+# text = Apotaménte.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Apotaménte	apotamente	ADV	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 26
+# text = Arí.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Arí	ari	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 27
+# text = Arrégo.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Arrégo	arrego	ADV	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 28
+# text = Arremónta.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Arremónta	arremonta	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 29
+# text = Asaúra.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Asaúra	asaura	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 30
+# text = Asína.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Asína	asina	ADV	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 31
+# text = Atabaná.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Atabaná	atabana	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 32
+# text = Atré.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Atré	atre	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 33
+# text = Atrinká.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Atrinká	atrinka	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 34
+# text = Awé.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Awé	awe	ADV	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 35
+# text = Baburriáo.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Baburriáo	baburriao	ADJ	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 36
+# text = Báe.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Báe	bae	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 37
+# text = Báeba.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Báeba	baeba	VERB	vmii3s0	Mood=Ind|Tense=Imp|VerbForm=Fin	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 38
+# text = Bagóso.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Bagóso	bagoso	ADJ	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 39
+# text = Bajarekéra.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Bajarekéra	bajarekera	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 40
+# text = Bajiá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Bajiá	bajia	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 41
+# text = Bajopié.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Bajopié	bajopie	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 42
+# text = Bakía.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Bakía	bakia	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 43
+# text = Bakuénsia.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Bakuénsia	bakuensia	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 44
+# text = Bakutáno.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Bakutáno	bakutano	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 45
+# text = Balé.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Balé	bale	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 46
+# text = Bangáño.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Bangáño	bangano	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 47
+# text = Barentiérra.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Barentiérra	barentierra	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 48
+# text = Baríka.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Baríka	barika	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 49
+# text = Baruláko.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Baruláko	barulako	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 50
+# text = Basayá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Basayá	basaya	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 51
+# text = Batajóla.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Batajóla	batajola	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 52
+# text = Bébbo.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Bébbo	bebbo	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 53
+# text = Beléta.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Beléta	beleta	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 54
+# text = Belíyo.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Belíyo	beliyo	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 55
+# text = Besíno.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Besíno	besino	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 56
+# text = Betiká.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Betiká	betika	ADJ	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 57
+# text = Bibióso.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Bibióso	bibioso	ADJ	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 58
+# text = Bilanté.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Bilanté	bilante	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 59
+# text = Bindáso.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Bindáso	bindaso	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 60
+# text = Bínde.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Bínde	binde	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 61
+# text = Bindórrio.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Bindórrio	bindorrio	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 62
+# text = Bíta.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Bíta	bita	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 63
+# text = Bitibíti.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Bitibíti	bitibiti	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 64
+# text = Bitílo.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Bitílo	bitilo	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 65
+# text = Bitúte.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Bitúte	bitute	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 66
+# text = Bo.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Bo	bo	PRON	pp2csn00	Case=Nom|Number=Sing|Person=2|PronType=Prs	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 67
+# text = Bóka.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Bóka	boka	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 68
+# text = Bololó.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Bololó	bololo	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 69
+# text = Bomboímbo.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Bomboímbo	bomboimbo	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 70
+# text = Bongoliá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Bongoliá	bongolia	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 71
+# text = Botrokólo.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Botrokólo	botrokolo	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 72
+# text = Brajutá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Brajutá	brajuta	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 73
+# text = Brujuliá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Brujuliá	brujulia	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 74
+# text = Bunguliá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Bunguliá	bungulia	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 75
+# text = Cha.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Cha	cha	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 76
+# text = Chakucháku.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Chakucháku	chakuchaku	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 77
+# text = Chalá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Chalá	chala	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 78
+# text = Chána.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Chána	chana	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 79
+# text = Cherrechérre.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Cherrechérre	cherrecherre	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 80
+# text = Chichaló.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Chichaló	chichalo	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 82
+# text = Chingá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Chingá	chinga	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 83
+# text = Chisláta.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Chisláta	chislata	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 84
+# text = Chitiá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Chitiá	chitia	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 85
+# text = Chíto.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Chíto	chito	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 86
+# text = Cho.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Cho	cho	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 87
+# text = Chochá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Chochá	chocha	ADJ	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 88
+# text = Chochó.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Chochó	chocho	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 89
+# text = Chókoro.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Chókoro	chokoro	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 90
+# text = Chúbe.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Chúbe	chube	INTJ	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 91
+# text = Chuchuméko.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Chuchuméko	chuchumeko	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 92
+# text = Chungachungá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Chungachungá	chungachunga	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 93
+# text = Deggáo.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Deggáo	deggao	ADJ	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 95
+# text = Ejpénke.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Ejpénke	ejpenke	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 96
+# text = Ejkúro.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Ejkúro	ejkuro	ADJ	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 97
+# text = Ele.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Ele	ele	PRON	pp3ms000	Case=Acc,Nom|Number=Sing|Person=3|PronType=Prs	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 100
+# text = Encholoná.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Encholoná	encholona	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 101
+# text = Endoná.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Endoná	endona	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 102
+# text = Engañifá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Engañifá	enganifa	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 103
+# text = Engringoláo.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Engringoláo	engringolao	ADJ	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 104
+# text = Enkutipá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Enkutipá	enkutipa	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 105
+# text = Enmutetá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Enmutetá	enmuteta	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 106
+# text = Enréo.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Enréo	enreo	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 107
+# text = Ensotá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Ensotá	ensota	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 108
+# text = Entenguesá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Entenguesá	entenguesa	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 109
+# text = Entongá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Entongá	entonga	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 110
+# text = Entumío.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Entumío	entumio	ADJ	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 111
+# text = Entutanáo.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Entutanáo	entutanao	ADJ	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 112
+# text = Etulé.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Etulé	etule	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 113
+# text = Famía.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Famía	famia	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 114
+# text = Fangotá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Fangotá	fangota	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 115
+# text = Fattá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Fattá	fatta	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 116
+# text = Fátta.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Fátta	fatta	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 117
+# text = Fayá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Fayá	faya	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 118
+# text = Féle–féle.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Féle–féle	fele-fele	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 119
+# text = Fíjo.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Fíjo	fijo	ADJ	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 120
+# text = Fleketiá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Fleketiá	fleketia	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 121
+# text = Flénde.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Flénde	flende	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 123
+# text = Fofojén.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Fofojén	fofojen	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 124
+# text = Fondá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Fondá	fonda	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 125
+# text = Funfuniá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Funfuniá	funfunia	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 126
+# text = Funirá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Funirá	funira	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 127
+# text = Gábbo.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Gábbo	gabbo	ADJ	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 128
+# text = Gácho.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Gácho	gacho	ADJ	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 129
+# text = Galúcha.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Galúcha	galucha	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 130
+# text = Gandilá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Gandilá	gandila	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 131
+# text = Garatúsa.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Garatúsa	garatusa	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 132
+# text = Gasúso.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Gasúso	gasuso	ADJ	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 133
+# text = Gobbé.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Gobbé	gobbe	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 134
+# text = Gobenraró.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Gobenraró	gobenraro	ADJ	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 135
+# text = Góro.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Góro	goro	ADJ	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 136
+# text = Guachapiá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Guachapiá	guachapia	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 137
+# text = Guajúpa.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Guajúpa	guajupa	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 138
+# text = Gualá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Gualá	guala	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 139
+# text = Guandandá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Guandandá	guandanda	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 140
+# text = Guapirrúcho.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Guapirrúcho	guapirrucho	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 141
+# text = Guarumá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Guarumá	guaruma	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 142
+# text = Guatiá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Guatiá	guatia	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 143
+# text = Guayúyo.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Guayúyo	guayuyo	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 144
+# text = Ichá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Ichá	icha	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 146
+# text = Ikiédda.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Ikiédda	ikiedda	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 147
+# text = Ilésa.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Ilésa	ilesa	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 148
+# text = Imbá.–imbá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Imbá.–imbá	imba.-imba	ADJ	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 149
+# text = Immateriá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Immateriá	immateria	ADJ	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 150
+# text = Inchéta.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Inchéta	incheta	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 151
+# text = Indénde.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Indénde	indende	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 152
+# text = Inguelá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Inguelá	inguela	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 153
+# text = Insiñá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Insiñá	insina	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 154
+# text = Irentirá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Irentirá	irentira	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 155
+# text = Jaddiá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Jaddiá	jaddia	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 156
+# text = Jáki–jáki.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Jáki–jáki	jaki-jaki	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 157
+# text = Jaraníta.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Jaraníta	jaranita	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 158
+# text = Jarriá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Jarriá	jarria	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 159
+# text = Jáso.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Jáso	jaso	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 160
+# text = Jayá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Jayá	jaya	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 161
+# text = Jégga.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Jégga	jegga	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 162
+# text = Jelé.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Jelé	jele	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 163
+# text = Jémbra.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Jémbra	jembra	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 164
+# text = Jemplá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Jemplá	jempla	ADJ	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 165
+# text = Jénde.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Jénde	jende	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 166
+# text = Jérre ke jérre.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Jérre ke jérre	jerre ke jerre	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 167
+# text = Jíñi–jáña.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Jíñi–jáña	jini-jana	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 168
+# text = Jirí.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Jirí	jiri	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 169
+# text = Jiríla.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Jiríla	jirila	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 170
+# text = Jobéro.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Jobéro	jobero	ADJ	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 171
+# text = Jochá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Jochá	jocha	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 172
+# text = Jokká.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Jokká	jokka	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 173
+# text = Jokkón.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Jokkón	jokkon	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 174
+# text = Jolé.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Jolé	jole	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 175
+# text = Jorompó.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Jorompó	jorompo	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 176
+# text = Juánga.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Juánga	juanga	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 177
+# text = Juansúko.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Juansúko	juansuko	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 178
+# text = Juéba.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Juéba	jueba	VERB	_	Mood=Ind|VerbForm=Fin	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 179
+# text = Jumá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Jumá	juma	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 180
+# text = Jundá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Jundá	junda	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 181
+# text = Júndo.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Júndo	jundo	ADP	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 182
+# text = Jurojúro.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Jurojúro	jurojuro	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 183
+# text = Jusuíta–bongólia.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Jusuíta–bongólia	jusuita-bongolia	ADJ	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 185
+# text = Kabá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Kabá	kaba	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 186
+# text = Kabayíto.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Kabayíto	kabayito	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 187
+# text = Kabbidánte.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Kabbidánte	kabbidante	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 188
+# text = Kabéo.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Kabéo	kabeo	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 189
+# text = Kabúngo.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Kabúngo	kabungo	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 190
+# text = Kachégua.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Kachégua	kachegua	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 191
+# text = Kachíkachí.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Kachíkachí	kachikachi	ADV	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 192
+# text = Kaddumá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Kaddumá	kadduma	ADV	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 193
+# text = Kaddúmen.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Kaddúmen	kaddumen	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 194
+# text = Kaerá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Kaerá	kaera	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 195
+# text = Kaguámo.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Kaguámo	kaguamo	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 196
+# text = Kaí.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Kaí	kai	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 197
+# text = Kajambá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Kajambá	kajamba	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 198
+# text = Káki–káki.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Káki–káki	kaki-kaki	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 199
+# text = Kakkóma.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Kakkóma	kakkoma	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 200
+# text = Kakláka.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Kakláka	kaklaka	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 201
+# text = Kakosío.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Kakosío	kakosio	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 202
+# text = Kakrí.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Kakrí	kakri	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 203
+# text = Kála.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Kála	kala	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 204
+# text = Kalabongó.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Kalabongó	kalabongo	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 205
+# text = Kalambúko.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Kalambúko	kalambuko	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 206
+# text = Kálo.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Kálo	kalo	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 207
+# text = Kamanduléro.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Kamanduléro	kamandulero	ADJ	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 208
+# text = Kambimbéro.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Kambimbéro	kambimbero	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 209
+# text = Kámbio.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Kámbio	kambio	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 210
+# text = Kamonína.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Kamonína	kamonina	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 211
+# text = Kampía.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Kampía	kampia	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 212
+# text = Kanatulé.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Kanatulé	kanatule	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 213
+# text = Kandá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Kandá	kanda	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 214
+# text = Kandándo.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Kandándo	kandando	VERB	vmg0000	VerbForm=Ger	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 215
+# text = Kankamaján.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Kankamaján	kankamajan	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 216
+# text = Kánkamo.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Kánkamo	kankamo	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 217
+# text = Kankaniá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Kankaniá	kankania	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 218
+# text = Kanklón.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Kanklón	kanklon	ADJ	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 219
+# text = Kánne.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Kánne	kanne	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 220
+# text = Kañáña.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Kañáña	kanana	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 221
+# text = Kañañá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Kañañá	kanana	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 222
+# text = Kañonguéro.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Kañonguéro	kanonguero	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 223
+# text = Kapuchichimánga.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Kapuchichimánga	kapuchichimanga	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 224
+# text = Kapurí.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Kapurí	kapuri	ADV	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 225
+# text = Karrusiáno.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Karrusiáno	karrusiano	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 226
+# text = Kasariámbe.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Kasariámbe	kasariambe	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 227
+# text = Kaserío.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Kaserío	kaserio	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 228
+# text = Kasímba.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Kasímba	kasimba	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 229
+# text = Katíya.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Katíya	katiya	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 230
+# text = Katsonário.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Katsonário	katsonario	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 231
+# text = Kayéye.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Kayéye	kayeye	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 232
+# text = Kelé.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Kelé	kele	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 233
+# text = Keléba.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Keléba	keleba	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 234
+# text = Kiñá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Kiñá	kina	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 235
+# text = Kisisún.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Kisisún	kisisun	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 237
+# text = Kochá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Kochá	kocha	ADV	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 238
+# text = Kojé.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Kojé	koje	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 239
+# text = Kokiá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Kokiá	kokia	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 240
+# text = Kokóya.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Kokóya	kokoya	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 241
+# text = Kolá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Kolá	kola	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 242
+# text = Koláo.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Koláo	kolao	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 243
+# text = Kolasó.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Kolasó	kolaso	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 244
+# text = Kolé.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Kolé	kole	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 245
+# text = Koloráo.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Koloráo	kolorao	ADJ	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 246
+# text = Kombibí.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Kombibí	kombibi	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 247
+# text = Kombilésa.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Kombilésa	kombilesa	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 248
+# text = Komensá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Komensá	komensa	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 249
+# text = Kónkola.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Kónkola	konkola	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 250
+# text = Koróna.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Koróna	korona	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 251
+# text = Kosécha.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Kosécha	kosecha	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 252
+# text = Kotáo.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Kotáo	kotao	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 253
+# text = Kótea.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Kótea	kotea	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 254
+# text = Kotúmbre.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Kotúmbre	kotumbre	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 255
+# text = Kribí.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Kribí	kribi	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 256
+# text = Ku.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Ku	ku	ADP	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 257
+# text = Kuá–kuá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Kuá–kuá	kua-kua	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 258
+# text = Kuagrí.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Kuagrí	kuagri	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 259
+# text = Kuagriyá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Kuagriyá	kuagriya	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 260
+# text = Kuchá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Kuchá	kucha	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 261
+# text = Kuchío.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Kuchío	kuchio	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 262
+# text = Kuí–kuí.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Kuí–kuí	kui-kui	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 263
+# text = Kukú.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Kukú	kuku	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 264
+# text = Kulá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Kulá	kula	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 265
+# text = Kumé.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Kumé	kume	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 266
+# text = Kuméndo.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Kuméndo	kumendo	VERB	vmg0000	VerbForm=Ger	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 267
+# text = Kúmo?.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Kúmo?	kumo?	ADV	WRB	PronType=In	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 268
+# text = Kundí.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Kundí	kundi	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 269
+# text = Kupéta.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Kupéta	kupeta	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 270
+# text = Kurrutén.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Kurrutén	kurruten	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 271
+# text = Kúsa.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Kúsa	kusa	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 272
+# text = Kusílo.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Kusílo	kusilo	VERB	_	Mood=Imp|VerbForm=Fin	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 273
+# text = Kusína.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Kusína	kusina	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 274
+# text = Labandóngo.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Labandóngo	labandongo	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 275
+# text = Lambicón.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Lambicón	lambicon	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 276
+# text = Lambío.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Lambío	lambio	ADJ	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 277
+# text = Lampariá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Lampariá	lamparia	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 278
+# text = Láncho.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Láncho	lancho	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 279
+# text = Lánde.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Lánde	lande	ADV	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 280
+# text = Laríno.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Laríno	larino	ADJ	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 281
+# text = Lató.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Lató	lato	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 282
+# text = Lauriá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Lauriá	lauria	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 283
+# text = Léa.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Léa	lea	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 284
+# text = Lemério.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Lemério	lemerio	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 285
+# text = Lendrá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Lendrá	lendra	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 286
+# text = Liberá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Liberá	libera	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 287
+# text = Libettá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Libettá	libetta	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 288
+# text = Lokusión.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Lokusión	lokusion	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 289
+# text = Lolé.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Lolé	lole	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 290
+# text = Lompé.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Lompé	lompe	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 291
+# text = Lósa.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Lósa	losa	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 292
+# text = Losário.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Losário	losario	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 293
+# text = Lóyo.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Lóyo	loyo	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 294
+# text = Lungá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Lungá	lunga	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 295
+# text = Lúngo.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Lúngo	lungo	ADJ	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 296
+# text = Ma.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Ma	ma	DET	DET	Number=Plur	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 299
+# text = Maána.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Maána	maana	ADV	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 300
+# text = Maddesío.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Maddesío	maddesio	ADJ	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 301
+# text = Mafúfo.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Mafúfo	mafufo	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 302
+# text = Majá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Majá	maja	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 303
+# text = Majaná.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Majaná	majana	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 304
+# text = Majiá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Majiá	majia	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 305
+# text = Majiándo.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Majiándo	majiando	VERB	vmg0000	VerbForm=Ger	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 306
+# text = Majojó.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Majojó	majojo	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 307
+# text = Ma kkaró.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Ma kkaró	ma kkaro	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 308
+# text = Makokóa.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Makokóa	makokoa	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 310
+# text = Malobó.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Malobó	malobo	PROPN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 312
+# text = Malúko.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Malúko	maluko	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 313
+# text = Mampángalo.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Mampángalo	mampangalo	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 314
+# text = Mandí.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Mandí	mandi	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 315
+# text = Manguála.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Manguála	manguala	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 316
+# text = Maniná.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Maniná	manina	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 317
+# text = Manío.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Manío	manio	ADJ	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 318
+# text = Mappechéro.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Mappechéro	mappechero	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 319
+# text = Marabáya.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Marabáya	marabaya	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 320
+# text = Matréro.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Matréro	matrero	ADJ	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 321
+# text = Mattesiéro.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Mattesiéro	mattesiero	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 322
+# text = Mattingála.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Mattingála	mattingala	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 323
+# text = Mémo.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Mémo	memo	ADJ	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 324
+# text = Mendá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Mendá	menda	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 325
+# text = Mi.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Mi	mi	DET	dp1css	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 326
+# text = Miná.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Miná	mina	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 327
+# text = Minándo.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Minándo	minando	VERB	vmg0000	VerbForm=Ger	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 328
+# text = Miní.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Miní	mini	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 329
+# text = Molé.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Molé	mole	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 330
+# text = Molóngo.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Molóngo	molongo	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 331
+# text = Molóte.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Molóte	molote	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 333
+# text = Moná.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Moná	mona	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 334
+# text = Motrá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Motrá	motra	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 335
+# text = Mugá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Mugá	muga	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 336
+# text = Mujigánga.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Mujigánga	mujiganga	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 337
+# text = Mulúmba.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Mulúmba	mulumba	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 338
+# text = Mulumbiá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Mulumbiá	mulumbia	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 339
+# text = Muñínga.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Muñínga	muninga	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 340
+# text = Musukutú.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Musukutú	musukutu	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 341
+# text = Musungú.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Musungú	musungu	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 342
+# text = Nbasí.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Nbasí	nbasi	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 343
+# text = Nbláso.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Nbláso	nblaso	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 344
+# text = Nblélo.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Nblélo	nblelo	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 345
+# text = Nboló.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Nboló	nbolo	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 346
+# text = Nbosá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Nbosá	nbosa	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 347
+# text = Nbósa.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Nbósa	nbosa	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 348
+# text = Nbóso.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Nbóso	nboso	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 349
+# text = Nbúlo.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Nbúlo	nbulo	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 350
+# text = Ndá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Ndá	nda	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 351
+# text = Ndoló.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Ndoló	ndolo	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 352
+# text = Ndondá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Ndondá	ndonda	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 353
+# text = Ndrumí.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Ndrumí	ndrumi	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 354
+# text = Ndulísimo.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Ndulísimo	ndulisimo	ADV	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 355
+# text = Ndúlo.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Ndúlo	ndulo	ADJ	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 356
+# text = Ndúse.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Ndúse	nduse	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 357
+# text = Ngachá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Ngachá	ngacha	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 358
+# text = Ngaína.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Ngaína	ngaina	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 359
+# text = Ngaináso.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Ngaináso	ngainaso	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 360
+# text = Ngainéta.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Ngainéta	ngaineta	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 361
+# text = Ngalá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Ngalá	ngala	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 362
+# text = Ngalúcha.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Ngalúcha	ngalucha	ADV	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 363
+# text = Ngána.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Ngána	ngana	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 364
+# text = Ngánde.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Ngánde	ngande	ADJ	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 365
+# text = Ngólo.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Ngólo	ngolo	ADJ	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 366
+# text = Ngómbe.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Ngómbe	ngombe	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 367
+# text = Ngopiá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Ngopiá	ngopia	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 368
+# text = Ngóso.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Ngóso	ngoso	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 369
+# text = Ngóta.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Ngóta	ngota	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 370
+# text = Ngotiá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Ngotiá	ngotia	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 371
+# text = Ngotíka.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Ngotíka	ngotika	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 372
+# text = Ngritá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Ngritá	ngrita	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 373
+# text = Nguinéo.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Nguinéo	nguineo	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 374
+# text = Ngúrria–ngúrria.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Ngúrria–ngúrria	ngurria-ngurria	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 375
+# text = Ngusalá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Ngusalá	ngusala	ADJ	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 376
+# text = Ngusáno.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Ngusáno	ngusano	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 377
+# text = Ngutá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Ngutá	nguta	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 378
+# text = Ñangá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Ñangá	nanga	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 379
+# text = Ñángo.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Ñángo	nango	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 380
+# text = Ñébbo.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Ñébbo	nebbo	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 382
+# text = Ñía.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Ñía	nia	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 383
+# text = Ñímba.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Ñímba	nimba	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 384
+# text = Ñingá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Ñingá	ninga	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 385
+# text = Ñingotá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Ñingotá	ningota	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 386
+# text = Ñirílo.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Ñirílo	nirilo	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 387
+# text = Ñóñora.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Ñóñora	nonora	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 388
+# text = Ñópo.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Ñópo	nopo	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 389
+# text = Obípo.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Obípo	obipo	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 390
+# text = Ojiá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Ojiá	ojia	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 391
+# text = Ójo.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Ójo	ojo	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 392
+# text = Omble.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Omble	omble	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 393
+# text = Orisontá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Orisontá	orisonta	ADJ	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 394
+# text = Óya.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Óya	oya	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 395
+# text = Pa.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Pa	pa	ADP	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 396
+# text = Pachotá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Pachotá	pachota	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 397
+# text = Páko–páko.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Páko–páko	pako-pako	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 398
+# text = Palitroká.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Palitroká	palitroka	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 399
+# text = Pampliná.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Pampliná	pamplina	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 400
+# text = Pándo.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Pándo	pando	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 401
+# text = Páto–kuchára.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Páto–kuchára	pato-kuchara	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 402
+# text = Pegáña.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Pegáña	pegana	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 403
+# text = Pegasáya.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Pegasáya	pegasaya	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 404
+# text = Pegatíro.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Pegatíro	pegatiro	ADJ	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 405
+# text = Pegóste.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Pegóste	pegoste	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 406
+# text = Pélo Cho féle.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Pélo Cho féle	pelo cho fele	ADJ	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 407
+# text = Pélo.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Pélo	pelo	NOUN	ncms000	Gender=Masc|Number=Sing	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 408
+# text = Pendolá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Pendolá	pendola	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 409
+# text = Péndola.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Péndola	pendola	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 410
+# text = Penkiá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Penkiá	penkia	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 411
+# text = Períngo.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Períngo	peringo	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 413
+# text = Piangulí.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Piangulí	pianguli	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 414
+# text = Piéto.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Piéto	pieto	ADJ	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 415
+# text = Pikuéta.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Pikuéta	pikueta	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 416
+# text = Pikuetéro.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Pikuetéro	pikuetero	ADJ	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 417
+# text = Pindán.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Pindán	pindan	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 418
+# text = Pindangán.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Pindangán	pindangan	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 419
+# text = Pínga.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Pínga	pinga	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 420
+# text = Pitónga.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Pitónga	pitonga	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 421
+# text = Plánda.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Plánda	planda	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 422
+# text = Plundá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Plundá	plunda	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 424
+# text = Póndo.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Póndo	pondo	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 425
+# text = Ponína.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Ponína	ponina	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 426
+# text = Puéla.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Puéla	puela	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 427
+# text = Puénde.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Puénde	puende	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 428
+# text = Puntrí.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Puntrí	puntri	ADV	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 429
+# text = Raurrá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Raurrá	raurra	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 430
+# text = Rebujéna.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Rebujéna	rebujena	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 431
+# text = Refunfuniá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Refunfuniá	refunfunia	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 432
+# text = Regatón.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Regatón	regaton	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 433
+# text = Rejá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Rejá	reja	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 434
+# text = Rékara.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Rékara	rekara	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 435
+# text = Rekonkómia.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Rekonkómia	rekonkomia	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 436
+# text = Rekonosé.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Rekonosé	rekonose	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 437
+# text = Rekúla.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Rekúla	rekula	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 438
+# text = Rekulá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Rekulá	rekula	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 439
+# text = Rénje.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Rénje	renje	ADV	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 440
+# text = Repetá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Repetá	repeta	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 441
+# text = Reprendé.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Reprendé	reprende	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 442
+# text = Repué.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Repué	repue	ADV	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 443
+# text = Rerécha.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Rerécha	rerecha	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 444
+# text = Rerécho.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Rerécho	rerecho	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 445
+# text = Resattá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Resattá	resatta	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 446
+# text = Ría.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Ría	ria	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 447
+# text = Riánche.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Riánche	rianche	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 448
+# text = Ríba.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Ríba	riba	ADP	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 449
+# text = Ribirí.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Ribirí	ribiri	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 450
+# text = Riénde.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Riénde	riende	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 451
+# text = Rióso.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Rióso	rioso	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 452
+# text = Ritáo.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Ritáo	ritao	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 453
+# text = Ritinguisió.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Ritinguisió	ritinguisio	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 454
+# text = Rokléro.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Rokléro	roklero	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 455
+# text = Romíngo.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Romíngo	romingo	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 457
+# text = Ruáko.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Ruáko	ruako	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 458
+# text = Sa.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Sa	sa	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 459
+# text = Sabé.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Sabé	sabe	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 460
+# text = Sajá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Sajá	saja	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 461
+# text = Salejoncíto.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Salejoncíto	salejoncito	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 462
+# text = Sambapálo.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Sambapálo	sambapalo	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 463
+# text = Samilongongó.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Samilongongó	samilongongo	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 464
+# text = Sampintéro.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Sampintéro	sampintero	ADJ	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 465
+# text = Sándo.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Sándo	sando	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 466
+# text = Sangariamusá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Sangariamusá	sangariamusa	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 467
+# text = Sangarriá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Sangarriá	sangarria	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 468
+# text = Sangulutiá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Sangulutiá	sangulutia	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 469
+# text = Sarapíto.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Sarapíto	sarapito	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 470
+# text = Sausá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Sausá	sausa	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 471
+# text = Selá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Selá	sela	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 472
+# text = Selelé.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Selelé	selele	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 473
+# text = Semblá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Semblá	sembla	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 474
+# text = Sendá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Sendá	senda	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 475
+# text = Settó.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Settó	setto	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 476
+# text = Sibunná.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Sibunná	sibunna	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 477
+# text = Siénaga.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Siénaga	sienaga	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 478
+# text = Siérra.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Siérra	sierra	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 479
+# text = Síko–síko.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Síko–síko	siko-siko	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 480
+# text = Simarrón.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Simarrón	simarron	ADJ	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 484
+# text = Sindí.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Sindí	sindi	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 485
+# text = Singuisárria.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Singuisárria	singuisarria	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 486
+# text = Sinsibirí.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Sinsibirí	sinsibiri	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 487
+# text = Sinsiná.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Sinsiná	sinsina	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 488
+# text = So.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	So	so	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 489
+# text = Sokróso.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Sokróso	sokroso	ADJ	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 490
+# text = Solisísmo.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Solisísmo	solisismo	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 491
+# text = Soná.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Soná	sona	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 492
+# text = Sonío.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Sonío	sonio	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 493
+# text = Sorombático.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Sorombático	sorombatico	ADJ	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 494
+# text = Sosiá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Sosiá	sosia	ADJ	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 495
+# text = Soyáo.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Soyáo	soyao	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 497
+# text = Sokisóki–sokisóki.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Sokisóki–sokisóki	sokisoki-sokisoki	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 498
+# text = Sunguiá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Sunguiá	sunguia	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 499
+# text = Susá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Susá	susa	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 500
+# text = Súto.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Súto	suto	PRON	pp1mp000	Case=Acc,Nom|Number=Plur|Person=1|PronType=Prs	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 501
+# text = Tándo.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Tándo	tando	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 502
+# text = Tapangolé.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Tapangolé	tapangole	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 503
+# text = Tarabíta Molína.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Tarabíta Molína	tarabita molina	ADJ	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 504
+# text = Tarrayá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Tarrayá	tarraya	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 505
+# text = Tatá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Tatá	tata	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 506
+# text = Táttara.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Táttara	tattara	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 507
+# text = Tefú.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Tefú	tefu	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 508
+# text = Teklíya.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Teklíya	tekliya	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 509
+# text = Tekliyéro.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Tekliyéro	tekliyero	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 510
+# text = Tendá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Tendá	tenda	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 511
+# text = Tetemblá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Tetemblá	tetembla	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 512
+# text = Tiéla.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Tiéla	tiela	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 513
+# text = Tiémbo.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Tiémbo	tiembo	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 514
+# text = Tilá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Tilá	tila	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 515
+# text = Tinanína.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Tinanína	tinanina	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 516
+# text = Tisó.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Tisó	tiso	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 517
+# text = Titiritá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Titiritá	titirita	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 519
+# text = To puéta.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	To puéta	to pueta	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 520
+# text = Tolondrón.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Tolondrón	tolondron	ADJ	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 521
+# text = Tolonjúo.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Tolonjúo	tolonjuo	ADJ	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 522
+# text = Tontína.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Tontína	tontina	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 523
+# text = Topatópa.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Topatópa	topatopa	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 524
+# text = Torabía.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Torabía	torabia	ADV	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 525
+# text = Totó.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Totó	toto	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 526
+# text = Totoporópo.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Totoporópo	totoporopo	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 527
+# text = Trakutiá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Trakutiá	trakutia	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 528
+# text = Trarisió.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Trarisió	trarisio	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 529
+# text = Tretéro.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Tretéro	tretero	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 530
+# text = Tronchá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Tronchá	troncha	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 531
+# text = Tunánte.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Tunánte	tunante	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 532
+# text = Tungananá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Tungananá	tunganana	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 533
+# text = Tunguléra.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Tunguléra	tungulera	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 534
+# text = Tuntuniá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Tuntuniá	tuntunia	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 535
+# text = Turruláto.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Turruláto	turrulato	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 536
+# text = Tusí.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Tusí	tusi	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 537
+# text = Tutía.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Tutía	tutia	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 538
+# text = Umaná.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Umaná	umana	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 539
+# text = Umbá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Umbá	umba	INTJ	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 540
+# text = Usénge.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Usénge	usenge	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 541
+# text = Yegá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Yegá	yega	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 542
+# text = Yolá.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Yolá	yola	VERB	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 543
+# text = Yolófo.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Yolófo	yolofo	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 544
+# text = Yómbo.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Yómbo	yombo	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 545
+# text = Yúbia.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Yúbia	yubia	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 546
+# text = Yúka.
+# source = DICCIONARIO DE LA LENGUA PALENQUERA
+# authors = Álvaro Enrique Triviño Doval, Luis Simarra Reyes
+# year = 2012
+1	Yúka	yuka	NOUN	_	_	0	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+

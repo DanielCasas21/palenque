@@ -1,0 +1,113 @@
+# sent_id = 51
+# text = bo a be dotó ke ta kurá-ndo ?
+1	bo	_	PRON	_	_	3	nsubj	_	_
+2	a	_	AUX	_	_	3	aux	_	_
+3	be	_	VERB	_	_	0	root	_	_
+4	dotó	_	NOUN	_	_	3	iobj	_	_
+5	ke	_	PRON	_	_	7	nsubj	_	_
+6	ta	_	AUX	_	_	7	aux	_	_
+7	kurá-ndo	_	VERB	_	_	4	acl	_	_
+8	?	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 52
+# text = sutota kumé lendro monde .
+1	suto	_	PRON	_	_	3	nsubj	_	_
+2	ta	_	AUX	_	_	3	aux	_	_
+3	kumé	kumé	VERB	_	_	0	root	_	_
+4	lendro	_	ADV	_	_	3	advmod	_	_
+5	monde	_	NOUN	_	_	4	obl	_	_
+6	.	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 53
+# text = siempre i asé kombesá ku ané .
+1	siempre	_	ADV	_	_	4	advmod	_	_
+2	i	_	PRON	_	_	4	nsubj	_	_
+3	asé	_	AUX	_	_	4	aux	_	_
+4	kombesá	_	VERB	_	_	0	root	_	_
+5	ku	_	ADP	_	_	6	case	_	_
+6	ané	_	PRON	_	_	4	obl:arg	_	_
+7	.	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 54
+# text = majaná ri aola asé kelé pegá mamá i pegá tatá .
+1	majaná	_	NOUN	_	_	5	nsubj	_	_
+2	ri	_	ADP	_	_	3	case	_	_
+3	aola	_	ADV	_	_	1	advmod	_	_
+4	asé	_	AUX	_	_	5	aux	_	_
+5	kelé	_	VERB	_	_	0	root	_	_
+6	pegá	_	VERB	_	_	5	xcomp	_	_
+7	mamá	_	NOUN	_	_	6	obj	_	_
+8	i	_	CCONJ	_	_	9	cc	_	_
+9	pegá	_	VERB	_	_	6	conj	_	_
+10	tatá	_	NOUN	_	_	9	obj	_	_
+11	.	_	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 55
+# text = ma tatá suto asé nda suto nguto .
+1	ma	_	DET	_	_	2	nummod	_	_
+2	tatá	_	NOUN	_	_	5	nsubj	_	_
+3	suto	_	PRON	_	_	2	nmod:poss	_	_
+4	asé	_	AUX	_	_	5	aux	_	_
+5	nda	_	VERB	_	_	0	root	_	_
+6	suto	_	PRON	_	_	5	iobj	_	_
+7	nguto	_	NOUN	_	_	5	obj	_	_
+8	.	_	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 56
+# text = awé mahaná asé bailá masuka nu .
+1	agué	_	ADV	_	_	4	advmod	_	_
+2	majaná	_	NOUN	_	_	4	nsubj	_	_
+3	asé	_	AUX	_	_	4	aux	_	_
+4	bailá	_	VERB	_	_	0	root	_	_
+5	masuka	_	NOUN	_	_	4	obj	_	_
+6	nu	_	ADV	_	_	4	advmod	_	_
+7	.	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 57
+# text = ma jende kuenda ke andi karro ele a meté droga .
+1	ma	_	DET	_	_	2	nummod	_	_
+2	jende	_	NOUN	_	_	3	nsubj	_	_
+3	kuenda	_	VERB	_	_	0	root	_	_
+4	ke	_	SCONJ	_	_	9	mark	_	_
+5	andi	_	ADP	_	_	6	case	_	_
+6	karro	_	NOUN	_	_	9	obl	_	_
+7	ele	_	PRON	_	_	6	det	_	_
+8	a	_	AUX	_	_	9	aux	_	_
+9	meté	_	VERB	_	_	3	ccomp	_	_
+10	droga	_	NOUN	_	_	9	obj	_	_
+11	.	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 58
+# text = i a sabé ke a tené-ba ndo amigo .
+1	i	_	PRON	_	_	3	nsubj	_	_
+2	a	_	AUX	_	_	3	aux	_	_
+3	sabé	_	VERB	_	_	0	ccomp	_	_
+4	ke	_	SCONJ	_	_	6	mark	_	_
+5	a	_	AUX	_	_	6	aux	_	_
+6	tené-ba	tené	VERB	_	_	3	ccomp	_	_
+7	ndo	_	DET	_	_	8	nummod	_	_
+8	amigo	amigo	NOUN	_	_	6	obj	_	_
+9	.	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 59
+# text = suto é tre ke ten intrumento nu .
+1	suto	_	PRON	_	_	3	nsubj	_	_
+2	é	_	VERB	_	_	3	cop	_	_
+3	tre	_	DET	_	_	0	root	_	_
+4	ke	_	PRON	_	_	5	nsubj	_	_
+5	ten	_	VERB	_	_	3	advcl	_	_
+6	intrumento	_	NOUN	_	_	5	obj	_	_
+7	nu	_	ADV	_	_	5	advmod	_	_
+8	.	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 60
+# text = a tené jende ke ngutá-lo tambó nu .
+1	a	_	AUX	_	_	2	aux	_	_
+2	tené	_	VERB	_	_	0	root	_	_
+3	jende	_	NOUN	_	_	2	nsubj	_	_
+4	ke	_	PRON	_	_	5	nsubj	_	_
+5	ngutá-lo	_	VERB	_	_	3	acl:relcl	_	_
+6	tambó	_	NOUN	_	_	5	obj	_	_
+7	nu	_	ADV	_	_	5	advmod	_	_
+8	.	_	PUNCT	_	_	2	_	_	_
+

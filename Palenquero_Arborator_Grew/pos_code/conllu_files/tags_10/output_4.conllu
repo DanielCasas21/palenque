@@ -1,0 +1,95 @@
+# sent_id = 41
+# text = majaná ri aola ta repetá ma nu .
+1	majaná	_	NOUN	_	_	5	nsubj	_	_
+2	ri	_	ADP	_	_	3	case	_	_
+3	aola	_	ADV	_	_	1	advmod	_	_
+4	ta	_	AUX	_	_	5	aux	_	_
+5	repetá	_	VERB	_	_	0	root	_	_
+6	ma	_	ADV	_	_	5	advmod	_	_
+7	nu	_	ADV	_	_	5	advmod	_	_
+8	.	_	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 42
+# text = bo nunka a peká lovo nu ?
+1	bo	_	PRON	_	_	4	nsubj	_	_
+2	nunka	_	ADV	_	_	4	advmod	_	_
+3	a	_	AUX	_	_	4	aux	_	_
+4	peká	_	VERB	_	_	0	root	_	_
+5	loyo	_	NOUN	_	_	4	nmod	_	_
+6	nu	_	ADV	_	_	4	advmod	_	_
+7	?	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 43
+# text = bo a polé salí kaya nu .
+1	bo	_	PRON	_	_	4	nsubj	_	_
+2	a	_	AUX	_	_	4	aux	_	_
+3	polé	_	VERB	_	_	4	aux	_	_
+4	salí	_	VERB	_	_	0	root	_	_
+5	kaya	_	NOUN	_	_	4	nmod	_	_
+6	nu	_	ADV	_	_	4	advmod	_	_
+7	.	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 44
+# text = aola polé semblá kaña andi ma losa nu .
+1	aola	_	ADV	_	_	3	advmod	_	_
+2	polé	_	VERB	_	_	3	aux	_	_
+3	semblá	_	VERB	_	_	_	_	_	_
+4	kaña	_	NOUN	_	_	3	obj	_	_
+5	andi	_	ADP	_	_	7	case	_	_
+6	ma	_	DET	_	_	7	nummod	_	_
+7	losa	_	NOUN	_	_	3	obl	_	_
+8	nu	_	ADV	_	_	3	advmod	_	_
+9	.	_	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 45
+# text = i kelé asaura nu .
+1	i	_	PRON	_	_	2	nsubj	_	_
+2	kelé	_	VERB	_	_	0	root	_	_
+3	asaura	_	NOUN	_	_	2	obj	_	_
+4	nu	_	ADV	_	_	2	advmod	_	_
+5	.	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 46
+# text = bo polé peliá ku Fransika .
+1	bo	_	PRON	_	_	3	nsubj	_	_
+2	polé	_	VERB	_	_	3	aux	_	_
+3	peliá	_	VERB	_	_	0	root	_	_
+4	ku	_	ADP	_	_	5	case	_	_
+5	Fransika	_	PROPN	_	_	3	obj	_	_
+6	.	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 47
+# text = asina jue .
+1	asina	_	ADV	_	_	0	root	_	_
+2	jue	_	VERB	_	_	1	cop	_	_
+3	!	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 48
+# text = kuando ané mini i resibi ané nu .
+1	kuando	_	SCONJ	_	_	3	mark	_	_
+2	ané	_	PRON	_	_	3	nsubj	_	_
+3	mini	miní	VERB	_	_	5	advcl	_	_
+4	i	_	PRON	_	_	5	nsubj	_	_
+5	resibi	resibí	VERB	_	_	0	root	_	_
+6	ané	_	PRON	_	_	5	obj	_	_
+7	nu	_	ADV	_	_	5	advmod	_	_
+8	.	_	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 49
+# text = ané ta mini po lamañana .
+1	ané	_	PRON	_	_	3	nsubj	_	_
+2	ta	_	AUX	_	_	3	aux	_	_
+3	mini	_	VERB	_	_	0	root	_	_
+4	po	_	ADP	_	_	6	case	_	_
+5	la	_	DET	_	_	6	det	_	_
+6	mañana	_	NOUN	_	_	3	obl	_	_
+7	.	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 50
+# text = bo ta nganá mi .
+1	bo	_	PRON	_	_	3	nsubj	_	_
+2	ta	_	AUX	_	_	3	aux	_	_
+3	nganá	_	VERB	_	_	0	root	_	_
+4	mi	_	PRON	_	_	3	obj	_	_
+5	.	_	PUNCT	_	_	3	punct	_	_
+

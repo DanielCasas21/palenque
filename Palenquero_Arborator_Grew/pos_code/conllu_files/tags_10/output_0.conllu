@@ -1,0 +1,97 @@
+# sent_id = 1
+# text = suto ta chitiá lengua .
+1	suto	suto	PRON	_	_	3	nsubj	_	_
+2	ta	ta	AUX	_	_	3	aux	_	_
+3	chitiá	chitiá	VERB	_	_	0	root	_	_
+4	lengua	lengua	NOUN	_	_	3	obj	_	_
+5	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 2
+# text = María a mini agué .
+1	María	María	PROPN	_	_	3	nsubj	_	_
+2	a	a	AUX	_	_	3	aux	_	_
+3	miní	miní	VERB	_	_	0	root	_	_
+4	agué	ague	ADV	_	_	3	advmod	_	_
+5	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 3
+# text = i tan komblá un kasa .
+1	i	i	PRON	_	_	3	nsubj	_	_
+2	tan	tan	AUX	_	_	3	aux	_	_
+3	komblá	komblá	VERB	_	_	0	root	_	_
+4	un	un	DET	_	_	5	det	_	_
+5	kasa	kasa	NOUN	_	_	3	obj	_	_
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 4
+# text = un ma ngaina blanko .
+1	un	un	DET	_	_	3	det	_	_
+2	ma	ma	DET	_	_	3	nummod	_	_
+3	ngaina	ngaina	NOUN	_	_	0	root	_	_
+4	blanko	blanko	ADJ	_	_	3	amod	_	_
+5	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 5
+# text = i tan ablá bo un kusa .
+1	i	i	PRON	_	_	3	nsubj	_	_
+2	tan	tan	AUX	_	_	3	aux	_	_
+3	ablá	ablá	VERB	_	_	0	root	_	_
+4	bo	bo	PRON	_	_	3	iobj	_	_
+5	un	un	DET	_	_	6	det	_	_
+6	kusa	kusa	NOUN	_	_	3	obj	_	_
+7	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 6
+# text = bo a jayá mujé seloso .
+1	bo	bo	PRON	_	_	3	nsubj	_	_
+2	a	a	AUX	_	_	3	aux	_	_
+3	jayá	jayá	VERB	_	_	0	root	_	_
+4	mujé	mujé	NOUN	_	_	3	obj	_	_
+5	seloso	sells	ADJ	_	_	4	amod	_	_
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 7
+# text = i tan kumé kumina mi pokke tan poné frio .
+1	i	i	PRON	_	_	3	nsubj	_	_
+2	tan	tan	AUX	_	_	3	aux	_	_
+3	kumé	kumé	VERB	_	_	0	root	_	_
+4	kumina	_	NOUN	_	_	3	obj	_	_
+5	mi	_	PRON	_	_	4	det	_	_
+6	pokke	_	SCONJ	_	_	8	mark	_	_
+7	tan	_	AUX	_	_	8	aux	_	_
+8	poné	_	VERB	_	_	3	advcl	_	_
+9	frio	_	ADJ	_	_	8	amod	_	_
+10	.	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 8
+# text = kuandi mamá mi ta-ba bibo .
+1	kuandi	_	ADV	_	_	5	mark	_	_
+2	mamá	_	NOUN	_	_	5	nsubj	_	_
+3	mi	_	PRON	_	_	2	det	_	_
+4	ta-ba	_	AUX	_	_	5	cop	_	_
+5	bibo	_	ADJ	_	_	0	root	_	_
+6	.	_	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 9
+# text = en eje ma tiembo ma kusa ta-ba mejó .
+1	en	_	ADP	_	_	4	case	_	_
+2	eje	_	DET	_	_	4	det	_	_
+3	ma	_	DET	_	_	4	nummod	_	_
+4	tiembo	_	NOUN	_	_	8	obl	_	_
+5	ma	_	DET	_	_	6	nummod	_	_
+6	kusa	_	NOUN	_	_	8	nsubj	_	_
+7	ta-ba	_	AUX	_	_	8	cop	_	_
+8	mejó	_	ADJ	_	_	0	root	_	_
+9	.	_	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 10
+# text = i a kelá ku ma tio mi .
+1	i	_	PRON	_	_	3	nsubj	_	_
+2	a	_	AUX	_	_	3	aux	_	_
+3	kelá	_	VERB	_	_	0	root	_	_
+4	ku	_	ADP	_	_	6	case	_	_
+5	ma	_	DET	_	_	6	nummod	_	_
+6	tio	_	NOUN	_	_	3	obl	_	_
+7	mi	_	PRON	_	_	6	det	_	_
+8	.	_	PUNCT	_	_	3	punct	_	_
+

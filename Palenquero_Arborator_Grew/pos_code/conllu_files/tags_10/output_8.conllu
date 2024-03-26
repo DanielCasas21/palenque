@@ -1,0 +1,106 @@
+# sent_id = 81
+# text = maílo mi kumo tan polé ku ané ndo?
+1	maílo	_	NOUN	_	_	5	nsubj	_	_
+2	mi	_	PRON	_	_	1	det	_	_
+3	kumo	_	ADV	_	_	5	advmod	_	_
+4	tan	_	AUX	_	_	5	aux	_	_
+5	polé	_	VERB	_	_	0	root	_	_
+6	ku	_	ADP	_	_	7	case	_	_
+7	ané	_	PRON	_	_	5	obl	_	_
+8	ndo?	_	NOUN	_	_	7	num	_	_
+
+# sent_id = 82
+# text = ma ndo muchachito sabé nu, ninguno ané ndo nú
+1	ma	_	DET	_	_	3	det	_	_
+2	ndo	_	DET	_	_	3	num	_	_
+3	muchachito	_	NOUN	_	_	4	nsubj	_	_
+4	sabé	_	AUX	_	_	0	root	_	_
+5	nu,	_	ADV	_	_	4	advmod	_	_
+6	ninguno	_	PRON	_	_	4	nmod	_	_
+7	ané	_	PRON	_	_	6	nmod	_	_
+8	ndo	_	NUM	_	_	7	num	_	_
+9	nú	_	ADV	_	_	6	advmod	_	_
+
+# sent_id = 83
+# text = i ta akí pa kotentá bo .
+1	i	_	PRON	_	_	3	nsubj	_	_
+2	ta	_	AUX	_	_	3	cop	_	_
+3	akí	_	ADV	_	_	0	root	_	_
+4	pa	_	ADP	_	_	5	mark	_	_
+5	kotentá	_	VERB	_	_	3	ccomp	_	_
+6	bo	_	PRON	_	_	5	obj	_	_
+7	.	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 84
+# text = to ané ta akí juela .
+1	to	_	PRON	_	_	2	det	_	_
+2	ané	_	PRON	_	_	5	nsubj	_	_
+3	ta	_	AUX	_	_	4	cop	_	_
+4	akí	_	ADV	_	_	5	advmod	_	_
+5	juela	_	ADV	_	_	0	root	_	_
+6	.	_	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 85
+# text = bo ta namorao nieta mi .
+1	bo	_	PRON	_	_	3	nsubj	_	_
+2	ta	_	AUX	_	_	3	cop	_	_
+3	namorao	_	NOUN	_	_	0	root	_	_
+4	nieta	_	NOUN	_	_	3	obl	_	_
+5	mi	_	PRON	_	_	4	det	_	_
+6	.	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 86
+# text = i ta ri akueddo ku bo nu .
+1	i	_	PRON	_	_	3	subj	_	_
+2	ta	_	AUX	_	_	3	cop	_	_
+3	ri	_	ADP	_	_	0	root	_	_
+4	akueddo	_	NOUN	_	_	3	fixed	_	_
+5	ku	_	ADP	_	_	6	case	_	_
+6	bo	_	PRON	_	_	3	obl	_	_
+7	nu	_	ADV	_	_	3	mod	_	_
+8	.	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 87
+# text = bo a ta bien malao .
+1	bo	_	PRON	_	_	5	nsubj	_	_
+2	a	_	AUX	_	_	3	aux	_	_
+3	ta	_	AUX	_	_	5	cop	_	_
+4	bien	_	ADV	_	_	5	advmod	_	_
+5	malao	_	ADJ	_	_	0	root	_	_
+6	.	_	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 88
+# text = ma jende a ta má abietto .
+1	ma	_	DET	_	_	2	nummod	_	_
+2	jende	_	NOUN	_	_	6	nsubj	_	_
+3	a	_	AUX	_	_	4	aux	_	_
+4	ta	_	AUX	_	_	6	cop	_	_
+5	má	_	ADV	_	_	6	advmod	_	_
+6	abietto	_	ADJ	_	_	0	root	_	_
+7	.	_	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 89
+# text = I a ten ke bae andi ese niña .
+1	I	i	PRON	_	_	3	nsubj	_	_
+2	a	a	AUX	_	_	3	aux	_	_
+3	ten	ten	VERB	_	_	0	root	_	_
+4	ke	ke	SCONJ	_	_	5	cc	_	_
+5	bae	bae	VERB	_	_	3	conj	_	_
+6	andi	andi	ADP	_	_	8	case	_	_
+7	ese	ese	DET	_	_	8	det	_	_
+8	niña	niña	NOUN	_	_	3	obl	_	_
+9	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 90
+# text = nunka i echá kalajo ni miedda ando kala ele .
+1	nunka	_	ADV	_	_	3	mod	_	_
+2	i	_	PRON	_	_	3	nsubj	_	_
+3	echá	_	VERB	_	_	0	root	_	_
+4	kalajo	_	NOUN	_	_	3	obj	_	_
+5	ni	_	ADP	_	_	6	cc	_	_
+6	miedda	_	NOUN	_	_	4	conj	_	_
+7	andi	_	ADP	_	_	8	case	_	_
+8	kala	_	NOUN	_	_	3	obl	_	_
+9	ele	_	PRON	_	_	8	det:poss	_	_
+10	.	_	PUNCT	_	_	3	punct	_	_
+

@@ -1,0 +1,50 @@
+# sent_id = 91
+# text = bo sabé andi mujé sí ndrumí nu .
+1	bo	_	PRON	_	_	2	nsubj	_	_
+2	sabé	_	AUX	_	_	0	root	_	_
+3	andi	_	ADP	_	_	6	case	_	_
+4	mujé	_	NOUN	_	_	6	nsubj	_	_
+5	sí	_	PRON	_	_	4	det:poss	_	_
+6	ndrumí	_	NOUN	_	_	2	ccomp	_	_
+7	nu	_	ADV	_	_	2	advmod	_	_
+8	.	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 92
+# text = suto asé yegá andi moté .
+1	suto	suto	PRON	_	_	3	nsubj	_	_
+2	asé	asé	AUX	_	_	3	aux	_	_
+3	yegá	yegá	VERB	_	_	0	root	_	_
+4	andi	andi	ADP	_	_	5	case	_	_
+5	moté	moté	VERB	_	_	3	obl	_	_
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 93
+# text = ané asé-ba tre andi kasa mi .
+1	ané	ané	PRON	_	_	3	nsubj	_	_
+2	asé-ba	asé	AUX	_	_	3	aux	_	_
+3	tre	tre	VERB	_	_	0	root	_	_
+4	andi	andi	ADP	_	_	5	case	_	_
+5	kasa	kasa	NOUN	_	_	3	obl	_	_
+6	mi	mi	PRON	_	_	5	det	_	_
+7	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 94
+# text = bo a bibí andi María ?
+1	bo	bo	PRON	_	_	3	nsubj	_	_
+2	a	a	AUX	_	_	3	aux	_	_
+3	bibí	_	VERB	_	_	0	root	_	_
+4	andi	_	ADP	_	_	5	case	_	_
+5	María	_	NOUN	_	_	3	obl	_	_
+6	?	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 95
+# text = aora polé semblá kaña andi ma losa nu .
+1	aora	aora	ADV	_	_	3	advmod	_	_
+2	polé	polé	VERB	_	_	3	aux	_	_
+3	semblá	semblá	VERB	_	_	0	root	_	_
+4	kaña	kaña	NOUN	_	_	3	obj	_	_
+5	andi	andi	ADP	_	_	7	case	_	_
+6	ma	ma	DET	_	_	7	nummod	_	_
+7	losa	losa	NOUN	_	_	3	obl	_	_
+8	nu	nu	ADV	_	_	3	advmod	_	_
+9	.	.	PUNCT	_	_	8	punct	_	_

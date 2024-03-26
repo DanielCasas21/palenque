@@ -1,0 +1,109 @@
+# sent_id = 11
+# text = ma mujé ri ante tené-ba barrika asina .
+1	ma	_	DET	_	_	2	det	_	_
+2	mujé	_	NOUN	_	_	5	nsubj	_	_
+3	ri	_	ADP	_	_	4	case	_	_
+4	ante	_	ADV	_	_	2	advmod	_	_
+5	tené-ba	ten	VERB	_	_	0	root	_	_
+6	barrika	_	NOUN	_	_	5	obj	_	_
+7	asina	_	ADV	_	_	5	advmod	_	_
+8	.	_	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 12
+# text = i a kujé un ma mango .
+1	i	_	PRON	_	_	3	nsubj	_	_
+2	a	_	AUX	_	_	3	aux	_	_
+3	kujé	_	VERB	_	_	0	root	_	_
+4	un	_	DET	_	_	6	det	_	_
+5	ma	_	DET	_	_	6	nummod	_	_
+6	mango	_	NOUN	_	_	3	obj	_	_
+7	.	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 13
+# text = ané asé montá and un ma palo .
+1	ané	_	PRON	_	_	3	nsubj	_	_
+2	asé	_	AUX	_	_	3	aux	_	_
+3	montá	_	VERB	_	_	0	root	_	_
+4	andi	_	ADP	_	_	7	case	_	_
+5	un	_	DET	_	_	7	det	_	_
+6	ma	_	DET	_	_	7	nummod	_	_
+7	palo	_	NOUN	_	_	3	obl	_	_
+8	.	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 14
+# text = bo nunka a peká loyo nu .
+1	bo	_	PRON	_	_	4	nsubj	_	_
+2	nunka	_	ADV	_	_	4	advmod	_	_
+3	a	_	AUX	_	_	4	aux	_	_
+4	peká	_	VERB	_	_	0	root	_	_
+5	loyo	_	NOUN	_	_	4	obl	_	_
+6	nu	_	ADV	_	_	4	advmod	_	_
+7	.	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 15
+# text = ante majanasito sabé-ba í pa monde ku ma tatá .
+1	ante	_	ADV	_	_	4	advmod	_	_
+2	majanasito	majaná	NOUN	_	_	4	nsubj	_	_
+3	sabé-ba	sabé	AUX	_	_	4	aux	_	_
+4	í	bae	VERB	_	_	0	root	_	_
+5	pa	_	ADP	_	_	6	case	_	_
+6	monde	_	NOUN	_	_	4	obl	_	_
+7	ku	_	ADP	_	_	9	case	_	_
+8	ma	_	DET	_	_	9	nummod	_	_
+9	tatá	_	NOUN	_	_	4	obl	_	_
+10	.	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 16
+# text = i tan pa losa .
+1	i	_	PRON	_	_	2	nsubj	_	_
+2	tan	_	AUX	_	_	0	root	_	_
+3	pa	_	ADP	_	_	4	case	_	_
+4	losa	_	NOUN	_	_	2	obl	_	_
+5	.	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 17
+# text = i a kombesá un chito ri lengua ku ané .
+1	i	_	PRON	_	_	3	nsubj	_	_
+2	a	_	AUX	_	_	3	aux	_	_
+3	kombesá	_	VERB	_	_	0	root	_	_
+4	un	_	DET	_	_	5	det	_	_
+5	chito	_	NOUN	_	_	3	obj	_	_
+6	ri	_	ADP	_	_	7	case	_	_
+7	lengua	_	NOUN	_	_	5	nmod	_	_
+8	ku	_	ADP	_	_	9	case	_	_
+9	ané	_	PRON	_	_	3	obl	_	_
+10	.	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 18
+# text = i tan ablá ke poné ponchera má ngande .
+1	i	_	PRON	_	_	3	nsubj	_	_
+2	tan	_	AUX	_	_	3	aux	_	_
+3	ablá	_	VERB	_	_	0	root	_	_
+4	ke	_	SCONJ	_	_	5	mark	_	_
+5	poné	_	VERB	_	_	3	ccomp	_	_
+6	ponchera	_	NOUN	_	_	5	obj	_	_
+7	má	_	ADV	_	_	8	advmod	_	_
+8	ngande	_	ADJ	_	_	6	amod	_	_
+9	.	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 19
+# text = yuka asé-ba ranká pa kumé .
+1	yuka	_	NOUN	_	_	3	nsubj	_	_
+2	asé-ba	asé	AUX	_	_	3	aux	_	_
+3	ranká	_	VERB	_	_	0	root	_	_
+4	pa	_	ADP	_	_	5	case	_	_
+5	kumé	kumé	VERB	_	_	3	obj	_	_
+6	.	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 20
+# text = i a miná un gajo planda aya mata .
+1	i	_	PRON	_	_	3	nsubj	_	_
+2	a	_	AUX	_	_	3	aux	_	_
+3	miná	_	VERB	_	_	0	root	_	_
+4	un	_	DET	_	_	5	det	_	_
+5	gajo	_	ADJ	_	_	3	obj	_	_
+6	planda	_	NOUN	_	_	5	nmod	_	_
+7	aya	_	ADV	_	_	3	advmod	_	_
+8	mata	_	NOUN	_	_	3	obl	_	_
+9	.	_	PUNCT	_	_	3	punct	_	_
+

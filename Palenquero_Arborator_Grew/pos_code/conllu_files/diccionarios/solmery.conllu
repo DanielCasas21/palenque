@@ -1,0 +1,2856 @@
+# sent_id = 1
+# text = Abilanté.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Abilanté	_	NOUN	_	_	_	_	_	Traducción: o movimiento en el cuerpo para realizar un oficio_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 2
+# text = Abraká.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Abraká	_	VERB	_	_	_	_	_	Traducción: fuerte a una persona o a un objeto_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 3
+# text = Ambrakambraka.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Ambrakambraka	_	NOUN	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 4
+# text = Abrí.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Abrí	_	NOUN	_	Gender=Masc	_	_	_	Traducción: Abril mes_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 5
+# text = Achake.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Achake	_	NOUN	_	_	_	_	_	Traducción: alteración más o menos_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 6
+# text = Achichá.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Achichá	_	VERB	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 7
+# text = Achiká.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Achiká	_	VERB	_	_	_	_	_	Traducción: el agua_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 8
+# text = Aklamalo.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Aklamalo	aklamá	VERB	_	_	_	_	_	Traducción: Aclamar_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 9
+# text = Agaritá.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Agaritá	_	VERB	_	_	_	_	_	Traducción: todo_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 10
+# text = Aggún.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Aggún	_	DET	_	PronType=Ind	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 11
+# text = Aguaita.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Aguaita	_	VERB	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 12
+# text = Agualá.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Agualá	_	INTJ	_	_	_	_	_	Traducción: Ojalá_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 13
+# text = Agüé.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Agüé	_	ADV	_	_	_	_	_	Traducción: Hoy_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 14
+# text = Ajá.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Ajá	_	VERB	_	_	_	_	_	Traducción: a una o_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 15
+# text = Ajogá.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Ajogá	_	VERB	_	_	_	_	_	Traducción: Ahogarse persona en el arroyo_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 16
+# text = Ajuindo.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Ajuindo	Ajuí	VERB	_	VerbForm=Ger	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 17
+# text = Akabá.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Akabá	_	VERB	_	_	_	_	_	Traducción: acabó_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 18
+# text = Akasioná.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Akasioná	_	NOUN	_	_	_	_	_	Traducción: que actúa en contra de_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 19
+# text = Aké.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Aké	_	ADJ	_	PronType=Dem	_	_	_	Traducción: Aquél_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 20
+# text = Akietá.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Akietá	_	VERB	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 21
+# text = Akkansá.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Akkansá	_	VERB	_	_	_	_	_	Traducción: Alcanzar_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 22
+# text = Akoddá.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Akoddá	_	VERB	_	_	_	_	_	Traducción: Recordar_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 23
+# text = Akolá.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Akolá	_	VERB	_	_	_	_	_	Traducción: lo_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 24
+# text = Akotumbrá.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Akotumbrá	_	VERB	_	_	_	_	_	Traducción: Acostumbrase a algo o alguien_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 25
+# text = Alá.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Alá	_	NOUN	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 26
+# text = Alendro.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Alendro	_	ADV	_	_	_	_	_	Traducción: Dentro de la casa_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 27
+# text = Alokumblelo.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Alokumblelo	_	ADJ	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 28
+# text = Alokutoroson.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Alokutoroson	_	NOUN	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 29
+# text = Aloyo.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Aloyo	_	NOUN	_	_	_	_	_	Traducción: Arroyo_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 30
+# text = Alumbrá.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Alumbrá	_	VERB	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 31
+# text = Alumbralo.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Alumbralo	_	ADJ	_	_	_	_	_	Traducción: Iluminado_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 32
+# text = Amanesé.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Amanesé	_	NOUN	_	_	_	_	_	Traducción: Amanecer_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 33
+# text = Ambe.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Ambe	_	ADV	_	_	_	_	_	Traducción: Hambre_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 34
+# text = Amblasá.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Amblasá	_	VERB	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 35
+# text = Anchoba.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Anchoba	_	NOUN	_	_	_	_	_	Traducción: a puños entre una_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 36
+# text = Andá.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Andá	_	VERB	_	_	_	_	_	Traducción: Vete_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 37
+# text = Andudero.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Andudero	_	NOUN	_	_	_	_	_	Traducción: que intenta hacer varios_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 40
+# text = Ané nú.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Ané nú	_	Exp comp	_	_	_	_	_	Traducción: pal_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 41
+# text = Ané.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Ané	_	PRON	_	_	_	_	_	Traducción: Ellos_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 42
+# text = Aneba.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Aneba	ané	PRON	_	Tense=Imp	_	_	_	Traducción: pal_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 43
+# text = Anginí.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Anginí	_	NOUN	_	_	_	_	_	Traducción: Forastero_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 44
+# text = Angoto.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Angoto	_	ADJ	_	_	_	_	_	Traducción: Angosto_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 45
+# text = Animá.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Animá	_	NOUN	_	_	_	_	_	Traducción: Animal_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 46
+# text = Anje.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Anje	_	NOUN	_	Gender=Masc	_	_	_	Traducción: Ángel_Etilomogía: Kikongo
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 47
+# text = Ansusú.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Ansusú	_	NOUN	_	_	_	_	_	_Etilomogía: Karibali
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 48
+# text = Añigotá.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Añigotá	_	VERB	_	_	_	_	_	Traducción: Sentarse_Etilomogía: Karibali
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 49
+# text = Añú.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Añú	_	INTJ	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 50
+# text = Añuñío.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Añuñío	_	ADJ	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 51
+# text = Apagriná.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Apagriná	_	VERB	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 52
+# text = Apatá.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Apatá	_	VERB	_	_	_	_	_	Traducción: no_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 53
+# text = Apatí.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Apatí	_	VERB	_	_	_	_	_	Traducción: un_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 54
+# text = Apelé.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Apelé	_	VERB	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 55
+# text = Apesé.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Apesé	_	VERB	_	_	_	_	_	_Etilomogía: Bantú
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 56
+# text = Apokoló.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Apokoló	_	NOUN	_	_	_	_	_	Traducción: de_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 57
+# text = Aporriá.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Aporriá	_	VERB	_	_	_	_	_	Traducción: a_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 58
+# text = Apurá.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Apurá	_	VERB	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 59
+# text = Arajo.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Arajo	_	INTJ	_	_	_	_	_	Traducción: Carajo_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 60
+# text = Arelite.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Arelite	_	NOUN	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 61
+# text = Ari.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Ari	_	VERB	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 62
+# text = Arorá.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Arorá	_	VERB	_	_	_	_	_	_Etilomogía: Kikongo
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 65
+# text = Asaúra.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Asaúra	_	NOUN	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 68
+# text = Asomá.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Asomá	_	VERB	_	_	_	_	_	Traducción: a_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 69
+# text = Asotalo.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Asotalo	_	VERB	_	_	_	_	_	Traducción: orden_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 70
+# text = Atendé.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Atendé	_	VERB	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 71
+# text = Attuá.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Attuá	_	ADJ	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 72
+# text = Babasá.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Babasá	_	VERB	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 73
+# text = Babía.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Babía	_	NOUN	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 74
+# text = Bae.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Bae	_	VERB	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 75
+# text = Bággate.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Bággate	Bagga	INTJ	_	_	_	_	_	Traducción: Válgate_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 76
+# text = Bajá.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Bajá	_	VERB	_	_	_	_	_	Traducción: Bajar árbol, del_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 77
+# text = Bajalekera.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Bajalekera	_	NOUN	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 78
+# text = Bajareke.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Bajareke	_	NOUN	_	_	_	_	_	Traducción: Casa_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 79
+# text = Bajopié.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Bajopié	_	ADP	_	_	_	_	_	Traducción: medio_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 80
+# text = Bakulú.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Bakulú	_	NOUN	_	_	_	_	_	Traducción: Grupo_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 81
+# text = Balé.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Balé	_	VERB	_	_	_	_	_	Traducción: Barrer_Etilomogía: Bantú
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 82
+# text = Balentiela.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Balentiela	_	NOUN	_	_	_	_	_	_Etilomogía: Bantú
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 83
+# text = Banchoke.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Banchoke	_	NOUN	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 84
+# text = Bandokí.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Bandokí	_	NOUN	_	_	_	_	_	Traducción: Hijo brujo_Etilomogía: Kikongo
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 85
+# text = Banganga.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Banganga	_	NOUN	_	_	_	_	_	_Etilomogía: Bantú
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 86
+# text = Bangaña.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Bangaña	_	NOUN	_	_	_	_	_	_Etilomogía: Kimbundu
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 87
+# text = Bangasunga.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Bangasunga	_	ADJ	_	_	_	_	_	_Etilomogía: Kimbundu
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 88
+# text = Bangulú.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Bangulú	_	NOUN	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 89
+# text = Banibasa.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Banibasa	_	NOUN	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 90
+# text = Bila.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Bila	_	NOUN	_	_	_	_	_	_Etilomogía: Bantú
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 91
+# text = Bindanga.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Bindanga	_	NOUN	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 92
+# text = Bindaso.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Bindaso	_	VERB	_	_	_	_	_	Traducción: Caída_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 93
+# text = Birikueta.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Birikueta	_	NOUN	_	_	_	_	_	_Etilomogía: Kikongo
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 94
+# text = Bitibiti.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Bitibiti	_	NOUN	_	_	_	_	_	Traducción: de_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 95
+# text = Bitílo.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Bitílo	_	VERB	_	_	_	_	_	_Etilomogía: Kikongo
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 96
+# text = Bituté.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Bituté	_	NOUN	_	_	_	_	_	Traducción: Comida especial_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 97
+# text = Bo.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Bo	_	PRON	_	_	_	_	_	Traducción: Tú_Etilomogía: Kikongo
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 98
+# text = Bolokotó.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Bolokotó	_	VERB	_	_	_	_	_	_Etilomogía: Kikongo
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 99
+# text = Bololó.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Bololó	_	NOUN	_	_	_	_	_	Traducción: buloló) Problema o escándalo_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 100
+# text = Bombá.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Bombá	_	VERB	_	_	_	_	_	Traducción: Rogarle una_Etilomogía: Kikongo
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 101
+# text = Bomboinbo.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Bomboinbo	_	NOUN	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 102
+# text = Bongó.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Bongó	_	NOUN	_	_	_	_	_	Traducción: Tambor_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 103
+# text = Botenbote.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Botenbote	_	NOUN	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 104
+# text = Brajutá.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Brajutá	_	VERB	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 105
+# text = Bumbú.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Bumbú	_	NOUN	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 106
+# text = Bungalá.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Bungalá	_	NOUN	_	_	_	_	_	Traducción: Persona de animo, partera_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 107
+# text = Cheja.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Cheja	_	NOUN	_	_	_	_	_	Traducción: que_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 108
+# text = Cheleka.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Cheleka	_	NOUN	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 109
+# text = Chepa.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Chepa	_	NOUN	_	_	_	_	_	Traducción: de_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 110
+# text = Chía-Chía.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Chía-Chía	_	NOUN	_	_	_	_	_	Traducción: Pájaro del monte que en la madrugada anda en manada_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 111
+# text = Chibo.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Chibo	_	NOUN	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 112
+# text = Chichaló.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Chichaló	_	NOUN	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 113
+# text = Chiká.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Chiká	_	VERB	_	_	_	_	_	Traducción: el agua_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 114
+# text = Chikeno.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Chikeno	_	VERB	_	_	_	_	_	Traducción: la_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 115
+# text = Chikero.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Chikero	_	NOUN	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 116
+# text = Chikotiá.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Chikotiá	_	VERB	_	_	_	_	_	_Etilomogía: Kikongo
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 117
+# text = Chilumba.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Chilumba	_	NOUN	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 118
+# text = Chimangolé.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Chimangolé	_	NOUN	_	_	_	_	_	_Etilomogía: Kikongo
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 119
+# text = Chimbangongé.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Chimbangongé	_	NOUN	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 120
+# text = Chimbililí.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Chimbililí	_	NOUN	_	_	_	_	_	Traducción: de un canto fúnebre_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 121
+# text = Ekabuyá.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Ekabuyá	_	NOUN	_	_	_	_	_	Traducción: o grupos de personas que_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 122
+# text = Ekuatisá.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Ekuatisá	_	VERB	_	_	_	_	_	Traducción: en_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 123
+# text = Ele.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Ele	_	PRON	_	_	_	_	_	Traducción: El_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 124
+# text = Embabaká.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Embabaká	_	VERB	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 125
+# text = Embelekero.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Embelekero	_	ADJ	_	_	_	_	_	Traducción: alegre, extrovertida_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 126
+# text = Enbauká.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Enbauká	_	VERB	_	_	_	_	_	Traducción: Dejarse por otra persona para_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 127
+# text = Enkaramá.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Enkaramá	_	VERB	_	_	_	_	_	Traducción: Subir_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 128
+# text = Flende.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Flende	_	NOUN	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 129
+# text = Fobó.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Fobó	_	NOUN	_	_	_	_	_	Traducción: donde se cocina los alimentos_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 130
+# text = Fondá.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Fondá	_	VERB	_	_	_	_	_	Traducción: Romper himen_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 131
+# text = Fondañoká.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Fondañoká	_	VERB	_	_	_	_	_	Traducción: Desyerbar_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 132
+# text = Fregantina.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Fregantina	_	VERB	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 133
+# text = Frijó.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Frijó	_	NOUN	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 134
+# text = Fundá.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Fundá	_	VERB	_	_	_	_	_	Traducción: Juntar_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 135
+# text = Funfuniá.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Funfuniá	_	VERB	_	_	_	_	_	Traducción: en_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 136
+# text = Furatero.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Furatero	_	NOUN	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 137
+# text = Furunguía.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Furunguía	_	VERB	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 139
+# text = Ichá.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Ichá	_	VERB	_	_	_	_	_	Traducción: Hacer_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 140
+# text = Ichalo.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Ichalo	ichá	VERB	_	_	_	_	_	Traducción: una persona de su casa_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 141
+# text = Iguá.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Iguá	_	ADJ	_	_	_	_	_	Traducción: De la_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 142
+# text = Iguasú.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Iguasú	_	ADJ	_	_	_	_	_	Traducción: Español. de España. Perteneciente_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 144
+# text = Ilesia.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Ilesia	_	NOUN	_	Gender=Fem	_	_	_	Traducción: Iglesia_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 145
+# text = Hlombo.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Hlombo	_	NOUN	_	Gender=Masc	_	_	_	Traducción: Pájaro_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 146
+# text = Ilongo.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Ilongo	_	ADJ	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 147
+# text = Jaalá.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Jaalá	_	VERB	_	_	_	_	_	Traducción: Raptar, llevarse alguien_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 148
+# text = Jattera.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Jattera	_	NOUN	_	_	_	_	_	Traducción: Hartera_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 149
+# text = Jayá.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Jayá	_	VERB	_	_	_	_	_	Traducción: Encontrar_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 150
+# text = Jebra.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Jebra	_	NOUN	_	Gender=Fem	_	_	_	Traducción: Hebra de_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 151
+# text = Jecha.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Jecha	_	VERB	_	_	_	_	_	Traducción: Dejar una_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 152
+# text = Jembra.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Jembra	_	NOUN	_	Gender=Fem	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 153
+# text = Jerentina.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Jerentina	_	NOUN	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 154
+# text = Jerionda.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Jerionda	_	ADJ	_	_	_	_	_	Traducción: Persona tener mal olor en el_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 155
+# text = Jetepié.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Jetepié	_	NOUN	_	Gender=Masc	_	_	_	Traducción: Juego_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 156
+# text = Jié.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Jié	_	NOUN	_	_	_	_	_	Traducción: Hiel_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 157
+# text = Jinchao.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Jinchao	_	NOUN	_	_	_	_	_	Traducción: en cualquier parte del_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 158
+# text = Jinká.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Jinká	_	VERB	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 159
+# text = Jiraka.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Jiraka	_	NOUN	_	_	_	_	_	Traducción: que_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 160
+# text = Jirí.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Jirí	_	VERB	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 161
+# text = Jogá.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Jogá	_	VERB	_	_	_	_	_	Traducción: Ahogarse persona en el arroyo_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 162
+# text = Jokó.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Jokó	_	NOUN	_	_	_	_	_	Traducción: fuerte_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 163
+# text = Kambamba.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Kambamba	_	NOUN	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 164
+# text = Kambanbalí.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Kambanbalí	_	ADJ	_	_	_	_	_	Traducción: de perro en cuento narrado_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 165
+# text = Kambembe.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Kambembe	_	NOUN	_	Gender=Fem	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 166
+# text = Kambinbero.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Kambinbero	_	ADJ	_	_	_	_	_	Traducción: activa que le gusta hacer varios oficios al mismo_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 167
+# text = Kamisola.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Kamisola	_	NOUN	_	Gender=Fem	_	_	_	Traducción: de_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 168
+# text = Kamora.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Kamora	_	VERB	_	_	_	_	_	Traducción: Molestar con el mismo tema_Etilomogía: Bantú
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 169
+# text = Kanalete.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Kanalete	_	NOUN	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 170
+# text = Kanatulé.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Kanatulé	_	NOUN	_	Gender=Fem	_	_	_	Traducción: Hambre_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 171
+# text = Kandilero.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Kandilero	_	NOUN	_	Gender=Fem	_	_	_	Traducción: Clavícula_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 172
+# text = Kanía.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Kanía	_	NOUN	_	Gender=Fem	_	_	_	Traducción: Camilla_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 173
+# text = Kanklón.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Kanklón	_	ADJ	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 174
+# text = Kañaña.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Kañaña	_	NOUN	_	_	_	_	_	Traducción: en_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 175
+# text = Kañoka.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Kañoka	_	NOUN	_	Gender=Fem	_	_	_	Traducción: Culebra mapaná pequeña_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 176
+# text = Kaposanto.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Kaposanto	_	NOUN	_	Gender=Masc	_	_	_	_Etilomogía: Kimbundu
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 177
+# text = Kapuchí.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Kapuchí	_	NOUN	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 178
+# text = Kapuchichimanga.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Kapuchichimanga	_	ADJ	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 179
+# text = Karimba.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Karimba	_	NOUN	_	_	_	_	_	Traducción: Marca por el hierro candente con que los amos o propietarios_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 180
+# text = Konkorá.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Konkorá	_	NOUN	_	_	_	_	_	Traducción: Pastel de cerdo y pollo_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 181
+# text = Korío.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Korío	_	NOUN	_	_	_	_	_	Traducción: de_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 182
+# text = Koró.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Koró	_	NOUN	_	_	_	_	_	Traducción: Corozo_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 183
+# text = Kotía.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Kotía	_	NOUN	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 184
+# text = Koya.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Koya	_	ADJ	_	_	_	_	_	Traducción: mala_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 185
+# text = Koyá.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Koyá	_	NOUN	_	_	_	_	_	Traducción: Collar perlas_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 186
+# text = Kribí.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Kribí	_	VERB	_	_	_	_	_	Traducción: Escribir_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 187
+# text = Krúo.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Krúo	_	ADJ	_	_	_	_	_	Traducción: Crudo_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 188
+# text = Kuagriya.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Kuagriya	_	ADJ	_	_	_	_	_	Traducción: de la misma edad_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 189
+# text = Kuandi.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Kuandi	_	ADV	_	_	_	_	_	_Etilomogía: Bantú
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 190
+# text = Kuasikuasi.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Kuasikuasi	_	NOUN	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 191
+# text = Kuatrojo.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Kuatrojo	_	NOUN	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 192
+# text = Kuchá.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Kuchá	_	VERB	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 193
+# text = Kuenda.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Kuenda	_	VERB	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 194
+# text = Kujé.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Kujé	_	VERB	_	_	_	_	_	Traducción: tomar_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 195
+# text = Kujelo.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Kujelo	_	VERB	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 196
+# text = Kula.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Kula	_	NOUN	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 197
+# text = Kulé.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Kulé	_	VERB	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 198
+# text = Kumbilé.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Kumbilé	_	VERB	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 199
+# text = Kumé.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Kumé	_	VERB	_	_	_	_	_	_Etilomogía: Bantú
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 200
+# text = Kumkumbamaná.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Kumkumbamaná	_	NOUN	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 202
+# text = Kumo.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Kumo	_	ADV	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 203
+# text = Lombo.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Lombo	_	NOUN	_	_	_	_	_	Traducción: negro_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 204
+# text = Lompé.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Lompé	_	VERB	_	_	_	_	_	Traducción: un_Etilomogía: Bantú
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 205
+# text = Longulá.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Longulá	_	NOUN	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 206
+# text = Losa.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Losa	_	NOUN	_	_	_	_	_	Traducción: lugar_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 207
+# text = Losario.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Losario	_	NOUN	_	_	_	_	_	_Etilomogía: Kikongo
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 208
+# text = Luchingá.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Luchingá	_	ADJ	_	_	_	_	_	_Etilomogía: Kikongo
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 209
+# text = Lumba.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Lumba	_	NOUN	_	_	_	_	_	_Etilomogía: Kikongo
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 210
+# text = Lumbilá.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Lumbilá	_	ADJ	_	_	_	_	_	Traducción: lena_Etilomogía: Karibali
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 211
+# text = Lungá.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Lungá	_	VERB	_	_	_	_	_	Traducción: Morir_Etilomogía: Kikongo
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 212
+# text = Lusinga.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Lusinga	_	NOUN	_	_	_	_	_	_Etilomogía: Kikongo
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 213
+# text = Lutete.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Lutete	_	NOUN	_	_	_	_	_	Traducción: grande encerrado en el cuerpo de_Etilomogía: Kikongo
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 214
+# text = Lutre.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Lutre	_	ADJ	_	_	_	_	_	Traducción: un_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 215
+# text = Matimbá.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Matimbá	_	NOUN	_	_	_	_	_	Traducción: Planta que se utiliza para la_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 217
+# text = Mbino.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Mbino	_	NOUN	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 218
+# text = Mblaso.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Mblaso	_	NOUN	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 219
+# text = Mbola.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Mbola	_	NOUN	_	_	_	_	_	Traducción: pelota, testículo_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 220
+# text = Mboyo.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Mboyo	_	NOUN	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 221
+# text = Mejorá.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Mejorá	_	VERB	_	_	_	_	_	Traducción: Mejorar persona de su estado de salud_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 222
+# text = Mendá.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Mendá	_	VERB	_	_	_	_	_	Traducción: el_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 223
+# text = Meté.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Meté	_	VERB	_	_	_	_	_	Traducción: Meter_Etilomogía: Bantú
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 224
+# text = Miangoma.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Miangoma	_	NOUN	_	_	_	_	_	Traducción: de un cerro que limita_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 225
+# text = Mija.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Mija	_	NOUN	_	_	_	_	_	Traducción: Hija_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 226
+# text = Mika-Jurunpochonía.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Mika-Jurunpochonía	_	NOUN	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 227
+# text = Mikambó.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Mikambó	_	NOUN	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 228
+# text = Miná.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Miná	_	VERB	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 229
+# text = Mini.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Mini	_	VERB	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 230
+# text = Mochoroko.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Mochoroko	_	ADJ	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 231
+# text = Musungue.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Musungue	_	VERB	_	_	_	_	_	Traducción: Azotar a_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 232
+# text = Ngandilá.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Ngandilá	_	VERB	_	_	_	_	_	Traducción: delante de una persona_Etilomogía: Kimbundu
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 233
+# text = Nganga.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Nganga	_	ADJ	_	_	_	_	_	Traducción: supremo de la hechicería, diablo_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 234
+# text = Ngañote.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Ngañote	_	NOUN	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 235
+# text = Ngato.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Ngato	_	NOUN	_	_	_	_	_	Traducción: Gato_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 236
+# text = Nglorifiká.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Nglorifiká	_	VERB	_	_	_	_	_	Traducción: Glorificar_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 237
+# text = Ngolo.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Ngolo	_	ADJ	_	Gender=Masc	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 238
+# text = Ngongoch.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Ngongoch	_	NOUN	_	_	_	_	_	Traducción: Especie de gusano_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 239
+# text = Ngombechamonika.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Ngombechamonika	_	NOUN	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 240
+# text = Ngonbé.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Ngonbé	_	VERB	_	_	_	_	_	_Etilomogía: Kimbundu
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 241
+# text = Neongoló.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Neongoló	_	NOUN	_	_	_	_	_	_Etilomogía: Kikongo
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 242
+# text = Ngope.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Ngope	_	NOUN	_	_	_	_	_	_Etilomogía: Kikongo
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 243
+# text = Ngota.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Ngota	_	NOUN	_	_	_	_	_	_Etilomogía: Kikongo
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 244
+# text = Ngotika.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Ngotika	_	NOUN	_	_	_	_	_	_Etilomogía: Kikongo
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 245
+# text = Ngozá.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Ngozá	_	VERB	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 246
+# text = Ngritá.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Ngritá	_	VERB	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 247
+# text = Amalayá.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Amalayá	_	VERB	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 248
+# text = Abalenga.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Abalenga	_	NOUN	_	_	_	_	_	_Etilomogía: Bantú
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 249
+# text = Abboliá.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Abboliá	_	VERB	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 250
+# text = Ablalo.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Ablalo	ablá	VERB	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 251
+# text = Abrí.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Abrí	_	VERB	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 252
+# text = Agoto.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Agoto	_	NOUN	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 253
+# text = Aguandá.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Aguandá	_	VERB	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 254
+# text = Agüelo.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Agüelo	aguelo	NOUN	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 255
+# text = Ajibe.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Ajibe	_	NOUN	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 256
+# text = Ajuí.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Ajuí	_	VERB	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 257
+# text = Ajutaró.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Ajutaró	_	NOUN	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 258
+# text = Akanforá.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Akanforá	_	VERB	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 259
+# text = Akí.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Akí	_	ADV	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 260
+# text = Akkueddo.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Akkueddo	_	NOUN	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 261
+# text = Akokiná.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Akokiná	_	VERB	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 262
+# text = Akumo.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Akumo	_	PRON	_	PronType=Int	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 263
+# text = Aló.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Aló	_	NOUN	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 264
+# text = Amarío.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Amarío	_	ADJ	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 265
+# text = Ambelike.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Ambelike	_	ADJ	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 266
+# text = Amosa.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Amosa	_	ADJ	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 267
+# text = Andeno.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Andeno	Andá	VERB	_	Mood=Imp	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 268
+# text = Angolé.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Angolé	_	PROPN	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 269
+# text = Anguía.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Anguía	_	NOUN	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 270
+# text = Anipía.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Anipía	_	NOUN	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 271
+# text = Anke.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Anke	_	SCONJ	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 272
+# text = Anukironuki.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Anukironuki	_	NOUN	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 273
+# text = Arelike.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Arelike	_	NOUN	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 274
+# text = Arepuela.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Arepuela	_	NOUN	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 275
+# text = Arió.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Arió	_	INTJ	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 276
+# text = Arumao.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Arumao	_	NOUN	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 277
+# text = Asélo.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Asélo	asé	VERB	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 278
+# text = Atendelo.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Atendelo	atendé	VERB	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 279
+# text = Babalao.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Babalao	_	NOUN	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 280
+# text = Babita.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Babita	_	ADJ	_	PronType=Ind	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 281
+# text = Bággame.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Bággame	bagga	INTJ	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 282
+# text = Baileno.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Baileno	bailá	VERB	_	Mood=Imp	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 283
+# text = Bajo.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Bajo	_	NOUN	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 284
+# text = Balendo.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Balendo	balé	VERB	_	VerbForm=Ger	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 285
+# text = Bandalaje.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Bandalaje	_	NOUN	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 286
+# text = Binda.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Binda	_	NOUN	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 287
+# text = Binde.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Binde	_	NOUN	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 288
+# text = Bokía.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Bokía	_	NOUN	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 289
+# text = Bululú.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Bululú	_	NOUN	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 290
+# text = Buloló.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Buloló	_	NOUN	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 291
+# text = Burú.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Burú	_	NOUN	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 292
+# text = Chiba.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Chiba	_	NOUN	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 293
+# text = Chika.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Chika	_	NOUN	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 294
+# text = Chikeno.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Chikeno	chiká	VERB	_	Mood=Imp	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 295
+# text = Chimbo.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Chimbo	_	ADJ	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 296
+# text = Ebbo.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Ebbo	_	NOUN	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 297
+# text = Ekabatá.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Ekabatá	_	VERB	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 298
+# text = Eleeloo.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Eleeloo	_	INTJ	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 299
+# text = Firifoyo.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Firifoyo	_	ADJ	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 300
+# text = Floriá.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Floriá	_	VERB	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 301
+# text = Fofogén.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Fofogén	_	NOUN	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 302
+# text = Fufurufa.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Fufurufa	_	NOUN	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 303
+# text = Fundío.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Fundío	_	NOUN	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 306
+# text = Ichao.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Ichao	ichá	ADJ	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 307
+# text = Ilesia.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Ilesia	_	NOUN	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 308
+# text = Ilombo.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Ilombo	_	NOUN	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 309
+# text = Ilongo.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Ilongo	_	ADJ	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 310
+# text = Jende.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Jende	_	VERB	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 311
+# text = Jende.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Jende	_	NOUN	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 312
+# text = Jesuita.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Jesuita	_	ADJ	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 313
+# text = Jiguereta.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Jiguereta	_	NOUN	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 314
+# text = Jipiá.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Jipiá	_	VERB	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 315
+# text = Jirilo.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Jirilo	jirí	VERB	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 316
+# text = Jirilo.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Jirilo	jirí	ADJ	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 317
+# text = Joká.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Joká	_	VERB	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 318
+# text = Kambasú.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Kambasú	_	ADJ	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 319
+# text = Kampía.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Kampía	_	NOUN	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 320
+# text = Kanandonga.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Kanandonga	_	NOUN	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 321
+# text = Kandá.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Kandá	_	VERB	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 322
+# text = Kandeno.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Kandeno	kandá	VERB	_	Mood=Imp	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 323
+# text = Kanduliá.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Kanduliá	_	VERB	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 324
+# text = Kankaman.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Kankaman	_	ADJ	_	Gender=Masc	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 325
+# text = Kankamana.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Kankamana	_	ADJ	_	Gender=Fem	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 326
+# text = Kapá.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Kapá	_	VERB	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 327
+# text = Konkulusú.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Konkulusú	_	NOUN	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 328
+# text = Kotá.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Kotá	_	VERB	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 329
+# text = Koto.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Koto	_	NOUN	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 330
+# text = Kreo.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Kreo	_	NOUN	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 331
+# text = Krito.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Krito	_	PROPN	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 332
+# text = Kuá.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Kuá	_	PRON	_	PronType=Int	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 333
+# text = Kuá.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Kuá	_	PRON	_	PronType=Rel	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 334
+# text = Kuagro.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Kuagro	_	NOUN	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 335
+# text = Kuato.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Kuato	_	NOUN	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 336
+# text = Kubía.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Kubía	_	NOUN	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 337
+# text = Kuchío.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Kuchío	_	NOUN	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 338
+# text = Kuepo.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Kuepo	_	NOUN	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 339
+# text = Kujelo.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Kujelo	kujé	VERB	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 340
+# text = Kukulungú.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Kukulungú	_	NOUN	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 341
+# text = Kulero.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Kulero	_	NOUN	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 342
+# text = Kumblá.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Kumblá	_	VERB	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 343
+# text = Kumina.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Kumina	_	NOUN	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 344
+# text = Lomo.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Lomo	_	NOUN	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 345
+# text = Loyo.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Loyo	_	NOUN	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 346
+# text = Luna.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Luna	_	NOUN	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 347
+# text = Luría.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Luría	_	NOUN	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 348
+# text = Mbaso.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Mbaso	_	NOUN	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 349
+# text = Mblasá.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Mblasá	_	VERB	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 350
+# text = Mboíto.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Mboíto	_	NOUN	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 351
+# text = Mbosío.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Mbosío	_	NOUN	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 352
+# text = Mbulo.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Mbulo	_	NOUN	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 353
+# text = Memo.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Memo	_	ADJ	_	PronType=Dem	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 354
+# text = Miá.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Miá	_	VERB	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 355
+# text = Mija.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Mija	_	NOUN	_	Gender=Fem	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 356
+# text = Mijo.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Mijo	_	NOUN	_	Gender=Masc	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 357
+# text = Mina.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Mina	_	NOUN	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 358
+# text = Mineno.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Mineno	Miní	VERB	_	Mood=Imp	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 359
+# text = Miniba.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Miniba	Miní	VERB	_	Tense=Imp	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 360
+# text = Ngangú.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Ngangú	_	NOUN	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 361
+# text = Ngarabato.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Ngarabato	_	NOUN	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 362
+# text = Nglasia.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Nglasia	_	INTJ	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 363
+# text = Ngola.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Ngola	_	ADJ	_	Gender=Fem	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 364
+# text = Ngombe.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Ngombe	_	NOUN	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 365
+# text = Ngopiá.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Ngopiá	_	VERB	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 366
+# text = Ngotiá.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Ngotiá	_	VERB	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 367
+# text = Ngozá.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Ngozá	_	VERB	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 368
+# text = Ngrío.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Ngrío	_	NOUN	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 369
+# text = Nguenda.
+# title = Diccionario de la Lengua Afro Palenquera - Español
+# author = Solmery Cásseres Estrada
+# year = 2005
+1	Nguenda	_	VERB	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+

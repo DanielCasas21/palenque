@@ -1,0 +1,88 @@
+# sent_id = 71
+# text = i tando pa Katajena mana.
+1	i	i	PRON	_	_	2	nsubj	_	_
+2	tando	tando	AUX	_	_	0	root	_	_
+3	pa	pa	ADP	_	_	4	case	_	_
+4	Katajena	Katajena	NOUN	_	_	2	obl	_	_
+5	mana.	maana	ADV	_	_	2	advmod	_	_
+
+# sent_id = 72
+# text = bo a polé salí nu.
+1	bo	_	PRON	_	_	4	nsubj	_	_
+2	a	_	AUX	_	_	3	aux	_	_
+3	polé	_	AUX	_	_	4	aux	_	_
+4	salí	_	VERB	_	_	0	root	_	_
+5	nu.	_	ADV	_	_	4	advmod	_	_
+
+# sent_id = 73
+# text = i a kelá akí kasa mi.
+1	i	_	PRON	_	_	3	nsubj	_	_
+2	a	_	AUX	_	_	3	aux	_	_
+3	kelá	_	VERB	_	_	0	root	_	_
+4	akí	_	ADV	_	_	3	advmod	_	_
+5	kasa	_	NOUN	_	_	3	nmod	_	_
+6	mi.	_	PRON	_	_	5	det	_	_
+
+# sent_id = 74
+# text = i a kuchá mujé ku ombe.
+1	i	_	PRON	_	_	3	nsubj	_	_
+2	a	_	AUX	_	_	3	aux	_	_
+3	kuchá	_	VERB	_	_	0	root	_	_
+4	mujé	_	NOUN	_	_	3	obj	_	_
+5	ku	_	ADP	_	_	6	cc	_	_
+6	ombe.	_	NOUN	_	_	4	conj	_	_
+
+# sent_id = 75
+# text = i a tené tre moná.
+1	i	_	PRON	_	_	3	nsubj	_	_
+2	a	_	AUX	_	_	3	aux	_	_
+3	tené	_	VERB	_	_	0	root	_	_
+4	tre	_	NUM	_	_	5	num	_	_
+5	moná.	_	NOUN	_	_	3	obj	_	_
+
+# sent_id = 76
+# text = i tando kamino mi.
+1	i	_	PRON	_	_	2	nsubj	_	_
+2	tando	_	AUX	_	_	0	root	_	_
+3	kamino	_	NOUN	_	_	2	obl	_	_
+4	mi.	_	PRON	_	_	3	det	_	_
+
+# sent_id = 77
+# text = kuando utere tando?
+1	kuando	_	ADV	_	_	3	advmod	_	_
+2	utere	_	VERB	_	_	3	subj	_	_
+3	tando?	_	AUX	_	_	0	root	_	_
+
+# sent_id = 78
+# text = suto a tené ese derrota entre suto ndo po ese mujé.
+1	suto	_	PRON	_	_	3	nsubj	_	_
+2	a	_	AUX	_	_	3	aux	_	_
+3	tené	_	VERB	_	_	0	root	_	_
+4	ese	_	DET	_	_	5	det	_	_
+5	derrota	_	NOUN	_	_	3	obj	_	_
+6	entre	_	ADV	_	_	7	cc	_	_
+7	suto	_	PRON	_	_	3	obl	_	_
+8	ndo	_	NOUN	_	_	7	num	_	_
+9	po	_	ADP	_	_	11	case	_	_
+10	ese	_	DET	_	_	11	det	_	_
+11	mujé.	_	NOUN	_	_	3	:obl	_	_
+
+# sent_id = 79
+# text = i tené akí ninguno ané ndo.
+1	i	_	PRON	_	_	2	nsubj	_	_
+2	tené	_	VERB	_	_	0	root	_	_
+3	akí	_	ADV	_	_	2	advmod	_	_
+4	ninguno	_	NOUN	_	_	2	obj	_	_
+5	ané	_	PRON	_	_	4	nmod	_	_
+6	ndo.	_	NUM	_	_	5	num	_	_
+
+# sent_id = 80
+# text = a amanesé suto ndo ku suegra mi
+1	a	_	AUX	_	_	2	aux	_	_
+2	amanesé	_	VERB	_	_	0	root	_	_
+3	suto	_	PRON	_	_	2	nsubj	_	_
+4	ndo	_	NOUN	_	_	3	num	_	_
+5	ku	_	ADP	_	_	6	case	_	_
+6	suegra	_	NOUN	_	_	2	obl	_	_
+7	mi	_	PRON	_	_	6	det	_	_
+

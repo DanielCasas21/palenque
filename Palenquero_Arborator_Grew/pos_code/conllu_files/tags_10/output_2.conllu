@@ -1,0 +1,93 @@
+# sent_id = 21
+# text = i ablá ku e dijunto ombe .
+1	i	_	PRON	_	_	2	nsubj	_	_
+2	ablá	_	VERB	_	_	0	root	_	_
+3	ku	_	ADP	_	_	6	case	_	_
+4	e	_	DET	_	_	6	det	_	_
+5	dijunto	dijunto	ADJ	_	_	6	amod	_	_
+6	ombe	_	NOUN	_	_	2	obl	_	_
+7	.	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 22
+# text = bo ata jato die torito guapo .
+1	bo	_	PRON	_	_	4	nsubj	_	_
+2	a	_	AUX	_	_	3	aux	_	_
+3	ta	_	AUX	_	_	4	cop	_	_
+4	jato	_	NOUN	_	_	0	root	_	_
+5	di	_	ADP	_	_	7	case	_	_
+6	e	_	DET	_	_	7	det	_	_
+7	torito	_	NOUN	_	_	4	obl	_	_
+8	guapo	_	ADJ	_	_	7	amod	_	_
+9	.	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 23
+# text = e ma pelo aten mucho repeto nu .
+1	e	_	DET	_	_	3	det	_	_
+2	ma	_	DET	_	_	3	nummod	_	_
+3	pelo	_	NOUN	_	_	5	nsubj	_	_
+4	a	ten	AUX	_	_	5	aux	_	_
+5	ten	_	VERB	_	_	0	root	_	_
+6	mucho	_	ADJ	_	_	7	amod	_	_
+7	repeto	_	NOUN	_	_	5	obj	_	_
+8	nu	_	ADV	_	_	5	advmod	_	_
+9	.	_	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 24
+# text = i a miní ya .
+1	i	_	PRON	_	_	3	nsubj	_	_
+2	a	_	AUX	_	_	3	aux	_	_
+3	miní	_	VERB	_	_	0	root	_	_
+4	ya	_	ADV	_	_	3	advmod	_	_
+5	.	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 25
+# text = i tan pa losa mi .
+1	i	_	PRON	_	_	2	nsubj	_	_
+2	tan	_	AUX	_	_	0	root	_	_
+3	pa	_	ADP	_	_	4	case	_	_
+4	losa	_	NOUN	_	_	2	obl	_	_
+5	mi	_	PRON	_	_	4	det	_	_
+6	.	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 26
+# text = aló ngutá mi nu .
+1	aló	_	NOUN	_	_	2	nsubj	_	_
+2	ngutá	_	VERB	_	_	0	root	_	_
+3	mi	_	PRON	_	_	2	iobj	_	_
+4	nu	_	ADV	_	_	2	advmod	_	_
+5	.	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 27
+# text = bo tan susiá mi .
+1	bo	_	PRON	_	_	3	nsubj	_	_
+2	tan	_	AUX	_	_	3	aux	_	_
+3	susiá	_	VERB	_	_	0	root	_	_
+4	mi	_	PRON	_	_	3	iobj	_	_
+5	.	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 28
+# text = i tan nda bo ele .
+1	i	_	PRON	_	_	3	nsubj	_	_
+2	tan	_	AUX	_	_	3	aux	_	_
+3	nda	_	VERB	_	_	0	root	_	_
+4	bo	_	PRON	_	_	3	iobj	_	_
+5	ele	_	PRON	_	_	3	obj	_	_
+6	.	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 29
+# text = suto asé-ba yebá ma mboyo .
+1	suto	_	PRON	_	_	3	nsubj	_	_
+2	asé-ba	a se	AUX	_	_	3	aux	_	_
+3	yebá	_	VERB	_	_	0	root	_	_
+4	ma	_	DET	_	_	5	nummod	_	_
+5	mboyo	_	NOUN	_	_	3	obj	_	_
+6	.	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 30
+# text = depué suto kabá peliá .
+1	depué	_	ADV	_	_	3	advmod	_	_
+2	suto	_	PRON	_	_	3	nsubj	_	_
+3	kabá	_	VERB	_	_	0	root	_	_
+4	peliá	_	VERB	_	_	3	xcomp	_	_
+5	.	_	PUNCT	_	_	3	punct	_	_
+
