@@ -1,0 +1,2120 @@
+# sent_id = 2_palenquero_10_cv__1
+# text = ku ele bo a miní ri ngubá
+1	ku	_	ADP	_	_	7	case	_	_
+2	ele	_	PRON	_	_	5	nsubj	_	_
+3	bo	_	PRON	_	_	5	nsubj	_	_
+4	a	_	AUX	_	_	5	aux	_	_
+5	miní	_	VERB	_	_	0	root	_	_
+6	ri	_	ADP	_	_	7	case	_	_
+7	ngubá	_	NOUN	_	_	5	obj	_	_
+
+# sent_id = 2_palenquero_10_cv__2
+# text = si a sendá tan bonito e beddolaga
+1	si	_	PRON	_	_	3	nsubj	_	_
+2	a	_	AUX	_	_	3	aux	_	_
+3	sendá	_	VERB	_	_	0	root	_	_
+4	tan	tan	AUX	_	_	3	aux	_	_
+5	bonito	_	NOUN	_	_	3	obl	_	_
+6	e	_	DET	_	_	3	det	_	_
+7	beddolaga	_	NOUN	_	_	3	obj	_	_
+
+# sent_id = 2_palenquero_10_cv__3
+# text = kuandi babbarita teneba un ma ocho año , un noche , poleba ndrumí nú , i ele a ndrumí chakoso
+1	kuandi	_	ADV	_	_	2	mark	_	_
+2	babbarita	_	NOUN	_	_	3	obj	_	_
+3	teneba	_	VERB	_	_	0	root	_	_
+4	un	_	DET	_	_	10	det	_	_
+5	ma	_	DET	_	_	10	nummod	_	_
+6	ocho	_	DET	_	_	2	advmod	_	_
+7	año	_	NOUN	_	_	3	obl	_	_
+8	,	_	PUNCT	_	_	3	punct	_	_
+9	un	_	DET	_	_	7	det	_	_
+10	noche	_	NOUN	_	_	3	obj	_	_
+11	,	_	PUNCT	_	_	3	punct	_	_
+12	poleba	_	NOUN	_	_	3	obj	_	_
+13	ndrumí	_	NOUN	_	_	2	num	_	_
+14	nú	_	ADV	_	_	2	advmod	_	_
+15	,	_	PUNCT	_	_	3	punct	_	_
+16	i	_	PRON	_	_	3	nsubj	_	_
+17	ele	_	PRON	_	_	2	nsubj	_	_
+18	a	_	AUX	_	_	3	aux	_	_
+19	ndrumí	_	PUNCT	_	_	3	punct	_	_
+20	chakoso	_	NOUN	_	_	3	obj	_	_
+
+# sent_id = 2_palenquero_10_cv__4
+# text = komagrona , ana teresa , ri sendaba numana salomón , repué ri yulá benita ku nasimiento ri monasita , a santigualo i a miná ma ojo penené ri monasita
+1	komagrona	_	NOUN	_	_	24	obj	_	_
+2	,	_	PUNCT	_	_	24	punct	_	_
+3	ana	_	ADV	_	_	24	advmod	_	_
+4	teresa	_	VERB	_	_	24	ccomp	_	_
+5	,	_	PUNCT	_	_	24	punct	_	_
+6	ri	_	ADP	_	_	16	case	_	_
+7	sendaba	_	NOUN	_	_	24	obj	_	_
+8	numana	_	NOUN	_	_	24	obj	_	_
+9	salomón	_	NOUN	_	_	24	aux	_	_
+10	,	_	PUNCT	_	_	24	punct	_	_
+11	repué	_	NOUN	_	_	24	obj	_	_
+12	ri	_	ADP	_	_	16	case	_	_
+13	yulá	_	VERB	_	_	24	advcl	_	_
+14	benita	_	VERB	_	_	24	advcl	_	_
+15	ku	_	ADP	_	_	16	case	_	_
+16	nasimiento	_	NOUN	_	_	24	obj	_	_
+17	ri	_	ADP	_	_	16	case	_	_
+18	monasita	_	NOUN	_	_	24	obj	_	_
+19	,	_	PUNCT	_	_	24	punct	_	_
+20	a	_	AUX	_	_	24	aux	_	_
+21	santigualo	_	NOUN	_	_	24	obl	_	_
+22	i	_	PRON	_	_	24	nsubj	_	_
+23	a	_	AUX	_	_	24	aux	_	_
+24	miná	_	VERB	_	_	0	root	_	_
+25	ma	_	DET	_	_	16	nummod	_	_
+26	ojo	_	PRON	_	_	24	obl	_	_
+27	penené	_	VERB	_	_	24	obj	_	_
+28	ri	_	ADP	_	_	16	case	_	_
+29	monasita	_	NOUN	_	_	24	obj	_	_
+
+# sent_id = 2_palenquero_10_cv__5
+# text = bo é ekojía ri ngubá
+1	bo	_	PRON	_	_	3	nsubj	_	_
+2	é	_	AUX	_	_	3	cop	_	_
+3	ekojía	_	VERB	_	_	0	root	_	_
+4	ri	_	ADP	_	_	5	case	_	_
+5	ngubá	_	NOUN	_	_	3	obj	_	_
+
+# sent_id = 2_palenquero_10_cv__6
+# text = asina í a aselo
+1	asina	asina	AUX	_	_	4	advmod	_	_
+2	í	_	PRON	_	_	4	nsubj	_	_
+3	a	_	AUX	_	_	4	aux	_	_
+4	aselo	aselo	VERB	_	_	0	root	_	_
+
+# sent_id = 2_palenquero_10_cv__7
+# text = i a eplikalo ke obra a sendaba ri musika i poreo ma atto ateneba ke prepará pa kandá i sarangiá aí tarima
+1	i	_	PRON	_	_	3	nsubj	_	_
+2	a	_	AUX	_	_	3	aux	_	_
+3	eplikalo	_	VERB	_	_	0	root	_	_
+4	ke	_	SCONJ	_	_	7	mark	_	_
+5	obra	_	NOUN	_	_	3	obl	_	_
+6	a	_	AUX	_	_	7	aux	_	_
+7	sendaba	_	NOUN	_	_	3	obj	_	_
+8	ri	_	ADP	_	_	22	case	_	_
+9	musika	_	NOUN	_	_	3	obl	_	_
+10	i	_	PRON	_	_	7	cc	_	_
+11	poreo	_	NOUN	_	_	3	obl	_	_
+12	ma	_	DET	_	_	9	nummod	_	_
+13	atto	_	NOUN	_	_	3	obl	_	_
+14	ateneba	_	NOUN	_	_	3	obl	_	_
+15	ke	_	ADP	_	_	7	mark	_	_
+16	prepará	_	NOUN	_	_	3	obj	_	_
+17	pa	_	ADP	_	_	9	case	_	_
+18	kandá	_	NOUN	_	_	3	obj	_	_
+19	i	_	PRON	_	_	3	nsubj	_	_
+20	sarangiá	_	NOUN	_	_	3	obj	_	_
+21	aí	_	ADV	_	_	7	advmod	_	_
+22	tarima	_	NOUN	_	_	3	obj	_	_
+
+# sent_id = 2_palenquero_10_cv__8
+# text = asina kandando i ku rrapá tiela , babbarita a jundá ku kuagro ri ma mujé ri la bonga , pa semblá i rrekojé ngubá
+1	asina	_	AUX	_	_	21	aux	_	_
+2	kandando	_	NOUN	_	_	21	obj	_	_
+3	i	_	PRON	_	_	21	nsubj	_	_
+4	ku	_	ADP	_	_	6	case	_	_
+5	rrapá	_	PUNCT	_	_	21	punct	_	_
+6	tiela	_	NOUN	_	_	21	obj	_	_
+7	,	_	PUNCT	_	_	21	punct	_	_
+8	babbarita	_	NOUN	_	_	21	obj	_	_
+9	a	_	AUX	_	_	21	aux	_	_
+10	jundá	_	NOUN	_	_	21	obj	_	_
+11	ku	_	ADP	_	_	6	case	_	_
+12	kuagro	_	NOUN	_	_	21	obj	_	_
+13	ri	_	ADP	_	_	6	case	_	_
+14	ma	_	DET	_	_	6	nummod	_	_
+15	mujé	_	NOUN	_	_	21	nsubj	_	_
+16	ri	_	ADP	_	_	6	case	_	_
+17	la	_	DET	_	_	6	nummod	_	_
+18	bonga	_	NOUN	_	_	21	obj	_	_
+19	,	_	PUNCT	_	_	21	punct	_	_
+20	pa	_	ADP	_	_	15	case	_	_
+21	semblá	_	VERB	_	_	0	root	_	_
+22	i	_	PRON	_	_	21	nsubj	_	_
+23	rrekojé	_	VERB	_	_	21	nsubj	_	_
+24	ngubá	_	NOUN	_	_	21	obj	_	_
+
+# sent_id = 2_palenquero_10_cv__9
+# text = a lendralo un soyoso kayao , kumo é aguasero loke tré a niña babbaria , monasita ri ele a konsolalo ku un simía ri ngubá
+1	a	_	AUX	_	_	23	aux	_	_
+2	lendralo	_	VERB	_	_	23	nsubj	_	_
+3	un	_	DET	_	_	4	det	_	_
+4	soyoso	_	NOUN	_	_	23	obl	_	_
+5	kayao	_	NOUN	_	_	23	obl	_	_
+6	,	_	PUNCT	_	_	23	punct	_	_
+7	kumo	_	ADV	_	_	23	advmod	_	_
+8	é	_	DET	_	_	13	det	_	_
+9	aguasero	_	NOUN	_	_	23	nsubj	_	_
+10	loke	_	NOUN	_	_	23	obl	_	_
+11	tré	_	NOUN	_	_	23	obl	_	_
+12	a	_	AUX	_	_	13	aux	_	_
+13	niña	_	VERB	_	_	23	obj	_	_
+14	babbaria	_	NOUN	_	_	23	obj	_	_
+15	,	_	PUNCT	_	_	23	punct	_	_
+16	monasita	_	NOUN	_	_	23	nsubj	_	_
+17	ri	_	ADP	_	_	4	case	_	_
+18	ele	_	PRON	_	_	20	det	_	_
+19	a	_	AUX	_	_	13	aux	_	_
+20	konsolalo	_	NOUN	_	_	23	obj	_	_
+21	ku	_	ADP	_	_	5	case	_	_
+22	un	_	DET	_	_	4	det	_	_
+23	simía	_	VERB	_	_	0	root	_	_
+24	ri	_	ADP	_	_	4	case	_	_
+25	ngubá	_	NOUN	_	_	23	obj	_	_
+
+# sent_id = 2_palenquero_10_cv__10
+# text = maé ku mona ri ele a siguí ku trarisió
+1	maé	_	DET	_	_	7	nummod	_	_
+2	ku	_	ADP	_	_	3	case	_	_
+3	mona	_	VERB	_	_	7	conj	_	_
+4	ri	_	ADP	_	_	7	case	_	_
+5	ele	_	PRON	_	_	7	det	_	_
+6	a	_	AUX	_	_	7	aux	_	_
+7	siguí	_	NOUN	_	_	0	root	_	_
+8	ku	_	ADP	_	_	9	case	_	_
+9	trarisió	_	NOUN	_	_	7	obl	_	_
+
+# sent_id = 2_palenquero_10_cv__11
+# text = ane ta kandá jarocho , ma kando ri maní ; kando lo ke ta asé , ke ma simia ta kapurí salindo ele solo ri tiela
+1	ane	_	PRON	_	_	19	nsubj	_	_
+2	ta	_	AUX	_	_	19	aux	_	_
+3	kandá	_	VERB	_	_	0	root	_	_
+4	jarocho	_	NOUN	_	_	19	obj	_	_
+5	,	_	PUNCT	_	_	19	punct	_	_
+6	ma	_	DET	_	_	26	nummod	_	_
+7	kando	_	NOUN	_	_	22	obj	_	_
+8	ri	_	ADP	_	_	26	case	_	_
+9	maní	_	VERB	_	_	22	obj	_	_
+10	;	_	PUNCT	_	_	19	punct	_	_
+11	kando	_	NOUN	_	_	22	obj	_	_
+12	lo	_	ADP	_	_	26	det	_	_
+13	ke	_	ADP	_	_	26	case	_	_
+14	ta	_	AUX	_	_	26	nummod	_	_
+15	asé	_	AUX	_	_	22	aux	_	_
+16	,	_	PUNCT	_	_	19	punct	_	_
+17	ke	_	DET	_	_	19	nsubj	_	_
+18	ma	_	DET	_	_	26	nummod	_	_
+19	simia	_	VERB	_	_	22	nsubj	_	_
+20	ta	_	AUX	_	_	19	aux	_	_
+21	kapurí	_	NOUN	_	_	22	obj	_	_
+22	salindo	_	VERB	_	_	3	obj	_	_
+23	ele	_	PRON	_	_	26	det	_	_
+24	solo	_	NOUN	_	_	19	obl	_	_
+25	ri	_	ADP	_	_	26	case	_	_
+26	tiela	_	NOUN	_	_	19	obl	_	_
+
+# sent_id = 2_palenquero_10_cv__12
+# text = ninguno ri ané seba chitialo ndulo nu , pero a peseba ke kala ku mboso babbarita a seba flojá tiela , ke ata simía a seba salí e solo , pirindo pa ma monasito ku ma mujé ngalalo
+1	ninguno	_	NOUN	_	_	27	obj	_	_
+2	ri	_	ADP	_	_	15	case	_	_
+3	ané	_	PRON	_	_	27	nsubj	_	_
+4	seba	_	DET	_	_	24	nsubj	_	_
+5	chitialo	_	VERB	_	_	27	advcl	_	_
+6	ndulo	_	NOUN	_	_	27	obj	_	_
+7	nu	_	ADV	_	_	27	advmod	_	_
+8	,	_	PUNCT	_	_	27	punct	_	_
+9	pero	_	NOUN	_	_	27	obj	_	_
+10	a	_	AUX	_	_	27	aux	_	_
+11	peseba	_	VERB	_	_	27	nsubj	_	_
+12	ke	_	SCONJ	_	_	15	case	_	_
+13	kala	_	NOUN	_	_	27	nmod	_	_
+14	ku	_	ADP	_	_	15	case	_	_
+15	mboso	_	NOUN	_	_	27	obj	_	_
+16	babbarita	_	NOUN	_	_	27	obj	_	_
+17	a	_	AUX	_	_	27	aux	_	_
+18	seba	_	AUX	_	_	27	aux	_	_
+19	flojá	_	NOUN	_	_	27	nsubj	_	_
+20	tiela	_	NOUN	_	_	27	nsubj	_	_
+21	,	_	PUNCT	_	_	27	punct	_	_
+22	ke	_	SCONJ	_	_	27	nsubj	_	_
+23	ata	_	AUX	_	_	27	aux	_	_
+24	simía	_	VERB	_	_	27	xcomp	_	_
+25	a	_	AUX	_	_	27	aux	_	_
+26	seba	_	AUX	_	_	27	aux	_	_
+27	salí	_	VERB	_	_	0	root	_	_
+28	e	_	DET	_	_	15	det	_	_
+29	solo	_	NOUN	_	_	27	obl	_	_
+30	,	_	PUNCT	_	_	27	punct	_	_
+31	pirindo	_	VERB	_	_	27	obj	_	_
+32	pa	_	ADP	_	_	15	case	_	_
+33	ma	_	DET	_	_	15	nummod	_	_
+34	monasito	_	NOUN	_	_	27	obj	_	_
+35	ku	_	ADP	_	_	15	case	_	_
+36	ma	_	DET	_	_	15	nummod	_	_
+37	mujé	_	NOUN	_	_	27	nsubj	_	_
+38	ngalalo	_	NOUN	_	_	27	obj	_	_
+
+# sent_id = 2_palenquero_10_cv__13
+# text = i babbabarita ku maé ri ele , apesá ri ndoló , a siguí kandando i rapando ma jenerosa tiela ri la bonga
+1	i	_	PRON	_	_	2	nsubj	_	_
+2	babbabarita	_	NOUN	_	_	0	root	_	_
+3	ku	_	ADP	_	_	19	case	_	_
+4	maé	_	NOUN	_	_	2	obj	_	_
+5	ri	_	ADP	_	_	19	case	_	_
+6	ele	_	PRON	_	_	16	det	_	_
+7	,	_	PUNCT	_	_	2	punct	_	_
+8	apesá	_	NOUN	_	_	2	obj	_	_
+9	ri	_	ADP	_	_	19	case	_	_
+10	ndoló	_	NOUN	_	_	2	obj	_	_
+11	,	_	PUNCT	_	_	2	punct	_	_
+12	a	_	AUX	_	_	2	aux	_	_
+13	siguí	_	NOUN	_	_	2	nsubj	_	_
+14	kandando	_	NOUN	_	_	2	obj	_	_
+15	i	_	PRON	_	_	2	nsubj	_	_
+16	rapando	_	NOUN	_	_	2	obj	_	_
+17	ma	_	DET	_	_	19	nummod	_	_
+18	jenerosa	_	NOUN	_	_	2	nsubj	_	_
+19	tiela	_	NOUN	_	_	2	obl	_	_
+20	ri	_	ADP	_	_	19	case	_	_
+21	la	_	DET	_	_	19	nummod	_	_
+22	bonga	_	NOUN	_	_	2	obl	_	_
+
+# sent_id = 2_palenquero_10_cv__14
+# text = kuandi motiao kabá , mujé a ndalo un bosita ku simía ri ngubá a babbarita i a chitialo : bo a tré fettilirá a paraje sí , babbarita
+1	kuandi	_	ADV	_	_	11	mark	_	_
+2	motiao	_	NOUN	_	_	18	obl	_	_
+3	kabá	_	VERB	_	_	11	obj	_	_
+4	,	_	PUNCT	_	_	18	punct	_	_
+5	mujé	_	NOUN	_	_	18	obj	_	_
+6	a	_	AUX	_	_	11	aux	_	_
+7	ndalo	_	NOUN	_	_	18	obj	_	_
+8	un	_	DET	_	_	7	det	_	_
+9	bosita	_	NOUN	_	_	18	obj	_	_
+10	ku	_	ADP	_	_	7	case	_	_
+11	simía	_	VERB	_	_	18	advcl	_	_
+12	ri	_	ADP	_	_	7	case	_	_
+13	ngubá	_	NOUN	_	_	18	obj	_	_
+14	a	_	AUX	_	_	18	aux	_	_
+15	babbarita	_	NOUN	_	_	18	obj	_	_
+16	i	_	PRON	_	_	3	nsubj	_	_
+17	a	_	AUX	_	_	18	aux	_	_
+18	chitialo	_	VERB	_	_	0	root	_	_
+19	:	_	DET	_	_	18	advmod	_	_
+20	bo	_	PRON	_	_	18	nsubj	_	_
+21	a	_	AUX	_	_	18	aux	_	_
+22	tré	_	VERB	_	_	11	nsubj	_	_
+23	fettilirá	_	VERB	_	_	11	conj	_	_
+24	a	_	AUX	_	_	11	aux	_	_
+25	paraje	_	NOUN	_	_	18	obj	_	_
+26	sí	_	ADV	_	_	11	advmod	_	_
+27	,	_	PUNCT	_	_	18	punct	_	_
+28	babbarita	_	NOUN	_	_	18	obj	_	_
+
+# sent_id = 2_palenquero_10_cv__15
+# text = salomón tatá ri monasita ri taba nasé e memo ora a mblasá a birikueta ele paría mblandita
+1	salomón	_	AUX	_	_	14	aux	_	_
+2	tatá	_	AUX	_	_	14	nsubj	_	_
+3	ri	_	ADP	_	_	12	case	_	_
+4	monasita	_	NOUN	_	_	14	advcl	_	_
+5	ri	_	ADP	_	_	12	case	_	_
+6	taba	_	NOUN	_	_	14	obl	_	_
+7	nasé	_	NOUN	_	_	14	obj	_	_
+8	e	_	DET	_	_	12	det	_	_
+9	memo	_	VERB	_	_	14	conj	_	_
+10	ora	_	DET	_	_	14	obl	_	_
+11	a	_	AUX	_	_	14	aux	_	_
+12	mblasá	_	NOUN	_	_	14	obj	_	_
+13	a	_	AUX	_	_	14	aux	_	_
+14	birikueta	_	VERB	_	_	0	root	_	_
+15	ele	_	PRON	_	_	12	det	_	_
+16	paría	_	VERB	_	_	14	advcl	_	_
+17	mblandita	_	VERB	_	_	14	conj	_	_
+
+# sent_id = 2_palenquero_10_cv__16
+# text = ma nuebe noche ri rifunto a pasá
+1	ma	_	DET	_	_	7	nummod	_	_
+2	nuebe	_	ADV	_	_	0	root	_	_
+3	noche	_	NOUN	_	_	2	nsubj	_	_
+4	ri	_	ADP	_	_	7	case	_	_
+5	rifunto	_	NOUN	_	_	2	obj	_	_
+6	a	_	AUX	_	_	7	aux	_	_
+7	pasá	_	VERB	_	_	2	ccomp	_	_
+
+# sent_id = 2_palenquero_10_cv__17
+# text = e trato ku etefanía , suto a fetejalo un merio ría kun só chokao , a olaya errera andi e taba bibí ata e lungá
+1	e	_	DET	_	_	22	nsubj	_	_
+2	trato	_	NOUN	_	_	22	obl	_	_
+3	ku	_	ADP	_	_	14	case	_	_
+4	etefanía	_	VERB	_	_	22	obl	_	_
+5	,	_	PUNCT	_	_	22	punct	_	_
+6	suto	_	PRON	_	_	22	nsubj	_	_
+7	a	_	AUX	_	_	22	aux	_	_
+8	fetejalo	_	NOUN	_	_	22	punct	_	_
+9	un	_	DET	_	_	14	det	_	_
+10	merio	_	VERB	_	_	22	obj	_	_
+11	ría	_	PUNCT	_	_	22	punct	_	_
+12	kun	_	ADP	_	_	14	case	_	_
+13	só	_	DET	_	_	22	obl	_	_
+14	chokao	_	NOUN	_	_	22	obl	_	_
+15	,	_	PUNCT	_	_	22	punct	_	_
+16	a	_	AUX	_	_	22	aux	_	_
+17	olaya	_	NOUN	_	_	22	nsubj	_	_
+18	errera	_	VERB	_	_	22	nsubj	_	_
+19	andi	_	ADP	_	_	14	case	_	_
+20	e	_	DET	_	_	22	aux	_	_
+21	taba	_	NOUN	_	_	22	obl	_	_
+22	bibí	_	VERB	_	_	0	root	_	_
+23	ata	_	AUX	_	_	22	advmod	_	_
+24	e	_	DET	_	_	10	det	_	_
+25	lungá	_	NOUN	_	_	22	obj	_	_
+
+# sent_id = 2_palenquero_10_cv__18
+# text = i a prundá ele : ¿ku ke i tan mantenelo ?
+1	i	_	PRON	_	_	3	nsubj	_	_
+2	a	_	AUX	_	_	3	aux	_	_
+3	prundá	_	VERB	_	_	0	root	_	_
+4	ele	_	PRON	_	_	10	det	_	_
+5	:	_	PUNCT	_	_	10	punct	_	_
+6	¿ku	_	NOUN	_	_	3	obj	_	_
+7	ke	_	ADP	_	_	6	case	_	_
+8	i	_	PRON	_	_	10	nsubj	_	_
+9	tan	_	AUX	_	_	10	aux	_	_
+10	mantenelo	_	NOUN	_	_	3	obj	_	_
+11	?	_	PUNCT	_	_	10	punct	_	_
+
+# sent_id = 2_palenquero_10_cv__19
+# text = monasita lambía ,
+1	monasita	_	NOUN	_	_	2	nsubj	_	_
+2	lambía	_	NOUN	_	_	0	root	_	_
+3	,	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 2_palenquero_10_cv__20
+# text = ane ndo a onrra gueta lo ke mbila a se ndá , asendo lo ke má sen nguta ane , kumo jue sembla maní
+1	ane	_	PRON	_	_	11	nsubj	_	_
+2	ndo	_	NOUN	_	_	11	nsubj	_	_
+3	a	_	AUX	_	_	8	aux	_	_
+4	onrra	_	NOUN	_	_	11	obl	_	_
+5	gueta	_	NOUN	_	_	11	obj	_	_
+6	lo	_	PRON	_	_	8	obl	_	_
+7	ke	_	SCONJ	_	_	8	mark	_	_
+8	mbila	_	VERB	_	_	11	advcl	_	_
+9	a	_	AUX	_	_	8	aux	_	_
+10	se	_	VERB	_	_	8	nsubj	_	_
+11	ndá	_	VERB	_	_	0	root	_	_
+12	,	_	PUNCT	_	_	11	punct	_	_
+13	asendo	_	AUX	_	_	11	aux	_	_
+14	lo	_	PRON	_	_	8	det	_	_
+15	ke	_	SCONJ	_	_	8	mark	_	_
+16	má	_	ADV	_	_	8	advmod	_	_
+17	sen	_	DET	_	_	8	mark	_	_
+18	nguta	_	NOUN	_	_	11	obj	_	_
+19	ane	_	PRON	_	_	8	nsubj	_	_
+20	,	_	PUNCT	_	_	11	punct	_	_
+21	kumo	_	ADV	_	_	8	advmod	_	_
+22	jue	_	ADV	_	_	11	obl	_	_
+23	sembla	_	PUNCT	_	_	8	det	_	_
+24	maní	_	VERB	_	_	11	obj	_	_
+
+# sent_id = 2_palenquero_10_cv__21
+# text = rioso , san basilio ku santa babbara tan protegé bo monasita mí komagrona a chitiá , repué ele a sigí : uuummm , uuju
+1	rioso	_	VERB	_	_	20	obj	_	_
+2	,	_	PUNCT	_	_	20	punct	_	_
+3	san	_	AUX	_	_	20	aux	_	_
+4	basilio	_	NOUN	_	_	20	obj	_	_
+5	ku	_	ADP	_	_	13	case	_	_
+6	santa	_	AUX	_	_	20	obl	_	_
+7	babbara	_	NOUN	_	_	20	obj	_	_
+8	tan	_	AUX	_	_	20	aux	_	_
+9	protegé	_	VERB	_	_	20	nsubj	_	_
+10	bo	_	PRON	_	_	7	det	_	_
+11	monasita	_	NOUN	_	_	20	advcl	_	_
+12	mí	_	ADP	_	_	13	det	_	_
+13	komagrona	_	NOUN	_	_	20	obj	_	_
+14	a	_	AUX	_	_	20	aux	_	_
+15	chitiá	_	VERB	_	_	20	advcl	_	_
+16	,	_	PUNCT	_	_	20	punct	_	_
+17	repué	_	VERB	_	_	20	obj	_	_
+18	ele	_	PRON	_	_	7	det	_	_
+19	a	_	AUX	_	_	20	aux	_	_
+20	sigí	_	VERB	_	_	0	root	_	_
+21	:	_	PUNCT	_	_	20	punct	_	_
+22	uuummm	_	ADV	_	_	20	advmod	_	_
+23	,	_	PUNCT	_	_	20	punct	_	_
+24	uuju	_	ADV	_	_	20	advmod	_	_
+
+# sent_id = 2_palenquero_10_cv__22
+# text = babbarita , ritraia ku ña , ele fijá nu ke noche taba kujelo
+1	babbarita	_	NOUN	_	_	8	nsubj	_	_
+2	,	_	PUNCT	_	_	8	punct	_	_
+3	ritraia	_	VERB	_	_	8	advcl	_	_
+4	ku	_	ADP	_	_	11	case	_	_
+5	ña	_	NOUN	_	_	8	obl	_	_
+6	,	_	PUNCT	_	_	8	punct	_	_
+7	ele	_	PRON	_	_	8	nsubj	_	_
+8	fijá	_	VERB	_	_	0	root	_	_
+9	nu	_	ADV	_	_	1	advmod	_	_
+10	ke	_	SCONJ	_	_	1	mark	_	_
+11	noche	_	NOUN	_	_	8	obl	_	_
+12	taba	_	NOUN	_	_	8	obl	_	_
+13	kujelo	_	ADV	_	_	8	obj	_	_
+
+# sent_id = 2_palenquero_10_cv__23
+# text = a pasá tambié nuebe aguasero kayao ku 14 ri matso
+1	a	_	AUX	_	_	2	aux	_	_
+2	pasá	_	VERB	_	_	0	root	_	_
+3	tambié	_	VERB	_	_	2	obj	_	_
+4	nuebe	_	ADV	_	_	2	obj	_	_
+5	aguasero	_	NOUN	_	_	2	obj	_	_
+6	kayao	_	NOUN	_	_	2	obl	_	_
+7	ku	_	ADP	_	_	6	case	_	_
+8	14	_	DET	_	_	3	advmod	_	_
+9	ri	_	ADP	_	_	6	case	_	_
+10	matso	_	NOUN	_	_	2	obl	_	_
+
+# sent_id = 2_palenquero_10_cv__24
+# text = andi bonga to mundo a sabeba ke salomón a sendaba un piacha andi ma sekreto ri tiela , po ma siembla ri yuka , maí , ñame ku planda andi losa ele
+1	andi	_	ADP	_	_	31	case	_	_
+2	bonga	_	VERB	_	_	21	nsubj	_	_
+3	to	_	DET	_	_	6	aux	_	_
+4	mundo	_	NOUN	_	_	21	obl	_	_
+5	a	_	AUX	_	_	6	aux	_	_
+6	sabeba	_	VERB	_	_	21	obj	_	_
+7	ke	_	ADP	_	_	31	case	_	_
+8	salomón	_	NOUN	_	_	6	aux	_	_
+9	a	_	AUX	_	_	6	aux	_	_
+10	sendaba	_	NOUN	_	_	21	obj	_	_
+11	un	_	DET	_	_	31	det	_	_
+12	piacha	_	NOUN	_	_	21	obj	_	_
+13	andi	_	ADP	_	_	31	case	_	_
+14	ma	_	DET	_	_	31	nummod	_	_
+15	sekreto	_	NOUN	_	_	21	obl	_	_
+16	ri	_	ADP	_	_	31	case	_	_
+17	tiela	_	NOUN	_	_	21	obl	_	_
+18	,	_	PUNCT	_	_	21	punct	_	_
+19	po	_	ADP	_	_	6	aux	_	_
+20	ma	_	DET	_	_	31	nummod	_	_
+21	siembla	_	VERB	_	_	0	root	_	_
+22	ri	_	ADP	_	_	31	case	_	_
+23	yuka	_	NOUN	_	_	21	obl	_	_
+24	,	_	PUNCT	_	_	21	punct	_	_
+25	maí	_	NOUN	_	_	21	nsubj	_	_
+26	,	_	PUNCT	_	_	21	punct	_	_
+27	ñame	_	PUNCT	_	_	21	punct	_	_
+28	ku	_	ADP	_	_	31	case	_	_
+29	planda	_	NOUN	_	_	21	obl	_	_
+30	andi	_	ADP	_	_	31	case	_	_
+31	losa	_	NOUN	_	_	21	obl	_	_
+32	ele	_	PRON	_	_	12	det	_	_
+
+# sent_id = 2_palenquero_10_cv__25
+# text = repué a sottalo kabeo i a lanká a motialo , kandandó :
+1	repué	_	VERB	_	_	4	obj	_	_
+2	a	_	AUX	_	_	4	aux	_	_
+3	sottalo	_	NOUN	_	_	4	obl	_	_
+4	kabeo	_	VERB	_	_	0	root	_	_
+5	i	_	PRON	_	_	4	nsubj	_	_
+6	a	_	AUX	_	_	4	aux	_	_
+7	lanká	_	NOUN	_	_	4	obj	_	_
+8	a	_	AUX	_	_	4	aux	_	_
+9	motialo	_	NOUN	_	_	4	obl	_	_
+10	,	_	PUNCT	_	_	4	punct	_	_
+11	kandandó	_	NOUN	_	_	4	nmod	_	_
+12	:	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 2_palenquero_10_cv__26
+# text = ese sendaba pueto preferío andi bonga , palo ri karakolí ri ele , andi ele aseba trepá tó ma tadde kuendí ele sendaba monasita
+1	ese	_	DET	_	_	17	nsubj	_	_
+2	sendaba	_	NOUN	_	_	17	obj	_	_
+3	pueto	_	VERB	_	_	17	advcl	_	_
+4	preferío	_	NOUN	_	_	17	obj	_	_
+5	andi	_	ADP	_	_	8	case	_	_
+6	bonga	_	NOUN	_	_	17	obj	_	_
+7	,	_	PUNCT	_	_	17	punct	_	_
+8	palo	_	NOUN	_	_	17	obl	_	_
+9	ri	_	ADP	_	_	8	case	_	_
+10	karakolí	_	NOUN	_	_	17	obj	_	_
+11	ri	_	ADP	_	_	8	case	_	_
+12	ele	_	PRON	_	_	17	obj	_	_
+13	,	_	PUNCT	_	_	17	punct	_	_
+14	andi	_	ADP	_	_	8	case	_	_
+15	ele	_	PRON	_	_	17	nsubj	_	_
+16	aseba	_	AUX	_	_	17	aux	_	_
+17	trepá	_	VERB	_	_	0	root	_	_
+18	tó	_	DET	_	_	17	cop	_	_
+19	ma	_	DET	_	_	8	nummod	_	_
+20	tadde	_	DET	_	_	17	punct	_	_
+21	kuendí	_	VERB	_	_	17	obj	_	_
+22	ele	_	PRON	_	_	17	nsubj	_	_
+23	sendaba	_	NOUN	_	_	17	obj	_	_
+24	monasita	_	NOUN	_	_	17	advcl	_	_
+
+# sent_id = 2_palenquero_10_cv__27
+# text = ri repente ele a nda kuenda ri un motiao , ritinto , andi kabeo ri mona ri ele , pero un motiao ke ele nda kuenda ri kiene jue , un motiao ke sendaba en mapa biejo , ku kamino pandi palo ri karakolí
+1	ri	_	ADP	_	_	40	det	_	_
+2	repente	_	NOUN	_	_	37	nsubj	_	_
+3	ele	_	PRON	_	_	40	det	_	_
+4	a	_	AUX	_	_	14	aux	_	_
+5	nda	_	VERB	_	_	37	nsubj	_	_
+6	kuenda	_	VERB	_	_	37	obj	_	_
+7	ri	_	ADP	_	_	40	case	_	_
+8	un	_	DET	_	_	40	det	_	_
+9	motiao	_	NOUN	_	_	37	obl	_	_
+10	,	_	PUNCT	_	_	37	punct	_	_
+11	ritinto	_	NOUN	_	_	37	obl	_	_
+12	,	_	PUNCT	_	_	37	punct	_	_
+13	andi	_	ADP	_	_	40	case	_	_
+14	kabeo	_	VERB	_	_	37	obj	_	_
+15	ri	_	ADP	_	_	40	case	_	_
+16	mona	_	NOUN	_	_	37	obl	_	_
+17	ri	_	ADP	_	_	40	case	_	_
+18	ele	_	PRON	_	_	14	obj	_	_
+19	,	_	PUNCT	_	_	37	punct	_	_
+20	pero	_	NOUN	_	_	37	obj	_	_
+21	un	_	DET	_	_	40	det	_	_
+22	motiao	_	NOUN	_	_	37	obl	_	_
+23	ke	_	PRON	_	_	14	mark	_	_
+24	ele	_	PRON	_	_	40	det	_	_
+25	nda	_	NOUN	_	_	37	nsubj	_	_
+26	kuenda	_	VERB	_	_	19	root	_	_
+27	ri	_	ADP	_	_	40	case	_	_
+28	kiene	_	VERB	_	_	19	root	_	_
+29	jue	_	NOUN	_	_	37	obj	_	_
+30	,	_	PUNCT	_	_	14	punct	_	_
+31	un	_	DET	_	_	40	det	_	_
+32	motiao	_	NOUN	_	_	37	obl	_	_
+33	ke	_	PRON	_	_	40	det	_	_
+34	sendaba	_	NOUN	_	_	37	obj	_	_
+35	en	_	DET	_	_	40	det	_	_
+36	mapa	_	NOUN	_	_	37	obj	_	_
+37	biejo	_	VERB	_	_	0	root	_	_
+38	,	_	PUNCT	_	_	37	punct	_	_
+39	ku	_	ADP	_	_	40	case	_	_
+40	kamino	_	NOUN	_	_	37	obl	_	_
+41	pandi	_	PUNCT	_	_	37	punct	_	_
+42	palo	_	NOUN	_	_	37	obl	_	_
+43	ri	_	ADP	_	_	40	case	_	_
+44	karakolí	_	VERB	_	_	37	obj	_	_
+
+# sent_id = 2_palenquero_10_cv__28
+# text = chito a chito , babbarita a konfiá
+1	chito	_	PRON	_	_	5	nsubj	_	_
+2	a	_	AUX	_	_	3	aux	_	_
+3	chito	_	VERB	_	_	0	root	_	_
+4	,	_	PUNCT	_	_	3	punct	_	_
+5	babbarita	_	NOUN	_	_	3	obj	_	_
+6	a	_	AUX	_	_	3	aux	_	_
+7	konfiá	_	NOUN	_	_	5	conj	_	_
+
+# sent_id = 2_palenquero_10_cv__29
+# text = a notá un lú ri kolá ma kukuyo ri se alumbrá ma monde andi me ri pakua
+1	a	_	AUX	_	_	2	aux	_	_
+2	notá	_	VERB	_	_	6	ccomp	_	_
+3	un	_	DET	_	_	13	det	_	_
+4	lú	_	NOUN	_	_	6	obj	_	_
+5	ri	_	ADP	_	_	13	case	_	_
+6	kolá	_	VERB	_	_	0	root	_	_
+7	ma	_	DET	_	_	13	nummod	_	_
+8	kukuyo	_	NOUN	_	_	6	obj	_	_
+9	ri	_	ADP	_	_	13	case	_	_
+10	se	_	DET	_	_	13	det	_	_
+11	alumbrá	_	NOUN	_	_	6	advmod	_	_
+12	ma	_	DET	_	_	13	nummod	_	_
+13	monde	_	NOUN	_	_	2	obl	_	_
+14	andi	_	ADP	_	_	13	case	_	_
+15	me	_	DET	_	_	13	nummod	_	_
+16	ri	_	ADP	_	_	13	case	_	_
+17	pakua	_	NOUN	_	_	6	obj	_	_
+
+# sent_id = 2_palenquero_10_cv__30
+# text = kuandi babbarita a kumplí 5 año , a seba juguá ku muñeka i ku chokorito kumo ma uto monasita , pero kuando e taba a posá e solo a seba ngalá sokito i a seba bae pa kolao a kobá ku rrekojé un ma simiita pa ichalo andi un tutumita
+1	kuandi	_	ADV	_	_	4	mark	_	_
+2	babbarita	_	NOUN	_	_	4	nsubj	_	_
+3	a	_	AUX	_	_	45	aux	_	_
+4	kumplí	_	VERB	_	_	45	obj	_	_
+5	5	_	NOUN	_	_	4	obj	_	_
+6	año	_	NOUN	_	_	45	obl	_	_
+7	,	_	PUNCT	_	_	45	punct	_	_
+8	a	_	AUX	_	_	45	aux	_	_
+9	seba	_	AUX	_	_	45	nsubj	_	_
+10	juguá	_	NOUN	_	_	45	nsubj	_	_
+11	ku	_	ADP	_	_	15	case	_	_
+12	muñeka	_	NOUN	_	_	4	obj	_	_
+13	i	_	PRON	_	_	45	nsubj	_	_
+14	ku	_	ADP	_	_	15	case	_	_
+15	chokorito	_	NOUN	_	_	45	obl	_	_
+16	kumo	_	ADP	_	_	4	advmod	_	_
+17	ma	_	DET	_	_	15	nummod	_	_
+18	uto	_	NOUN	_	_	4	obl	_	_
+19	monasita	_	NOUN	_	_	4	obj	_	_
+20	,	_	PUNCT	_	_	45	punct	_	_
+21	pero	_	NOUN	_	_	4	advmod	_	_
+22	kuando	_	ADV	_	_	4	mark	_	_
+23	e	_	DET	_	_	45	aux	_	_
+24	taba	_	NOUN	_	_	45	nsubj	_	_
+25	a	_	AUX	_	_	45	aux	_	_
+26	posá	_	VERB	_	_	4	nsubj	_	_
+27	e	_	DET	_	_	47	det	_	_
+28	solo	_	NOUN	_	_	45	obl	_	_
+29	a	_	AUX	_	_	45	aux	_	_
+30	seba	_	VERB	_	_	4	nsubj	_	_
+31	ngalá	_	NOUN	_	_	4	obj	_	_
+32	sokito	_	NOUN	_	_	45	obj	_	_
+33	i	_	PRON	_	_	45	nsubj	_	_
+34	a	_	AUX	_	_	45	aux	_	_
+35	seba	_	NOUN	_	_	4	nsubj	_	_
+36	bae	_	VERB	_	_	4	conj	_	_
+37	pa	_	ADP	_	_	15	case	_	_
+38	kolao	_	NOUN	_	_	45	obl	_	_
+39	a	_	AUX	_	_	45	aux	_	_
+40	kobá	_	VERB	_	_	4	ccomp	_	_
+41	ku	_	ADP	_	_	15	case	_	_
+42	rrekojé	_	DET	_	_	45	punct	_	_
+43	un	_	DET	_	_	47	det	_	_
+44	ma	_	DET	_	_	15	nummod	_	_
+45	simiita	_	VERB	_	_	0	root	_	_
+46	pa	_	ADP	_	_	15	case	_	_
+47	ichalo	_	NOUN	_	_	4	nsubj	_	_
+48	andi	_	ADP	_	_	15	case	_	_
+49	un	_	DET	_	_	15	det	_	_
+50	tutumita	_	NOUN	_	_	4	obl	_	_
+
+# sent_id = 2_palenquero_10_cv__31
+# text = sabó ri é pipita a aselo kolá , benita , ngubá ri tiembo kuandi é taba monasita , i kapurí sin sabé pokke , ele a sindí mejó
+1	sabó	_	AUX	_	_	22	aux	_	_
+2	ri	_	ADP	_	_	11	case	_	_
+3	é	_	DET	_	_	27	cop	_	_
+4	pipita	_	VERB	_	_	22	nsubj	_	_
+5	a	_	AUX	_	_	27	aux	_	_
+6	aselo	_	AUX	_	_	27	aux	_	_
+7	kolá	_	VERB	_	_	13	ccomp	_	_
+8	,	_	PUNCT	_	_	27	punct	_	_
+9	benita	_	VERB	_	_	22	obj	_	_
+10	,	_	PUNCT	_	_	27	punct	_	_
+11	ngubá	_	NOUN	_	_	22	obj	_	_
+12	ri	_	ADP	_	_	11	case	_	_
+13	tiembo	_	NOUN	_	_	27	obj	_	_
+14	kuandi	_	ADV	_	_	13	advmod	_	_
+15	é	_	DET	_	_	27	det	_	_
+16	taba	_	NOUN	_	_	27	advmod	_	_
+17	monasita	_	NOUN	_	_	22	obj	_	_
+18	,	_	PUNCT	_	_	27	punct	_	_
+19	i	_	PRON	_	_	22	nsubj	_	_
+20	kapurí	_	VERB	_	_	22	ccomp	_	_
+21	sin	_	ADP	_	_	13	det	_	_
+22	sabé	_	VERB	_	_	13	ccomp	_	_
+23	pokke	_	VERB	_	_	27	advcl	_	_
+24	,	_	PUNCT	_	_	27	punct	_	_
+25	ele	_	PRON	_	_	22	nsubj	_	_
+26	a	_	AUX	_	_	27	aux	_	_
+27	sindí	_	VERB	_	_	0	root	_	_
+28	mejó	_	VERB	_	_	13	ccomp	_	_
+
+# sent_id = 2_palenquero_10_cv__32
+# text = nombre mí gue bernardino pérez i ma kombilesa a se ñamá mí mopli
+1	nombre	_	NOUN	_	_	4	nsubj	_	_
+2	mí	_	NOUN	_	_	8	det	_	_
+3	gue	_	DET	_	_	8	det	_	_
+4	bernardino	_	VERB	_	_	0	root	_	_
+5	pérez	_	VERB	_	_	4	obj	_	_
+6	i	_	PRON	_	_	8	det	_	_
+7	ma	_	DET	_	_	13	nummod	_	_
+8	kombilesa	_	NOUN	_	_	4	nsubj	_	_
+9	a	_	AUX	_	_	8	aux	_	_
+10	se	_	DET	_	_	13	det	_	_
+11	ñamá	_	PUNCT	_	_	4	punct	_	_
+12	mí	_	NOUN	_	_	4	obj	_	_
+13	mopli	_	NOUN	_	_	4	obj	_	_
+
+# sent_id = 2_palenquero_10_cv__33
+# text = primó bo a ten ke pirí pa polé nda ku guen tiela , freko , sekkita ri loyo
+1	primó	_	VERB	_	_	4	advcl	_	_
+2	bo	_	PRON	_	_	4	nsubj	_	_
+3	a	_	AUX	_	_	4	aux	_	_
+4	ten	_	VERB	_	_	0	root	_	_
+5	ke	_	ADP	_	_	12	case	_	_
+6	pirí	_	VERB	_	_	4	advcl	_	_
+7	pa	_	ADP	_	_	12	case	_	_
+8	polé	_	VERB	_	_	4	advcl	_	_
+9	nda	_	PUNCT	_	_	4	punct	_	_
+10	ku	_	ADP	_	_	12	case	_	_
+11	guen	_	VERB	_	_	4	obj	_	_
+12	tiela	_	NOUN	_	_	4	obl	_	_
+13	,	_	PUNCT	_	_	4	punct	_	_
+14	freko	_	NOUN	_	_	4	obj	_	_
+15	,	_	PUNCT	_	_	4	punct	_	_
+16	sekkita	_	NOUN	_	_	4	obj	_	_
+17	ri	_	ADP	_	_	12	case	_	_
+18	loyo	_	NOUN	_	_	4	obl	_	_
+
+# sent_id = 2_palenquero_10_cv__34
+# text = etefanía kaisero taba trabesá siurá ri katajena
+1	etefanía	_	AUX	_	_	5	cop	_	_
+2	kaisero	_	NOUN	_	_	4	nsubj	_	_
+3	taba	_	AUX	_	_	5	aux	_	_
+4	trabesá	_	NOUN	_	_	0	root	_	_
+5	siurá	_	ADP	_	_	4	advcl	_	_
+6	ri	_	ADP	_	_	7	case	_	_
+7	katajena	_	NOUN	_	_	5	obl	_	_
+
+# sent_id = 2_palenquero_10_cv__35
+# text = kuandi babbarita a yegá andi posá ri ele , a topetalo yeno ri un chochá ri jende
+1	kuandi	_	ADV	_	_	4	mark	_	_
+2	babbarita	_	NOUN	_	_	4	obj	_	_
+3	a	_	AUX	_	_	4	aux	_	_
+4	yegá	_	VERB	_	_	0	root	_	_
+5	andi	_	ADP	_	_	15	case	_	_
+6	posá	_	NOUN	_	_	4	obj	_	_
+7	ri	_	ADP	_	_	15	case	_	_
+8	ele	_	PRON	_	_	15	det	_	_
+9	,	_	PUNCT	_	_	4	punct	_	_
+10	a	_	AUX	_	_	4	aux	_	_
+11	topetalo	_	VERB	_	_	4	ccomp	_	_
+12	yeno	_	PRON	_	_	4	obj	_	_
+13	ri	_	ADP	_	_	15	case	_	_
+14	un	_	DET	_	_	15	det	_	_
+15	chochá	_	NOUN	_	_	4	nsubj	_	_
+16	ri	_	ADP	_	_	15	case	_	_
+17	jende	_	NOUN	_	_	4	nsubj	_	_
+
+# sent_id = 2_palenquero_10_cv__36
+# text = i a saluralo ia bae pa kolaó pa mina kumo jueba beddolaga searregababeddolaga jue ri seba representá etefanía , a patio , aí mboso ele etable ataba floriaoun tiembo repué ia kuchá un chite andi etefanía a jablá joje ngansiaitoria ri kolao yeno ri beddolaga , ke a sendá memo itoria ri buyerenge kease ñamá asinauto ría , katalino parra , lo ke senda foklorita lo memo ke yo , a tre mi un kotea ri tiela
+1	i	_	PRON	_	_	38	nsubj	_	_
+2	a	_	AUX	_	_	38	aux	_	_
+3	saluralo	_	NOUN	_	_	38	aux	_	_
+4	ia	_	DET	_	_	9	det	_	_
+5	bae	_	VERB	_	_	29	conj	_	_
+6	pa	_	ADP	_	_	9	case	_	_
+7	kolaó	_	NOUN	_	_	38	obl	_	_
+8	pa	_	ADP	_	_	9	case	_	_
+9	mina	_	NOUN	_	_	72	obl	_	_
+10	kumo	_	NOUN	_	_	72	obj	_	_
+11	jueba	_	VERB	_	_	72	obl	_	_
+12	beddolaga	_	NOUN	_	_	38	obj	_	_
+13	searregababeddolaga	_	VERB	_	_	38	nsubj	_	_
+14	jue	_	VERB	_	_	72	obl	_	_
+15	ri	_	ADP	_	_	9	case	_	_
+16	seba	_	DET	_	_	38	nsubj	_	_
+17	representá	_	NOUN	_	_	38	obj	_	_
+18	etefanía	_	VERB	_	_	38	cop	_	_
+19	,	_	PUNCT	_	_	38	punct	_	_
+20	a	_	AUX	_	_	38	aux	_	_
+21	patio	_	NOUN	_	_	38	obl	_	_
+22	,	_	PUNCT	_	_	38	punct	_	_
+23	aí	_	ADV	_	_	38	advmod	_	_
+24	mboso	_	NOUN	_	_	38	obj	_	_
+25	ele	_	PRON	_	_	9	det	_	_
+26	etable	_	NOUN	_	_	38	ccomp	_	_
+27	ataba	_	AUX	_	_	38	advmod	_	_
+28	floriaoun	_	NOUN	_	_	38	obl	_	_
+29	tiembo	_	NOUN	_	_	38	nsubj	_	_
+30	repué	_	NOUN	_	_	72	obj	_	_
+31	ia	_	DET	_	_	9	det	_	_
+32	kuchá	_	VERB	_	_	29	conj	_	_
+33	un	_	DET	_	_	9	det	_	_
+34	chite	_	VERB	_	_	38	nsubj	_	_
+35	andi	_	ADP	_	_	9	case	_	_
+36	etefanía	_	VERB	_	_	38	cop	_	_
+37	a	_	AUX	_	_	38	aux	_	_
+38	jablá	_	VERB	_	_	0	root	_	_
+39	joje	_	PUNCT	_	_	38	punct	_	_
+40	ngansiaitoria	_	NOUN	_	_	72	obj	_	_
+41	ri	_	ADP	_	_	9	case	_	_
+42	kolao	_	NOUN	_	_	72	obl	_	_
+43	yeno	_	VERB	_	_	38	nsubj	_	_
+44	ri	_	ADP	_	_	9	case	_	_
+45	beddolaga	_	NOUN	_	_	38	obj	_	_
+46	,	_	PUNCT	_	_	38	punct	_	_
+47	ke	_	PRON	_	_	38	nsubj	_	_
+48	a	_	AUX	_	_	38	aux	_	_
+49	sendá	_	VERB	_	_	38	ccomp	_	_
+50	memo	_	VERB	_	_	38	obj	_	_
+51	itoria	_	PRON	_	_	38	nsubj	_	_
+52	ri	_	ADP	_	_	9	case	_	_
+53	buyerenge	_	NOUN	_	_	38	nsubj	_	_
+54	kease	_	VERB	_	_	29	conj	_	_
+55	ñamá	_	NOUN	_	_	38	num	_	_
+56	asinauto	_	AUX	_	_	38	aux	_	_
+57	ría	_	NOUN	_	_	38	obj	_	_
+58	,	_	PUNCT	_	_	38	punct	_	_
+59	katalino	_	NOUN	_	_	38	obj	_	_
+60	parra	_	NOUN	_	_	72	obl	_	_
+61	,	_	PUNCT	_	_	38	punct	_	_
+62	lo	_	PRON	_	_	38	obl	_	_
+63	ke	_	SCONJ	_	_	38	mark	_	_
+64	senda	_	NOUN	_	_	72	obl	_	_
+65	foklorita	_	NOUN	_	_	38	obj	_	_
+66	lo	_	ADP	_	_	9	det	_	_
+67	memo	_	NOUN	_	_	38	obj	_	_
+68	ke	_	ADP	_	_	9	case	_	_
+69	yo	_	PRON	_	_	38	obl	_	_
+70	,	_	PUNCT	_	_	38	punct	_	_
+71	a	_	AUX	_	_	38	aux	_	_
+72	tre	_	VERB	_	_	38	ccomp	_	_
+73	mi	_	PRON	_	_	9	det	_	_
+74	un	_	DET	_	_	9	det	_	_
+75	kotea	_	VERB	_	_	38	ccomp	_	_
+76	ri	_	ADP	_	_	9	case	_	_
+77	tiela	_	NOUN	_	_	38	nsubj	_	_
+
+# sent_id = 2_palenquero_10_cv__37
+# text = benita ta pasá mano ri é po kabesa babbarita , kumo pa asegurá ke ele nú ngalara kaddume pa bae uto begá
+1	benita	_	VERB	_	_	22	nsubj	_	_
+2	ta	_	AUX	_	_	22	aux	_	_
+3	pasá	_	VERB	_	_	22	obj	_	_
+4	mano	_	NOUN	_	_	22	obj	_	_
+5	ri	_	ADP	_	_	9	case	_	_
+6	é	_	DET	_	_	9	det	_	_
+7	po	_	ADP	_	_	9	case	_	_
+8	kabesa	_	NOUN	_	_	22	obj	_	_
+9	babbarita	_	NOUN	_	_	22	obj	_	_
+10	,	_	PUNCT	_	_	22	punct	_	_
+11	kumo	_	ADV	_	_	22	advmod	_	_
+12	pa	_	ADP	_	_	9	case	_	_
+13	asegurá	_	AUX	_	_	22	aux	_	_
+14	ke	_	ADP	_	_	9	case	_	_
+15	ele	_	PRON	_	_	9	det	_	_
+16	nú	_	ADV	_	_	9	advmod	_	_
+17	ngalara	_	NOUN	_	_	22	obj	_	_
+18	kaddume	_	NOUN	_	_	22	advmod	_	_
+19	pa	_	ADP	_	_	9	case	_	_
+20	bae	_	VERB	_	_	22	conj	_	_
+21	uto	_	ADV	_	_	9	advmod	_	_
+22	begá	_	VERB	_	_	0	root	_	_
+
+# sent_id = 2_palenquero_10_cv__38
+# text = oa , mija , i a miní a motrá kaddume sí
+1	oa	_	PRON	_	_	7	nsubj	_	_
+2	,	_	PUNCT	_	_	7	punct	_	_
+3	mija	_	VERB	_	_	7	advcl	_	_
+4	,	_	PUNCT	_	_	7	punct	_	_
+5	i	_	PRON	_	_	7	nsubj	_	_
+6	a	_	AUX	_	_	7	aux	_	_
+7	miní	_	VERB	_	_	0	root	_	_
+8	a	_	AUX	_	_	7	aux	_	_
+9	motrá	_	NOUN	_	_	7	obl	_	_
+10	kaddume	_	NOUN	_	_	7	advmod	_	_
+11	sí	_	PRON	_	_	7	advmod	_	_
+
+# sent_id = 2_palenquero_10_cv__39
+# text = buyerenge a senda ri sielo
+1	buyerenge	_	NOUN	_	_	3	nsubj	_	_
+2	a	_	AUX	_	_	3	aux	_	_
+3	senda	_	VERB	_	_	0	root	_	_
+4	ri	_	ADP	_	_	5	case	_	_
+5	sielo	_	NOUN	_	_	3	obl	_	_
+
+# sent_id = 2_palenquero_10_cv__40
+# text = ele a jablá ke si pero kun kondisión
+1	ele	_	PRON	_	_	3	nsubj	_	_
+2	a	_	AUX	_	_	3	aux	_	_
+3	jablá	_	VERB	_	_	0	root	_	_
+4	ke	_	SCONJ	_	_	3	mark	_	_
+5	si	_	PRON	_	_	8	case	_	_
+6	pero	_	NOUN	_	_	3	obj	_	_
+7	kun	_	ADV	_	_	8	case	_	_
+8	kondisión	_	NOUN	_	_	3	obj	_	_
+
+# sent_id = 2_palenquero_10_cv__41
+# text = ¿i si suto lo poné e nombre a monasita suto ?
+1	¿i	_	ADV	_	_	5	advmod	_	_
+2	si	_	PRON	_	_	5	aux	_	_
+3	suto	_	PRON	_	_	5	nsubj	_	_
+4	lo	_	DET	_	_	7	det	_	_
+5	poné	_	VERB	_	_	0	root	_	_
+6	e	_	DET	_	_	7	det	_	_
+7	nombre	_	NOUN	_	_	5	obj	_	_
+8	a	_	AUX	_	_	9	aux	_	_
+9	monasita	_	NOUN	_	_	5	obj	_	_
+10	suto	_	PRON	_	_	5	obl	_	_
+11	?	_	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 2_palenquero_10_cv__42
+# text = ¿a kiene bo miná asendo eso ?
+1	¿a	_	NOUN	_	_	2	nsubj	_	_
+2	kiene	_	VERB	_	_	0	root	_	_
+3	bo	_	PRON	_	_	4	iobj	_	_
+4	miná	_	VERB	_	_	2	advcl	_	_
+5	asendo	_	AUX	_	_	2	aux	_	_
+6	eso	_	PRON	_	_	4	obl	_	_
+7	?	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 2_palenquero_10_cv__43
+# text = i repué pa komplasé a ma parrokiano ele a se selaba ku " a pilá aló "
+1	i	_	PRON	_	_	4	nsubj	_	_
+2	repué	_	VERB	_	_	0	root	_	_
+3	pa	_	ADP	_	_	7	case	_	_
+4	komplasé	_	VERB	_	_	11	conj	_	_
+5	a	_	AUX	_	_	4	aux	_	_
+6	ma	_	DET	_	_	7	nummod	_	_
+7	parrokiano	_	NOUN	_	_	15	obj	_	_
+8	ele	_	PRON	_	_	7	det	_	_
+9	a	_	AUX	_	_	4	aux	_	_
+10	se	_	DET	_	_	4	aux	_	_
+11	selaba	_	VERB	_	_	2	obj	_	_
+12	ku	_	ADP	_	_	7	case	_	_
+13	"	_	PUNCT	_	_	4	punct	_	_
+14	a	_	AUX	_	_	4	aux	_	_
+15	pilá	_	VERB	_	_	11	ccomp	_	_
+16	aló	_	ADV	_	_	15	advmod	_	_
+17	"	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 2_palenquero_10_cv__44
+# text = ¡i sabé lo ke etefanía sindí nunca nu !
+1	¡i	_	PUNCT	_	_	2	nsubj	_	_
+2	sabé	_	VERB	_	_	0	root	_	_
+3	lo	_	PRON	_	_	6	det	_	_
+4	ke	_	SCONJ	_	_	2	nsubj	_	_
+5	etefanía	_	VERB	_	_	2	ccomp	_	_
+6	sindí	_	VERB	_	_	2	obj	_	_
+7	nunca	_	NOUN	_	_	6	amod	_	_
+8	nu	_	ADV	_	_	6	advmod	_	_
+9	!	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 2_palenquero_10_cv__45
+# text = aguelo mí a kondá mí bié , kumo la bonga , a entritesé po to pate , a chitia mi endi oreo taba sindí mucho angutia ku reseperasió
+1	aguelo	_	AUX	_	_	19	advmod	_	_
+2	mí	_	ADV	_	_	13	advmod	_	_
+3	a	_	AUX	_	_	19	aux	_	_
+4	kondá	_	VERB	_	_	6	advcl	_	_
+5	mí	_	NOUN	_	_	13	obl	_	_
+6	bié	_	VERB	_	_	19	advcl	_	_
+7	,	_	PUNCT	_	_	19	punct	_	_
+8	kumo	_	ADP	_	_	13	advmod	_	_
+9	la	_	DET	_	_	13	aux	_	_
+10	bonga	_	NOUN	_	_	19	obj	_	_
+11	,	_	PUNCT	_	_	19	punct	_	_
+12	a	_	AUX	_	_	19	aux	_	_
+13	entritesé	_	NOUN	_	_	19	advcl	_	_
+14	po	_	ADP	_	_	13	case	_	_
+15	to	_	AUX	_	_	19	aux	_	_
+16	pate	_	NOUN	_	_	19	obl	_	_
+17	,	_	PUNCT	_	_	19	punct	_	_
+18	a	_	AUX	_	_	19	aux	_	_
+19	chitia	_	VERB	_	_	0	root	_	_
+20	mi	_	PRON	_	_	13	nmod:poss	_	_
+21	endi	_	DET	_	_	13	cc	_	_
+22	oreo	_	NOUN	_	_	19	obj	_	_
+23	taba	_	NOUN	_	_	19	obl	_	_
+24	sindí	_	VERB	_	_	19	obj	_	_
+25	mucho	_	NOUN	_	_	19	obl	_	_
+26	angutia	_	NOUN	_	_	19	advmod	_	_
+27	ku	_	ADP	_	_	24	case	_	_
+28	reseperasió	_	NOUN	_	_	19	obj	_	_
+
+# sent_id = 2_palenquero_10_cv__46
+# text = babbarita a prundá
+1	babbarita	babbarita	NOUN	_	_	3	nsubj	_	_
+2	a	_	AUX	_	_	3	aux	_	_
+3	prundá	_	VERB	_	_	0	root	_	_
+
+# sent_id = 2_palenquero_10_cv__47
+# text = gueno , monasita mí , renje agué i tan insiñá bo ma sekreto ri ngubá , abrí oleja
+1	gueno	_	NOUN	_	_	10	nsubj	_	_
+2	,	_	PUNCT	_	_	10	punct	_	_
+3	monasita	_	VERB	_	_	10	nsubj	_	_
+4	mí	_	ADV	_	_	10	obl	_	_
+5	,	_	PUNCT	_	_	10	punct	_	_
+6	renje	_	VERB	_	_	10	obj	_	_
+7	agué	_	ADV	_	_	10	advmod	_	_
+8	i	_	PRON	_	_	10	nsubj	_	_
+9	tan	_	AUX	_	_	10	aux	_	_
+10	insiñá	_	VERB	_	_	0	root	_	_
+11	bo	_	PRON	_	_	15	case	_	_
+12	ma	_	DET	_	_	18	nummod	_	_
+13	sekreto	_	NOUN	_	_	10	obj	_	_
+14	ri	_	ADP	_	_	13	case	_	_
+15	ngubá	_	NOUN	_	_	10	obj	_	_
+16	,	_	PUNCT	_	_	10	punct	_	_
+17	abrí	_	VERB	_	_	10	obj	_	_
+18	oleja	_	NOUN	_	_	10	nsubj	_	_
+
+# sent_id = 2_palenquero_10_cv__48
+# text = ajaa , eso tan sendá kaddume sí
+1	ajaa	_	NOUN	_	_	5	nsubj	_	_
+2	,	_	PUNCT	_	_	5	punct	_	_
+3	eso	_	PRON	_	_	5	nsubj	_	_
+4	tan	_	AUX	_	_	5	aux	_	_
+5	sendá	_	VERB	_	_	0	root	_	_
+6	kaddume	_	NOUN	_	_	5	obj	_	_
+7	sí	_	PRON	_	_	5	advmod	_	_
+
+# sent_id = 2_palenquero_10_cv__49
+# text = andi sala , ma mujé , ri la bonga ta nyolá i ku kandá lumbalú , pa kumplí uttimo perío loke lungao asé
+1	andi	_	ADP	_	_	11	case	_	_
+2	sala	_	NOUN	_	_	18	obl	_	_
+3	,	_	PUNCT	_	_	20	punct	_	_
+4	ma	_	DET	_	_	5	nummod	_	_
+5	mujé	_	NOUN	_	_	20	obj	_	_
+6	,	_	PUNCT	_	_	20	punct	_	_
+7	ri	_	ADP	_	_	5	case	_	_
+8	la	_	DET	_	_	5	det	_	_
+9	bonga	_	NOUN	_	_	20	obj	_	_
+10	ta	_	AUX	_	_	11	aux	_	_
+11	nyolá	_	NOUN	_	_	20	obj	_	_
+12	i	_	PRON	_	_	18	nsubj	_	_
+13	ku	_	ADP	_	_	5	case	_	_
+14	kandá	_	NOUN	_	_	18	obj	_	_
+15	lumbalú	_	PUNCT	_	_	20	punct	_	_
+16	,	_	PUNCT	_	_	20	punct	_	_
+17	pa	_	ADP	_	_	5	case	_	_
+18	kumplí	_	VERB	_	_	20	obj	_	_
+19	uttimo	_	NOUN	_	_	20	obj	_	_
+20	perío	_	VERB	_	_	0	root	_	_
+21	loke	_	NOUN	_	_	20	obl	_	_
+22	lungao	_	NOUN	_	_	20	obj	_	_
+23	asé	_	AUX	_	_	20	aux	_	_
+
+# sent_id = 2_palenquero_10_cv__50
+# text = monasita , ese a sendá prinsipio pa semblá ngubá
+1	monasita	_	NOUN	_	_	8	nsubj	_	_
+2	,	_	PUNCT	_	_	5	punct	_	_
+3	ese	_	DET	_	_	8	nsubj	_	_
+4	a	_	AUX	_	_	8	aux	_	_
+5	sendá	_	VERB	_	_	8	ccomp	_	_
+6	prinsipio	_	NOUN	_	_	8	obj	_	_
+7	pa	_	ADP	_	_	6	case	_	_
+8	semblá	_	VERB	_	_	0	root	_	_
+9	ngubá	_	NOUN	_	_	8	obj	_	_
+
+# sent_id = 2_palenquero_10_cv__51
+# text = repué ri ngubá ke nasé a ten ke rrapalo ku ngutó i sigí kandando ele pa polé ichá un chochá nglano
+1	repué	_	NOUN	_	_	7	obj	_	_
+2	ri	_	ADP	_	_	11	case	_	_
+3	ngubá	_	NOUN	_	_	7	obj	_	_
+4	ke	_	SCONJ	_	_	20	mark	_	_
+5	nasé	_	NOUN	_	_	7	obl	_	_
+6	a	_	AUX	_	_	7	aux	_	_
+7	ten	_	VERB	_	_	0	root	_	_
+8	ke	_	ADP	_	_	20	mark	_	_
+9	rrapalo	_	PUNCT	_	_	7	punct	_	_
+10	ku	_	ADP	_	_	11	case	_	_
+11	ngutó	_	NOUN	_	_	7	obj	_	_
+12	i	_	PRON	_	_	20	det	_	_
+13	sigí	_	VERB	_	_	7	advcl	_	_
+14	kandando	_	NOUN	_	_	7	obj	_	_
+15	ele	_	PRON	_	_	20	det	_	_
+16	pa	_	ADP	_	_	11	case	_	_
+17	polé	_	VERB	_	_	7	aux	_	_
+18	ichá	_	NOUN	_	_	7	nsubj	_	_
+19	un	_	DET	_	_	11	det	_	_
+20	chochá	_	NOUN	_	_	7	obj	_	_
+21	nglano	_	NOUN	_	_	7	obj	_	_
+
+# sent_id = 2_palenquero_10_cv__52
+# text = ma rretoño a se floresé ku ma primó sereno ri matso
+1	ma	_	DET	_	_	8	nummod	_	_
+2	rretoño	_	NOUN	_	_	0	root	_	_
+3	a	_	AUX	_	_	2	aux	_	_
+4	se	_	DET	_	_	8	aux	_	_
+5	floresé	_	VERB	_	_	2	nsubj	_	_
+6	ku	_	ADP	_	_	8	case	_	_
+7	ma	_	DET	_	_	8	nummod	_	_
+8	primó	_	NOUN	_	_	5	obl	_	_
+9	sereno	_	NOUN	_	_	2	obl	_	_
+10	ri	_	ADP	_	_	8	case	_	_
+11	matso	_	NOUN	_	_	2	obl	_	_
+
+# sent_id = 2_palenquero_10_cv__53
+# text = monasita , ku reselo , a asekká ku tembló andi ma pie ele
+1	monasita	_	NOUN	_	_	9	nsubj	_	_
+2	,	_	PUNCT	_	_	4	punct	_	_
+3	ku	_	ADP	_	_	12	case	_	_
+4	reselo	_	VERB	_	_	0	root	_	_
+5	,	_	PUNCT	_	_	4	punct	_	_
+6	a	_	AUX	_	_	9	aux	_	_
+7	asekká	_	AUX	_	_	9	aux	_	_
+8	ku	_	ADP	_	_	12	case	_	_
+9	tembló	_	VERB	_	_	4	nsubj	_	_
+10	andi	_	ADP	_	_	12	case	_	_
+11	ma	_	DET	_	_	12	nummod	_	_
+12	pie	_	NOUN	_	_	9	obl	_	_
+13	ele	_	PRON	_	_	4	obj	_	_
+
+# sent_id = 2_palenquero_10_cv__54
+# text = i ri e pito tiela í a sendá
+1	i	_	PRON	_	_	6	nsubj	_	_
+2	ri	_	VERB	_	_	5	case	_	_
+3	e	_	DET	_	_	8	det	_	_
+4	pito	_	PUNCT	_	_	6	punct	_	_
+5	tiela	_	NOUN	_	_	6	obl	_	_
+6	í	_	PRON	_	_	0	root	_	_
+7	a	_	AUX	_	_	8	aux	_	_
+8	sendá	_	VERB	_	_	6	obl	_	_
+
+# sent_id = 2_palenquero_10_cv__55
+# text = repué sin kabá ri yobé a komensá a yegá ma mbesino pa konosé a babbarita , simía ri un ngongoroko karrusiano kieto i jondo ri a tiembo , ke a jundá benita ku salomón
+1	repué	_	NOUN	_	_	3	obj	_	_
+2	sin	_	ADP	_	_	27	case	_	_
+3	kabá	_	VERB	_	_	0	root	_	_
+4	ri	_	ADP	_	_	13	case	_	_
+5	yobé	_	NOUN	_	_	3	obj	_	_
+6	a	_	AUX	_	_	3	aux	_	_
+7	komensá	_	NOUN	_	_	3	obj	_	_
+8	a	_	AUX	_	_	3	aux	_	_
+9	yegá	_	VERB	_	_	3	xcomp	_	_
+10	ma	_	DET	_	_	27	nummod	_	_
+11	mbesino	_	NOUN	_	_	3	obj	_	_
+12	pa	_	ADP	_	_	13	case	_	_
+13	konosé	_	NOUN	_	_	3	obl	_	_
+14	a	_	AUX	_	_	3	aux	_	_
+15	babbarita	_	NOUN	_	_	3	obj	_	_
+16	,	_	PUNCT	_	_	3	punct	_	_
+17	simía	_	VERB	_	_	3	xcomp	_	_
+18	ri	_	ADP	_	_	27	case	_	_
+19	un	_	DET	_	_	27	det	_	_
+20	ngongoroko	_	NOUN	_	_	3	obj	_	_
+21	karrusiano	_	NOUN	_	_	3	nmod	_	_
+22	kieto	_	VERB	_	_	3	nsubj	_	_
+23	i	_	PRON	_	_	3	nsubj	_	_
+24	jondo	_	NOUN	_	_	3	nsubj	_	_
+25	ri	_	ADP	_	_	27	case	_	_
+26	a	_	AUX	_	_	3	aux	_	_
+27	tiembo	_	NOUN	_	_	3	obj	_	_
+28	,	_	PUNCT	_	_	3	punct	_	_
+29	ke	_	PRON	_	_	3	nsubj	_	_
+30	a	_	AUX	_	_	3	aux	_	_
+31	jundá	_	NOUN	_	_	3	obj	_	_
+32	benita	_	VERB	_	_	3	obj	_	_
+33	ku	_	ADP	_	_	13	case	_	_
+34	salomón	_	NOUN	_	_	3	aux	_	_
+
+# sent_id = 2_palenquero_10_cv__56
+# text = a ten ke rrapá tiela uto biaje ma , i ku ma mujé i ma monasito jue ri suto tan kobá ngubá
+1	a	_	AUX	_	_	2	aux	_	_
+2	ten	_	VERB	_	_	21	nsubj	_	_
+3	ke	_	SCONJ	_	_	5	case	_	_
+4	rrapá	_	PUNCT	_	_	2	punct	_	_
+5	tiela	_	NOUN	_	_	21	obj	_	_
+6	uto	_	ADV	_	_	21	obl	_	_
+7	biaje	_	NOUN	_	_	21	obj	_	_
+8	ma	_	DET	_	_	5	nummod	_	_
+9	,	_	PUNCT	_	_	2	punct	_	_
+10	i	_	PRON	_	_	2	nsubj	_	_
+11	ku	_	ADP	_	_	5	case	_	_
+12	ma	_	DET	_	_	5	nummod	_	_
+13	mujé	_	NOUN	_	_	2	obl	_	_
+14	i	_	PRON	_	_	2	nsubj	_	_
+15	ma	_	DET	_	_	5	nummod	_	_
+16	monasito	_	NOUN	_	_	21	obj	_	_
+17	jue	_	ADV	_	_	21	advmod	_	_
+18	ri	_	ADP	_	_	5	case	_	_
+19	suto	_	PRON	_	_	21	nsubj	_	_
+20	tan	_	AUX	_	_	2	aux	_	_
+21	kobá	_	VERB	_	_	0	root	_	_
+22	ngubá	_	NOUN	_	_	21	obj	_	_
+
+# sent_id = 2_palenquero_10_cv__57
+# text = repuú ri un tiembo , ele a motrá arrepentía po lo ke nu asé ,
+1	repuú	_	NOUN	_	_	4	conj	_	_
+2	ri	_	ADP	_	_	4	case	_	_
+3	un	_	DET	_	_	8	det	_	_
+4	tiembo	_	NOUN	_	_	9	obj	_	_
+5	,	_	PUNCT	_	_	9	punct	_	_
+6	ele	_	PRON	_	_	4	det	_	_
+7	a	_	AUX	_	_	4	aux	_	_
+8	motrá	_	NOUN	_	_	9	obl	_	_
+9	arrepentía	_	NOUN	_	_	0	root	_	_
+10	po	_	ADP	_	_	4	case	_	_
+11	lo	_	PRON	_	_	4	nummod	_	_
+12	ke	_	ADP	_	_	4	cc	_	_
+13	nu	_	ADV	_	_	4	advmod	_	_
+14	asé	_	AUX	_	_	4	aux	_	_
+15	,	_	PUNCT	_	_	9	punct	_	_
+
+# sent_id = 2_palenquero_10_cv__58
+# text = kumo ta asé mí fata kietú ri sí , bonga , pito tiela ri palenge
+1	kumo	_	ADV	_	_	6	advmod	_	_
+2	ta	_	AUX	_	_	6	aux	_	_
+3	asé	_	AUX	_	_	6	aux	_	_
+4	mí	_	ADP	_	_	15	root	_	_
+5	fata	_	NOUN	_	_	6	obl	_	_
+6	kietú	_	VERB	_	_	0	root	_	_
+7	ri	_	ADP	_	_	13	case	_	_
+8	sí	_	PRON	_	_	6	obl	_	_
+9	,	_	PUNCT	_	_	6	punct	_	_
+10	bonga	_	NOUN	_	_	6	obl	_	_
+11	,	_	PUNCT	_	_	6	punct	_	_
+12	pito	_	PUNCT	_	_	6	punct	_	_
+13	tiela	_	NOUN	_	_	6	obl	_	_
+14	ri	_	ADP	_	_	13	case	_	_
+15	palenge	_	NOUN	_	_	6	obl	_	_
+
+# sent_id = 2_palenquero_10_cv__59
+# text = andi ete pito tiela ri jende ri ngutalo nda , andi to suto a konosé , andi ata ma nimao a sendá ma asina ría po la maana , ku ma rrebunno , ku ma sibbío ke a se rretirá ma enejía malo
+1	andi	_	ADP	_	_	20	case	_	_
+2	ete	_	AUX	_	_	36	aux	_	_
+3	pito	_	PUNCT	_	_	36	punct	_	_
+4	tiela	_	NOUN	_	_	36	obl	_	_
+5	ri	_	ADP	_	_	20	case	_	_
+6	jende	_	NOUN	_	_	36	obj	_	_
+7	ri	_	ADP	_	_	20	case	_	_
+8	ngutalo	_	NOUN	_	_	36	obj	_	_
+9	nda	_	NOUN	_	_	36	obj	_	_
+10	,	_	PUNCT	_	_	36	punct	_	_
+11	andi	_	ADP	_	_	20	case	_	_
+12	to	_	AUX	_	_	36	aux	_	_
+13	suto	_	PRON	_	_	36	obl	_	_
+14	a	_	AUX	_	_	36	aux	_	_
+15	konosé	_	NOUN	_	_	36	obl	_	_
+16	,	_	PUNCT	_	_	36	punct	_	_
+17	andi	_	ADP	_	_	20	case	_	_
+18	ata	_	AUX	_	_	36	aux	_	_
+19	ma	_	DET	_	_	20	nummod	_	_
+20	nimao	_	NOUN	_	_	36	obl	_	_
+21	a	_	AUX	_	_	20	det	_	_
+22	sendá	_	VERB	_	_	36	advcl	_	_
+23	ma	_	DET	_	_	20	nummod	_	_
+24	asina	_	AUX	_	_	36	aux	_	_
+25	ría	_	VERB	_	_	36	ccomp	_	_
+26	po	_	ADP	_	_	20	case	_	_
+27	la	_	DET	_	_	20	nummod	_	_
+28	maana	_	NOUN	_	_	36	obl	_	_
+29	,	_	PUNCT	_	_	36	punct	_	_
+30	ku	_	ADP	_	_	20	case	_	_
+31	ma	_	DET	_	_	20	nummod	_	_
+32	rrebunno	_	NOUN	_	_	36	obj	_	_
+33	,	_	PUNCT	_	_	36	punct	_	_
+34	ku	_	ADP	_	_	20	case	_	_
+35	ma	_	DET	_	_	20	nummod	_	_
+36	sibbío	_	VERB	_	_	0	root	_	_
+37	ke	_	ADP	_	_	20	case	_	_
+38	a	_	AUX	_	_	36	aux	_	_
+39	se	_	DET	_	_	20	det	_	_
+40	rretirá	_	NOUN	_	_	36	obj	_	_
+41	ma	_	DET	_	_	20	nummod	_	_
+42	enejía	_	VERB	_	_	4	conj	_	_
+43	malo	_	NOUN	_	_	36	obl	_	_
+
+# sent_id = 2_palenquero_10_cv__60
+# text = aaa , monasita mí , andi posá sí ta eperá bo un ndoló jóndo , pero yebá é simía ku bó i ba tá bié
+1	aaa	_	AUX	_	_	25	advmod	_	_
+2	,	_	PUNCT	_	_	25	punct	_	_
+3	monasita	_	NOUN	_	_	25	obj	_	_
+4	mí	_	ADV	_	_	25	obj	_	_
+5	,	_	PUNCT	_	_	25	punct	_	_
+6	andi	_	ADP	_	_	3	case	_	_
+7	posá	_	NOUN	_	_	25	aux	_	_
+8	sí	_	PRON	_	_	19	advcl	_	_
+9	ta	_	AUX	_	_	25	aux	_	_
+10	eperá	_	VERB	_	_	19	advcl	_	_
+11	bo	_	PRON	_	_	10	iobj	_	_
+12	un	_	DET	_	_	3	det	_	_
+13	ndoló	_	PUNCT	_	_	25	punct	_	_
+14	jóndo	_	NOUN	_	_	25	obl	_	_
+15	,	_	PUNCT	_	_	10	punct	_	_
+16	pero	_	NOUN	_	_	25	nsubj	_	_
+17	yebá	_	VERB	_	_	19	nsubj	_	_
+18	é	_	DET	_	_	19	aux	_	_
+19	simía	_	VERB	_	_	25	xcomp	_	_
+20	ku	_	ADP	_	_	7	case	_	_
+21	bó	_	NOUN	_	_	25	obl	_	_
+22	i	_	PRON	_	_	19	nsubj	_	_
+23	ba	_	AUX	_	_	19	aux	_	_
+24	tá	_	AUX	_	_	25	aux	_	_
+25	bié	_	VERB	_	_	0	root	_	_
+
+# sent_id = 2_palenquero_10_cv__61
+# text = e tiela sí é mu gueno
+1	e	_	DET	_	_	2	nsubj	_	_
+2	tiela	_	NOUN	_	_	0	root	_	_
+3	sí	_	ADP	_	_	2	nmod:poss	_	_
+4	é	_	DET	_	_	2	advmod	_	_
+5	mu	_	ADP	_	_	6	nummod	_	_
+6	gueno	_	NOUN	_	_	2	obl	_	_
+
+# sent_id = 2_palenquero_10_cv__62
+# text = kuné bo a resití ri ngubá
+1	kuné	_	VERB	_	_	4	nsubj	_	_
+2	bo	_	PRON	_	_	4	nsubj	_	_
+3	a	_	AUX	_	_	4	aux	_	_
+4	resití	_	VERB	_	_	0	root	_	_
+5	ri	_	ADP	_	_	6	case	_	_
+6	ngubá	_	NOUN	_	_	4	obj	_	_
+
+# sent_id = 2_palenquero_10_cv__63
+# text = i andi pleno makaneo , un rama ri un palo , ke peseba , ke taba eperando ele , a kaí riba ri ele , i a lungalo
+1	i	_	PRON	_	_	21	nsubj	_	_
+2	andi	_	ADP	_	_	13	advmod	_	_
+3	pleno	_	NOUN	_	_	21	obl	_	_
+4	makaneo	_	NOUN	_	_	21	obj	_	_
+5	,	_	PUNCT	_	_	21	punct	_	_
+6	un	_	DET	_	_	10	det	_	_
+7	rama	_	NOUN	_	_	21	obj	_	_
+8	ri	_	ADP	_	_	10	case	_	_
+9	un	_	DET	_	_	10	det	_	_
+10	palo	_	NOUN	_	_	21	obl	_	_
+11	,	_	PUNCT	_	_	21	punct	_	_
+12	ke	_	SCONJ	_	_	13	mark	_	_
+13	peseba	_	VERB	_	_	21	xcomp	_	_
+14	,	_	PUNCT	_	_	21	punct	_	_
+15	ke	_	SCONJ	_	_	10	det	_	_
+16	taba	_	NOUN	_	_	21	obl	_	_
+17	eperando	_	VERB	_	_	13	conj	_	_
+18	ele	_	PRON	_	_	21	obj	_	_
+19	,	_	PUNCT	_	_	21	punct	_	_
+20	a	_	AUX	_	_	21	aux	_	_
+21	kaí	_	VERB	_	_	0	root	_	_
+22	riba	_	NOUN	_	_	21	obj	_	_
+23	ri	_	ADP	_	_	10	case	_	_
+24	ele	_	PRON	_	_	10	det	_	_
+25	,	_	PUNCT	_	_	21	punct	_	_
+26	i	_	PRON	_	_	21	nsubj	_	_
+27	a	_	AUX	_	_	21	aux	_	_
+28	lungalo	_	NOUN	_	_	21	obj	_	_
+
+# sent_id = 2_palenquero_10_cv__64
+# text = a tarima ele a sendaba kandaora i repondona
+1	a	_	AUX	_	_	5	aux	_	_
+2	tarima	_	VERB	_	_	5	nsubj	_	_
+3	ele	_	PRON	_	_	5	nsubj	_	_
+4	a	_	AUX	_	_	5	aux	_	_
+5	sendaba	_	VERB	_	_	0	root	_	_
+6	kandaora	_	NOUN	_	_	5	obj	_	_
+7	i	_	PRON	_	_	2	nsubj	_	_
+8	repondona	_	NOUN	_	_	5	obj	_	_
+
+# sent_id = 2_palenquero_10_cv__65
+# text = í a nasé andi bonga ta asé 51 año , jundo ku ma palo ngande , ma loyo ancho i ma umedá bonito
+1	í	_	PRON	_	_	3	nsubj	_	_
+2	a	_	AUX	_	_	3	aux	_	_
+3	nasé	_	VERB	_	_	0	root	_	_
+4	andi	_	ADP	_	_	14	case	_	_
+5	bonga	_	NOUN	_	_	3	obj	_	_
+6	ta	_	AUX	_	_	14	det	_	_
+7	asé	_	AUX	_	_	3	aux	_	_
+8	51	_	NOUN	_	_	3	obj	_	_
+9	año	_	NOUN	_	_	3	obl	_	_
+10	,	_	PUNCT	_	_	3	punct	_	_
+11	jundo	_	NOUN	_	_	3	obj	_	_
+12	ku	_	ADP	_	_	14	case	_	_
+13	ma	_	DET	_	_	14	nummod	_	_
+14	palo	_	NOUN	_	_	3	obl	_	_
+15	ngande	_	NOUN	_	_	3	obj	_	_
+16	,	_	PUNCT	_	_	3	punct	_	_
+17	ma	_	DET	_	_	14	nummod	_	_
+18	loyo	_	NOUN	_	_	3	obl	_	_
+19	ancho	_	ADV	_	_	3	advmod	_	_
+20	i	_	PRON	_	_	3	nsubj	_	_
+21	ma	_	DET	_	_	14	nummod	_	_
+22	umedá	_	NOUN	_	_	3	nsubj	_	_
+23	bonito	_	NOUN	_	_	3	obj	_	_
+
+# sent_id = 2_palenquero_10_cv__66
+# text = a sendaba 14 ri me ri matso , ta asé 80 año kapurí , kuandi a kaí un yubia ngande etraño
+1	a	_	AUX	_	_	17	aux	_	_
+2	sendaba	_	VERB	_	_	0	root	_	_
+3	14	_	ADV	_	_	2	advmod	_	_
+4	ri	_	ADP	_	_	2	cc	_	_
+5	me	_	VERB	_	_	2	conj	_	_
+6	ri	_	ADP	_	_	13	case	_	_
+7	matso	_	NOUN	_	_	17	obl	_	_
+8	,	_	PUNCT	_	_	17	punct	_	_
+9	ta	_	AUX	_	_	17	aux	_	_
+10	asé	_	AUX	_	_	17	aux	_	_
+11	80	_	NOUN	_	_	2	obj	_	_
+12	año	_	NOUN	_	_	17	obl	_	_
+13	kapurí	_	NOUN	_	_	2	obj	_	_
+14	,	_	PUNCT	_	_	17	punct	_	_
+15	kuandi	_	ADV	_	_	2	mark	_	_
+16	a	_	AUX	_	_	17	aux	_	_
+17	kaí	_	VERB	_	_	2	ccomp	_	_
+18	un	_	DET	_	_	13	det	_	_
+19	yubia	_	VERB	_	_	2	nsubj	_	_
+20	ngande	_	NOUN	_	_	17	obj	_	_
+21	etraño	_	NOUN	_	_	2	obl	_	_
+
+# sent_id = 2_palenquero_10_cv__67
+# text = ele a chitialo
+1	ele	ele	PRON	_	_	3	nsubj	_	_
+2	a	_	AUX	_	_	3	aux	_	_
+3	chitialo	_	VERB	_	_	0	root	_	_
+
+# sent_id = 2_palenquero_10_cv__68
+# text = repue ele a seba adsá mboso " manduko pa porriá "
+1	repue	_	NOUN	_	_	6	nsubj	_	_
+2	ele	_	PRON	_	_	6	det	_	_
+3	a	_	AUX	_	_	6	aux	_	_
+4	seba	_	AUX	_	_	6	nsubj	_	_
+5	adsá	_	NOUN	_	_	6	obj	_	_
+6	mboso	_	NOUN	_	_	0	root	_	_
+7	"	_	PUNCT	_	_	6	det	_	_
+8	manduko	_	NOUN	_	_	6	amod	_	_
+9	pa	_	ADP	_	_	6	case	_	_
+10	porriá	_	NOUN	_	_	6	obl	_	_
+11	"	_	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 2_palenquero_10_cv__69
+# text = miní , mija , ke i a ten un kusa pa motrá bó
+1	miní	_	PRON	_	_	8	nsubj	_	_
+2	,	_	PUNCT	_	_	8	punct	_	_
+3	mija	_	VERB	_	_	8	nsubj	_	_
+4	,	_	PUNCT	_	_	8	punct	_	_
+5	ke	_	SCONJ	_	_	12	case	_	_
+6	i	_	PRON	_	_	8	nsubj	_	_
+7	a	_	AUX	_	_	8	aux	_	_
+8	ten	_	VERB	_	_	0	root	_	_
+9	un	_	DET	_	_	12	det	_	_
+10	kusa	_	NOUN	_	_	8	obj	_	_
+11	pa	_	ADP	_	_	12	case	_	_
+12	motrá	_	NOUN	_	_	8	obl	_	_
+13	bó	_	PUNCT	_	_	8	obj	_	_
+
+# sent_id = 2_palenquero_10_cv__70
+# text = í a ngalá mata ri beddolaga rí lao tra rí etario i antose i a semblalo
+1	í	_	PRON	_	_	3	nsubj	_	_
+2	a	_	AUX	_	_	3	aux	_	_
+3	ngalá	_	VERB	_	_	0	root	_	_
+4	mata	_	NOUN	_	_	3	obl	_	_
+5	ri	_	ADP	_	_	16	case	_	_
+6	beddolaga	_	NOUN	_	_	3	obj	_	_
+7	rí	_	ADP	_	_	16	case	_	_
+8	lao	_	NOUN	_	_	16	nummod	_	_
+9	tra	_	AUX	_	_	16	nummod	_	_
+10	rí	_	ADP	_	_	16	case	_	_
+11	etario	_	NOUN	_	_	3	obj	_	_
+12	i	_	PRON	_	_	3	nsubj	_	_
+13	antose	_	NOUN	_	_	3	obl	_	_
+14	i	_	PRON	_	_	3	nsubj	_	_
+15	a	_	AUX	_	_	3	aux	_	_
+16	semblalo	_	NOUN	_	_	3	obl	_	_
+
+# sent_id = 2_palenquero_10_cv__71
+# text = a kaí un chochá agua ke a yená loyo i a aselo reboddá yenando ma bera , labando ma baye ata e kelá taponao ri un ma yebba ri po’akí , kumo yuya , bebbena , anamú , anjika ku sinkogoyo
+1	a	_	AUX	_	_	23	aux	_	_
+2	kaí	_	VERB	_	_	23	:obj	_	_
+3	un	_	DET	_	_	24	det	_	_
+4	chochá	_	VERB	_	_	23	advcl	_	_
+5	agua	_	NOUN	_	_	23	obj	_	_
+6	ke	_	ADP	_	_	24	case	_	_
+7	a	_	AUX	_	_	28	aux	_	_
+8	yená	_	VERB	_	_	23	ccomp	_	_
+9	loyo	_	NOUN	_	_	23	nmod	_	_
+10	i	_	PRON	_	_	28	nsubj	_	_
+11	a	_	AUX	_	_	28	aux	_	_
+12	aselo	_	AUX	_	_	23	aux	_	_
+13	reboddá	_	VERB	_	_	34	root	_	_
+14	yenando	_	NOUN	_	_	23	obj	_	_
+15	ma	_	DET	_	_	24	nummod	_	_
+16	bera	_	NOUN	_	_	23	obj	_	_
+17	,	_	PUNCT	_	_	28	punct	_	_
+18	labando	_	NOUN	_	_	23	obj	_	_
+19	ma	_	DET	_	_	24	nummod	_	_
+20	baye	_	VERB	_	_	23	nsubj	_	_
+21	ata	_	AUX	_	_	28	aux	_	_
+22	e	_	DET	_	_	28	aux	_	_
+23	kelá	_	VERB	_	_	0	root	_	_
+24	taponao	_	NOUN	_	_	23	obl	_	_
+25	ri	_	ADP	_	_	24	case	_	_
+26	un	_	DET	_	_	24	det	_	_
+27	ma	_	DET	_	_	24	nummod	_	_
+28	yebba	_	VERB	_	_	34	root	_	_
+29	ri	_	ADP	_	_	24	case	_	_
+30	po’akí	_	VERB	_	_	23	advcl	_	_
+31	,	_	PUNCT	_	_	23	punct	_	_
+32	kumo	_	NOUN	_	_	23	advmod	_	_
+33	yuya	_	DET	_	_	4	advmod	_	_
+34	,	_	PUNCT	_	_	23	punct	_	_
+35	bebbena	_	VERB	_	_	34	root	_	_
+36	,	_	PUNCT	_	_	23	punct	_	_
+37	anamú	_	NOUN	_	_	23	obj	_	_
+38	,	_	PUNCT	_	_	23	punct	_	_
+39	anjika	_	ADV	_	_	23	advmod	_	_
+40	ku	_	ADP	_	_	24	case	_	_
+41	sinkogoyo	_	VERB	_	_	23	obj	_	_
+
+# sent_id = 2_palenquero_10_cv__72
+# text = i un miero a krusalo tó kuepo , asina ke ele a abrí ri palo , siguindo goppe ri tabalá
+1	i	_	PRON	_	_	13	nsubj	_	_
+2	un	_	DET	_	_	15	det	_	_
+3	miero	_	VERB	_	_	13	advcl	_	_
+4	a	_	AUX	_	_	13	aux	_	_
+5	krusalo	_	NOUN	_	_	13	obj	_	_
+6	tó	_	DET	_	_	15	det	_	_
+7	kuepo	_	VERB	_	_	13	obj	_	_
+8	,	_	PUNCT	_	_	3	punct	_	_
+9	asina	_	AUX	_	_	13	aux	_	_
+10	ke	_	SCONJ	_	_	20	mark	_	_
+11	ele	_	PRON	_	_	15	det	_	_
+12	a	_	AUX	_	_	13	aux	_	_
+13	abrí	_	VERB	_	_	0	root	_	_
+14	ri	_	ADP	_	_	15	case	_	_
+15	palo	_	NOUN	_	_	13	obl	_	_
+16	,	_	PUNCT	_	_	3	punct	_	_
+17	siguindo	_	NOUN	_	_	13	nsubj	_	_
+18	goppe	_	NOUN	_	_	13	obj	_	_
+19	ri	_	ADP	_	_	15	case	_	_
+20	tabalá	_	NOUN	_	_	13	obj	_	_
+
+# sent_id = 2_palenquero_10_cv__73
+# text = ¿pokké bo ta kandá si suto tando pa monde ?
+1	¿pokké	_	NOUN	_	_	4	nsubj	_	_
+2	bo	_	PRON	_	_	4	nsubj	_	_
+3	ta	_	AUX	_	_	4	aux	_	_
+4	kandá	_	NOUN	_	_	0	root	_	_
+5	si	_	ADP	_	_	9	case	_	_
+6	suto	_	PRON	_	_	4	nsubj	_	_
+7	tando	_	PUNCT	_	_	4	punct	_	_
+8	pa	_	ADP	_	_	9	case	_	_
+9	monde	_	NOUN	_	_	4	obl	_	_
+10	?	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 2_palenquero_10_cv__74
+# text = pero po mita ri kamino a miná un lúso ke taba briyá lendro ma matrojo
+1	pero	_	NOUN	_	_	7	nsubj	_	_
+2	po	_	ADP	_	_	3	aux	_	_
+3	mita	_	VERB	_	_	7	nsubj	_	_
+4	ri	_	ADP	_	_	9	case	_	_
+5	kamino	_	NOUN	_	_	7	obj	_	_
+6	a	_	AUX	_	_	3	aux	_	_
+7	miná	_	VERB	_	_	0	root	_	_
+8	un	_	DET	_	_	9	det	_	_
+9	lúso	_	NOUN	_	_	7	obj	_	_
+10	ke	_	SCONJ	_	_	3	mark	_	_
+11	taba	_	NOUN	_	_	7	aux	_	_
+12	briyá	_	VERB	_	_	7	obj	_	_
+13	lendro	_	NOUN	_	_	7	obj	_	_
+14	ma	_	DET	_	_	9	nummod	_	_
+15	matrojo	_	NOUN	_	_	7	obl	_	_
+
+# sent_id = 2_palenquero_10_cv__75
+# text = i aí i a ichá kotea mi
+1	i	_	PRON	_	_	5	nsubj	_	_
+2	aí	_	ADV	_	_	5	advmod	_	_
+3	i	_	PRON	_	_	5	nsubj	_	_
+4	a	_	AUX	_	_	5	aux	_	_
+5	ichá	_	VERB	_	_	0	root	_	_
+6	kotea	_	VERB	_	_	5	obj	_	_
+7	mi	_	PRON	_	_	5	iobj	_	_
+
+# sent_id = 2_palenquero_10_cv__76
+# text = kuendi manesé , ele a salí ri posá ele i kumo tó ma monasito ri ai bonga , a bae a kuje aló ku kafe andi aguela ri ele
+1	kuendi	_	VERB	_	_	6	mark	_	_
+2	manesé	_	VERB	_	_	6	obj	_	_
+3	,	_	PUNCT	_	_	6	punct	_	_
+4	ele	_	PRON	_	_	6	nsubj	_	_
+5	a	_	AUX	_	_	6	aux	_	_
+6	salí	_	VERB	_	_	0	root	_	_
+7	ri	_	ADP	_	_	14	case	_	_
+8	posá	_	NOUN	_	_	6	obl	_	_
+9	ele	_	PRON	_	_	2	det	_	_
+10	i	_	PRON	_	_	6	nsubj	_	_
+11	kumo	_	NOUN	_	_	6	obj	_	_
+12	tó	_	NOUN	_	_	6	obl	_	_
+13	ma	_	DET	_	_	14	nummod	_	_
+14	monasito	_	NOUN	_	_	6	obj	_	_
+15	ri	_	ADP	_	_	14	case	_	_
+16	ai	_	ADV	_	_	2	advmod	_	_
+17	bonga	_	NOUN	_	_	6	obj	_	_
+18	,	_	PUNCT	_	_	6	punct	_	_
+19	a	_	AUX	_	_	6	aux	_	_
+20	bae	_	VERB	_	_	6	nsubj	_	_
+21	a	_	AUX	_	_	6	aux	_	_
+22	kuje	_	VERB	_	_	6	obj	_	_
+23	aló	_	ADV	_	_	6	advmod	_	_
+24	ku	_	ADP	_	_	14	case	_	_
+25	kafe	_	NOUN	_	_	6	nmod	_	_
+26	andi	_	ADP	_	_	14	case	_	_
+27	aguela	_	ADV	_	_	6	advmod	_	_
+28	ri	_	ADP	_	_	14	case	_	_
+29	ele	_	PRON	_	_	2	det	_	_
+
+# sent_id = 2_palenquero_10_cv__77
+# text = kuné bo a nasé ri ngubá
+1	kuné	_	VERB	_	_	4	nsubj	_	_
+2	bo	_	PRON	_	_	4	nsubj	_	_
+3	a	_	AUX	_	_	4	aux	_	_
+4	nasé	_	VERB	_	_	0	root	_	_
+5	ri	_	ADP	_	_	6	case	_	_
+6	ngubá	_	NOUN	_	_	4	obj	_	_
+
+# sent_id = 2_palenquero_10_cv__78
+# text = é jue ría ri ma sofoko ri mbila ri benita , é taba akongojao nu ma nu , sinu ku tritesa tambíe , po lungamiento ri mailo ele , sino tambié pokke monasita apareseba nú
+1	é	_	DET	_	_	22	nsubj	_	_
+2	jue	_	VERB	_	_	22	nsubj	_	_
+3	ría	_	VERB	_	_	21	nsubj	_	_
+4	ri	_	ADP	_	_	6	case	_	_
+5	ma	_	DET	_	_	6	nummod	_	_
+6	sofoko	_	NOUN	_	_	21	obl	_	_
+7	ri	_	ADP	_	_	6	case	_	_
+8	mbila	_	NOUN	_	_	21	obj	_	_
+9	ri	_	ADP	_	_	6	case	_	_
+10	benita	_	VERB	_	_	21	advcl	_	_
+11	,	_	PUNCT	_	_	21	punct	_	_
+12	é	_	DET	_	_	22	det	_	_
+13	taba	_	NOUN	_	_	22	nmod	_	_
+14	akongojao	_	NOUN	_	_	21	obj	_	_
+15	nu	_	ADV	_	_	22	advmod	_	_
+16	ma	_	DET	_	_	8	nummod	_	_
+17	nu	_	ADV	_	_	22	advmod	_	_
+18	,	_	PUNCT	_	_	21	punct	_	_
+19	sinu	_	ADV	_	_	21	advmod	_	_
+20	ku	_	ADP	_	_	6	case	_	_
+21	tritesa	_	VERB	_	_	0	root	_	_
+22	tambíe	_	NOUN	_	_	21	obj	_	_
+23	,	_	PUNCT	_	_	21	punct	_	_
+24	po	_	ADP	_	_	22	case	_	_
+25	lungamiento	_	NOUN	_	_	21	obj	_	_
+26	ri	_	ADP	_	_	6	case	_	_
+27	mailo	_	VERB	_	_	21	nsubj	_	_
+28	ele	_	PRON	_	_	22	advmod	_	_
+29	,	_	PUNCT	_	_	21	punct	_	_
+30	sino	_	PRON	_	_	22	obl	_	_
+31	tambié	_	NOUN	_	_	21	obl	_	_
+32	pokke	_	ADP	_	_	22	case	_	_
+33	monasita	_	NOUN	_	_	21	obj	_	_
+34	apareseba	_	NOUN	_	_	21	obj	_	_
+35	nú	_	ADV	_	_	21	advmod	_	_
+
+# sent_id = 2_palenquero_10_cv__79
+# text = ¿ke ta asé puaí ?
+1	¿ke	_	PRON	_	_	3	nsubj	_	_
+2	ta	_	AUX	_	_	3	aux	_	_
+3	asé	_	AUX	_	_	0	root	_	_
+4	puaí	_	ADV	_	_	3	obj	_	_
+5	?	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 2_palenquero_10_cv__80
+# text = é memo ría , salomón a salí ma temprano , ke moná ri ele pandi mónde
+1	é	_	DET	_	_	7	nsubj	_	_
+2	memo	_	VERB	_	_	7	obj	_	_
+3	ría	_	NOUN	_	_	7	obj	_	_
+4	,	_	PUNCT	_	_	7	punct	_	_
+5	salomón	_	NOUN	_	_	7	aux	_	_
+6	a	_	AUX	_	_	7	aux	_	_
+7	salí	_	VERB	_	_	0	root	_	_
+8	ma	_	DET	_	_	9	nummod	_	_
+9	temprano	_	NOUN	_	_	7	obl	_	_
+10	,	_	PUNCT	_	_	7	punct	_	_
+11	ke	_	SCONJ	_	_	7	mark	_	_
+12	moná	_	VERB	_	_	7	ccomp	_	_
+13	ri	_	ADP	_	_	9	case	_	_
+14	ele	_	PRON	_	_	9	det	_	_
+15	pandi	_	NOUN	_	_	7	obj	_	_
+16	mónde	_	NOUN	_	_	7	nsubj	_	_
+
+# sent_id = 2_palenquero_10_cv__81
+# text = babbarita , moná mí , miní aka
+1	babbarita	_	NOUN	_	_	6	nsubj	_	_
+2	,	_	PUNCT	_	_	6	punct	_	_
+3	moná	_	VERB	_	_	6	nsubj	_	_
+4	mí	_	NOUN	_	_	6	obj	_	_
+5	,	_	PUNCT	_	_	6	punct	_	_
+6	miní	_	VERB	_	_	0	root	_	_
+7	aka	_	ADV	_	_	6	advmod	_	_
+
+# sent_id = 2_palenquero_10_cv__82
+# text = monasita , jarocha , a ngalá sokito a salí tra mama ele
+1	monasita	_	NOUN	_	_	9	nsubj	_	_
+2	,	_	PUNCT	_	_	9	punct	_	_
+3	jarocha	_	NOUN	_	_	9	nsubj	_	_
+4	,	_	PUNCT	_	_	9	punct	_	_
+5	a	_	AUX	_	_	9	aux	_	_
+6	ngalá	_	VERB	_	_	9	obj	_	_
+7	sokito	_	ADV	_	_	9	advmod	_	_
+8	a	_	AUX	_	_	9	aux	_	_
+9	salí	_	VERB	_	_	0	root	_	_
+10	tra	_	DET	_	_	3	case	_	_
+11	mama	_	NOUN	_	_	9	obj	_	_
+12	ele	_	PRON	_	_	9	obj	_	_
+
+# sent_id = 2_palenquero_10_cv__83
+# text = andi finá ri jonná ri ma kaneo , repue ri un guen kosecha , babbarita ku ma monasito a bae , pandi palo ri karakolí , andi ane ta jugá , ta kandá i ta motia ma kabeo , pa imbentá ma kaddume nuebo
+1	andi	_	ADP	_	_	30	case	_	_
+2	finá	_	VERB	_	_	41	ccomp	_	_
+3	ri	_	ADP	_	_	36	case	_	_
+4	jonná	_	NOUN	_	_	41	nsubj	_	_
+5	ri	_	ADP	_	_	36	case	_	_
+6	ma	_	DET	_	_	30	nummod	_	_
+7	kaneo	_	NOUN	_	_	41	obl	_	_
+8	,	_	PUNCT	_	_	41	punct	_	_
+9	repue	_	NOUN	_	_	41	obj	_	_
+10	ri	_	ADP	_	_	36	case	_	_
+11	un	_	DET	_	_	36	det	_	_
+12	guen	_	VERB	_	_	41	obj	_	_
+13	kosecha	_	VERB	_	_	41	obj	_	_
+14	,	_	PUNCT	_	_	41	punct	_	_
+15	babbarita	_	NOUN	_	_	41	obj	_	_
+16	ku	_	ADP	_	_	36	case	_	_
+17	ma	_	DET	_	_	30	nummod	_	_
+18	monasito	_	VERB	_	_	41	ccomp	_	_
+19	a	_	AUX	_	_	41	aux	_	_
+20	bae	_	VERB	_	_	41	conj	_	_
+21	,	_	PUNCT	_	_	41	punct	_	_
+22	pandi	_	PUNCT	_	_	41	punct	_	_
+23	palo	_	NOUN	_	_	2	obl	_	_
+24	ri	_	ADP	_	_	36	case	_	_
+25	karakolí	_	NOUN	_	_	41	obj	_	_
+26	,	_	PUNCT	_	_	41	punct	_	_
+27	andi	_	ADP	_	_	30	case	_	_
+28	ane	_	PRON	_	_	41	obl	_	_
+29	ta	_	AUX	_	_	30	aux	_	_
+30	jugá	_	NOUN	_	_	41	obl	_	_
+31	,	_	PUNCT	_	_	2	punct	_	_
+32	ta	_	AUX	_	_	41	aux	_	_
+33	kandá	_	NOUN	_	_	41	obj	_	_
+34	i	_	PRON	_	_	41	nsubj	_	_
+35	ta	_	AUX	_	_	30	aux	_	_
+36	motia	_	NOUN	_	_	41	obl	_	_
+37	ma	_	DET	_	_	30	nummod	_	_
+38	kabeo	_	NOUN	_	_	41	obj	_	_
+39	,	_	PUNCT	_	_	41	punct	_	_
+40	pa	_	ADP	_	_	30	case	_	_
+41	imbentá	_	VERB	_	_	0	root	_	_
+42	ma	_	DET	_	_	36	nummod	_	_
+43	kaddume	_	NOUN	_	_	41	obj	_	_
+44	nuebo	_	ADV	_	_	41	obj	_	_
+
+# sent_id = 2_palenquero_10_cv__84
+# text = i a jablalo ku tetemblá ke i a sendaba lo ke tamba ndae fecha ri un propueta
+1	i	_	PRON	_	_	3	nsubj	_	_
+2	a	_	AUX	_	_	3	aux	_	_
+3	jablalo	_	VERB	_	_	0	root	_	_
+4	ku	_	ADP	_	_	17	case	_	_
+5	tetemblá	_	VERB	_	_	3	obl	_	_
+6	ke	_	ADP	_	_	12	case	_	_
+7	i	_	PRON	_	_	3	nsubj	_	_
+8	a	_	AUX	_	_	3	aux	_	_
+9	sendaba	_	NOUN	_	_	3	obj	_	_
+10	lo	_	PRON	_	_	12	obl	_	_
+11	ke	_	SCONJ	_	_	12	mark	_	_
+12	tamba	_	NOUN	_	_	3	obl	_	_
+13	ndae	_	PUNCT	_	_	3	punct	_	_
+14	fecha	_	NOUN	_	_	3	obl	_	_
+15	ri	_	ADP	_	_	17	case	_	_
+16	un	_	DET	_	_	17	det	_	_
+17	propueta	_	NOUN	_	_	3	obl	_	_
+
+# sent_id = 2_palenquero_10_cv__85
+# text = antose un besina mi a yegá i a jablá asina : e ke ata bonito i bonito ia sendá bonito ebeddolaga / po suelo… pokke ataba regaó po suelo
+1	antose	_	ADV	_	_	9	advmod	_	_
+2	un	_	DET	_	_	17	det	_	_
+3	besina	_	VERB	_	_	6	nsubj	_	_
+4	mi	_	PRON	_	_	17	det	_	_
+5	a	_	AUX	_	_	9	aux	_	_
+6	yegá	_	VERB	_	_	0	root	_	_
+7	i	_	PRON	_	_	9	nsubj	_	_
+8	a	_	AUX	_	_	9	aux	_	_
+9	jablá	_	NOUN	_	_	6	nsubj	_	_
+10	asina	_	ADV	_	_	9	obj	_	_
+11	:	_	DET	_	_	9	advmod	_	_
+12	e	_	DET	_	_	9	nsubj	_	_
+13	ke	_	SCONJ	_	_	9	nsubj	_	_
+14	ata	_	AUX	_	_	9	aux	_	_
+15	bonito	_	NOUN	_	_	9	obl	_	_
+16	i	_	PRON	_	_	9	nsubj	_	_
+17	bonito	_	NOUN	_	_	9	obl	_	_
+18	ia	_	DET	_	_	9	advmod	_	_
+19	sendá	_	VERB	_	_	6	advcl	_	_
+20	bonito	_	NOUN	_	_	9	obl	_	_
+21	ebeddolaga	_	PRON	_	_	9	nsubj	_	_
+22	/	_	DET	_	_	9	advmod	_	_
+23	po	_	ADP	_	_	9	aux	_	_
+24	suelo…	_	NOUN	_	_	9	obl	_	_
+25	pokke	_	PRON	_	_	9	mark	_	_
+26	ataba	_	AUX	_	_	9	advmod	_	_
+27	regaó	_	NOUN	_	_	6	obj	_	_
+28	po	_	ADP	_	_	9	case	_	_
+29	suelo	_	NOUN	_	_	9	obl	_	_
+
+# sent_id = 2_palenquero_10_cv__86
+# text = ri se asé mí , sindí jarocho , ri e pito tiela ri ichá chochá simía , ta miní e ítoria ke i tan kondá , ítoria ri erensia ri babbarita
+1	ri	_	ADP	_	_	15	case	_	_
+2	se	_	PRON	_	_	19	aux	_	_
+3	asé	_	AUX	_	_	19	aux	_	_
+4	mí	_	ADV	_	_	16	obj	_	_
+5	,	_	PUNCT	_	_	19	punct	_	_
+6	sindí	_	NOUN	_	_	19	obj	_	_
+7	jarocho	_	NOUN	_	_	19	obl	_	_
+8	,	_	PUNCT	_	_	19	punct	_	_
+9	ri	_	ADP	_	_	15	case	_	_
+10	e	_	DET	_	_	19	aux	_	_
+11	pito	_	PUNCT	_	_	19	punct	_	_
+12	tiela	_	NOUN	_	_	19	obl	_	_
+13	ri	_	ADP	_	_	7	case	_	_
+14	ichá	_	NOUN	_	_	19	obl	_	_
+15	chochá	_	NOUN	_	_	19	obj	_	_
+16	simía	_	VERB	_	_	19	obj	_	_
+17	,	_	PUNCT	_	_	19	punct	_	_
+18	ta	_	AUX	_	_	19	aux	_	_
+19	miní	_	VERB	_	_	0	root	_	_
+20	e	_	DET	_	_	15	det	_	_
+21	ítoria	_	VERB	_	_	19	obj	_	_
+22	ke	_	ADP	_	_	15	case	_	_
+23	i	_	PRON	_	_	19	nsubj	_	_
+24	tan	_	AUX	_	_	19	aux	_	_
+25	kondá	_	VERB	_	_	19	obj	_	_
+26	,	_	PUNCT	_	_	19	punct	_	_
+27	ítoria	_	VERB	_	_	19	nsubj	_	_
+28	ri	_	ADP	_	_	7	case	_	_
+29	erensia	_	VERB	_	_	16	conj	_	_
+30	ri	_	ADP	_	_	7	case	_	_
+31	babbarita	_	NOUN	_	_	19	obj	_	_
+
+# sent_id = 2_palenquero_10_cv__87
+# text = ante ri ten posá a olaya errera etefanía a seba bibí a chambakú uno ri maparaje ri ma jende ri palenge ma ngande ir katajena
+1	ante	_	ADV	_	_	11	advmod	_	_
+2	ri	_	ADP	_	_	6	case	_	_
+3	ten	_	VERB	_	_	11	aux	_	_
+4	posá	_	VERB	_	_	11	aux	_	_
+5	a	_	AUX	_	_	11	aux	_	_
+6	olaya	_	NOUN	_	_	11	obl	_	_
+7	errera	_	NOUN	_	_	11	obl	_	_
+8	etefanía	_	VERB	_	_	11	obl	_	_
+9	a	_	AUX	_	_	11	aux	_	_
+10	seba	_	NOUN	_	_	11	nsubj	_	_
+11	bibí	_	VERB	_	_	0	root	_	_
+12	a	_	AUX	_	_	13	aux	_	_
+13	chambakú	_	NOUN	_	_	11	obj	_	_
+14	uno	_	PRON	_	_	13	det	_	_
+15	ri	_	ADP	_	_	6	case	_	_
+16	maparaje	_	NOUN	_	_	11	obj	_	_
+17	ri	_	ADP	_	_	6	case	_	_
+18	ma	_	DET	_	_	6	nummod	_	_
+19	jende	_	NOUN	_	_	11	nsubj	_	_
+20	ri	_	ADP	_	_	6	case	_	_
+21	palenge	_	NOUN	_	_	11	obl	_	_
+22	ma	_	DET	_	_	6	nummod	_	_
+23	ngande	_	NOUN	_	_	11	obj	_	_
+24	ir	_	ADP	_	_	6	case	_	_
+25	katajena	_	NOUN	_	_	11	obl	_	_
+
+# sent_id = 2_palenquero_10_cv__88
+# text = mae , ¿kuando suto tan kobá ngubá ?
+1	mae	_	NOUN	_	_	6	nsubj	_	_
+2	,	_	PUNCT	_	_	6	punct	_	_
+3	¿kuando	_	NOUN	_	_	6	nsubj	_	_
+4	suto	_	PRON	_	_	6	iobj	_	_
+5	tan	_	AUX	_	_	6	aux	_	_
+6	kobá	_	VERB	_	_	0	root	_	_
+7	ngubá	_	NOUN	_	_	6	obj	_	_
+8	?	_	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 2_palenquero_10_cv__89
+# text = tiela mí oooh tiela mí í ta prepará bo kumo bo meresé pa nda chochá ngubá kumo suto kelé
+1	tiela	_	NOUN	_	_	19	nsubj	_	_
+2	mí	_	ADV	_	_	12	cc	_	_
+3	oooh	_	ADV	_	_	12	advmod	_	_
+4	tiela	_	NOUN	_	_	19	nsubj	_	_
+5	mí	_	ADP	_	_	12	advcl	_	_
+6	í	_	ADP	_	_	12	advcl	_	_
+7	ta	_	AUX	_	_	12	aux	_	_
+8	prepará	_	NOUN	_	_	19	obj	_	_
+9	bo	_	PRON	_	_	15	case	_	_
+10	kumo	_	ADV	_	_	12	advmod	_	_
+11	bo	_	PRON	_	_	15	case	_	_
+12	meresé	_	VERB	_	_	19	obj	_	_
+13	pa	_	ADP	_	_	1	case	_	_
+14	nda	_	PUNCT	_	_	6	punct	_	_
+15	chochá	_	NOUN	_	_	19	obj	_	_
+16	ngubá	_	NOUN	_	_	19	obj	_	_
+17	kumo	_	ADV	_	_	12	advmod	_	_
+18	suto	_	PRON	_	_	15	nmod:poss	_	_
+19	kelé	_	VERB	_	_	0	root	_	_
+
+# sent_id = 2_palenquero_10_cv__90
+# text = repué bo a ten ke rrapá tiela ku juisio , pa nu kelá biruta ;
+1	repué	_	VERB	_	_	4	obj	_	_
+2	bo	_	PRON	_	_	4	nsubj	_	_
+3	a	_	AUX	_	_	4	aux	_	_
+4	ten	_	VERB	_	_	13	advcl	_	_
+5	ke	_	ADP	_	_	9	case	_	_
+6	rrapá	_	PUNCT	_	_	4	punct	_	_
+7	tiela	_	NOUN	_	_	4	obl	_	_
+8	ku	_	ADP	_	_	9	case	_	_
+9	juisio	_	NOUN	_	_	4	obl	_	_
+10	,	_	PUNCT	_	_	4	punct	_	_
+11	pa	_	ADP	_	_	9	case	_	_
+12	nu	_	ADV	_	_	7	advmod	_	_
+13	kelá	_	VERB	_	_	0	root	_	_
+14	biruta	_	NOUN	_	_	4	obj	_	_
+15	;	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 2_palenquero_10_cv__91
+# text = ri repente , ele a kuchá rrepike ri pechiche
+1	ri	_	ADP	_	_	7	case	_	_
+2	repente	_	NOUN	_	_	6	obj	_	_
+3	,	_	PUNCT	_	_	6	punct	_	_
+4	ele	_	PRON	_	_	6	nsubj	_	_
+5	a	_	AUX	_	_	6	aux	_	_
+6	kuchá	_	VERB	_	_	0	root	_	_
+7	rrepike	_	NOUN	_	_	6	obj	_	_
+8	ri	_	ADP	_	_	7	case	_	_
+9	pechiche	_	VERB	_	_	6	conj	_	_
+
+# sent_id = 2_palenquero_10_cv__92
+# text = i repué makaniando a posá mi i a poné a kandá :
+1	i	_	PRON	_	_	2	nsubj	_	_
+2	repué	_	VERB	_	_	0	root	_	_
+3	makaniando	_	NOUN	_	_	2	obj	_	_
+4	a	_	AUX	_	_	11	aux	_	_
+5	posá	_	NOUN	_	_	2	ccomp	_	_
+6	mi	_	PRON	_	_	11	nmod:poss	_	_
+7	i	_	PRON	_	_	2	nsubj	_	_
+8	a	_	AUX	_	_	2	aux	_	_
+9	poné	_	VERB	_	_	2	ccomp	_	_
+10	a	_	AUX	_	_	11	aux	_	_
+11	kandá	_	NOUN	_	_	2	obj	_	_
+12	:	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 2_palenquero_10_cv__93
+# text = i a yegá a posá ele ri ndo agua , ku flendepindao ku ká , i po lendro sin embarrá i kun ma tabrete kumo un jende riorije bantú
+1	i	_	PRON	_	_	20	nsubj	_	_
+2	a	_	AUX	_	_	20	aux	_	_
+3	yegá	_	VERB	_	_	20	conj	_	_
+4	a	_	AUX	_	_	20	aux	_	_
+5	posá	_	VERB	_	_	20	aux	_	_
+6	ele	_	PRON	_	_	24	det	_	_
+7	ri	_	ADP	_	_	24	case	_	_
+8	ndo	_	NOUN	_	_	20	obj	_	_
+9	agua	_	NOUN	_	_	20	obj	_	_
+10	,	_	PUNCT	_	_	20	punct	_	_
+11	ku	_	ADP	_	_	24	case	_	_
+12	flendepindao	_	NOUN	_	_	20	nsubj	_	_
+13	ku	_	ADP	_	_	24	case	_	_
+14	ká	_	NOUN	_	_	20	obj	_	_
+15	,	_	PUNCT	_	_	20	punct	_	_
+16	i	_	PRON	_	_	20	nsubj	_	_
+17	po	_	DET	_	_	20	aux	_	_
+18	lendro	_	VERB	_	_	20	nsubj	_	_
+19	sin	_	DET	_	_	24	det	_	_
+20	embarrá	_	VERB	_	_	0	root	_	_
+21	i	_	PRON	_	_	20	nsubj	_	_
+22	kun	_	DET	_	_	24	advmod	_	_
+23	ma	_	DET	_	_	24	nummod	_	_
+24	tabrete	_	NOUN	_	_	20	obl	_	_
+25	kumo	_	ADV	_	_	24	advmod	_	_
+26	un	_	DET	_	_	24	det	_	_
+27	jende	_	NOUN	_	_	20	nsubj	_	_
+28	riorije	_	PUNCT	_	_	20	punct	_	_
+29	bantú	_	NOUN	_	_	20	obj	_	_
+
+# sent_id = 2_palenquero_10_cv__94
+# text = benita a chitía kuando e minalo asendo eso
+1	benita	_	VERB	_	_	3	nsubj	_	_
+2	a	_	AUX	_	_	3	aux	_	_
+3	chitía	_	VERB	_	_	0	root	_	_
+4	kuando	_	ADP	_	_	3	obj	_	_
+5	e	_	DET	_	_	6	det	_	_
+6	minalo	_	NOUN	_	_	3	obj	_	_
+7	asendo	_	AUX	_	_	3	aux	_	_
+8	eso	_	DET	_	_	3	obj	_	_
+
+# sent_id = 2_palenquero_10_cv__95
+# text = a makaneo ri ané ri sembla , a jundá ma monasito ku ma monasita ke tan siguí indikasió ri babbarita
+1	a	_	AUX	_	_	17	aux	_	_
+2	makaneo	_	NOUN	_	_	17	nsubj	_	_
+3	ri	_	ADP	_	_	6	case	_	_
+4	ané	_	PRON	_	_	20	nsubj	_	_
+5	ri	_	ADP	_	_	6	case	_	_
+6	sembla	_	NOUN	_	_	17	obl	_	_
+7	,	_	PUNCT	_	_	17	punct	_	_
+8	a	_	AUX	_	_	17	aux	_	_
+9	jundá	_	NOUN	_	_	20	nsubj	_	_
+10	ma	_	DET	_	_	6	nummod	_	_
+11	monasito	_	NOUN	_	_	20	conj	_	_
+12	ku	_	ADP	_	_	6	case	_	_
+13	ma	_	DET	_	_	14	nummod	_	_
+14	monasita	_	NOUN	_	_	20	conj	_	_
+15	ke	_	PRON	_	_	20	det	_	_
+16	tan	_	AUX	_	_	17	aux	_	_
+17	siguí	_	NOUN	_	_	0	root	_	_
+18	indikasió	_	NOUN	_	_	20	conj	_	_
+19	ri	_	ADP	_	_	6	case	_	_
+20	babbarita	_	NOUN	_	_	17	obj	_	_
+
+# sent_id = 2_palenquero_10_cv__96
+# text = " gueno mijo bo me saka ri posá mi i bo a ten ke gobbé tre mi "
+1	"	_	PUNCT	_	_	13	punct	_	_
+2	gueno	_	NOUN	_	_	13	nsubj	_	_
+3	mijo	_	VERB	_	_	13	nsubj	_	_
+4	bo	_	PRON	_	_	13	nsubj	_	_
+5	me	_	PRON	_	_	15	nummod	_	_
+6	saka	_	ADV	_	_	13	advmod	_	_
+7	ri	_	ADP	_	_	15	case	_	_
+8	posá	_	NOUN	_	_	13	obl	_	_
+9	mi	_	PRON	_	_	15	det	_	_
+10	i	_	PRON	_	_	13	nsubj	_	_
+11	bo	_	PRON	_	_	13	nsubj	_	_
+12	a	_	AUX	_	_	13	aux	_	_
+13	ten	_	VERB	_	_	0	root	_	_
+14	ke	_	ADP	_	_	15	case	_	_
+15	gobbé	_	NOUN	_	_	13	obl	_	_
+16	tre	_	NOUN	_	_	13	obj	_	_
+17	mi	_	PRON	_	_	15	det	_	_
+18	"	_	PUNCT	_	_	13	punct	_	_
+
+# sent_id = 2_palenquero_10_cv__97
+# text = i a benita a kelalo ri nato mama ele fofojén pa semblá ngubá , asina ke sendaba etraño nu ke babarita le ngalala amó a monde
+1	i	_	PRON	_	_	3	nsubj	_	_
+2	a	_	AUX	_	_	3	aux	_	_
+3	benita	_	VERB	_	_	0	root	_	_
+4	a	_	AUX	_	_	12	aux	_	_
+5	kelalo	_	NOUN	_	_	12	obj	_	_
+6	ri	_	ADP	_	_	10	case	_	_
+7	nato	_	NOUN	_	_	12	obl	_	_
+8	mama	_	NOUN	_	_	3	obl	_	_
+9	ele	_	PRON	_	_	10	det	_	_
+10	fofojén	_	NOUN	_	_	3	obj	_	_
+11	pa	_	ADP	_	_	10	case	_	_
+12	semblá	_	VERB	_	_	3	advcl	_	_
+13	ngubá	_	NOUN	_	_	3	obj	_	_
+14	,	_	PUNCT	_	_	3	punct	_	_
+15	asina	_	AUX	_	_	3	advmod	_	_
+16	ke	_	SCONJ	_	_	12	mark	_	_
+17	sendaba	_	NOUN	_	_	3	obj	_	_
+18	etraño	_	NOUN	_	_	12	obl	_	_
+19	nu	_	ADV	_	_	12	advmod	_	_
+20	ke	_	SCONJ	_	_	12	nsubj	_	_
+21	babarita	_	NOUN	_	_	3	obj	_	_
+22	le	_	PRON	_	_	10	mark	_	_
+23	ngalala	_	NOUN	_	_	12	obj	_	_
+24	amó	_	ADV	_	_	12	advmod	_	_
+25	a	_	AUX	_	_	12	aux	_	_
+26	monde	_	NOUN	_	_	3	obl	_	_
+
+# sent_id = 2_palenquero_10_cv__98
+# text = repué e ma fló amarío a se seká , antose aí jue andi kosecha tan lanká
+1	repué	_	VERB	_	_	8	obj	_	_
+2	e	_	DET	_	_	4	det	_	_
+3	ma	_	DET	_	_	16	nummod	_	_
+4	fló	_	VERB	_	_	8	advcl	_	_
+5	amarío	_	NOUN	_	_	8	obj	_	_
+6	a	_	AUX	_	_	8	aux	_	_
+7	se	_	AUX	_	_	4	aux	_	_
+8	seká	_	VERB	_	_	0	root	_	_
+9	,	_	PUNCT	_	_	8	punct	_	_
+10	antose	_	ADV	_	_	8	advmod	_	_
+11	aí	_	ADV	_	_	8	advmod	_	_
+12	jue	_	VERB	_	_	8	obj	_	_
+13	andi	_	ADP	_	_	16	case	_	_
+14	kosecha	_	NOUN	_	_	8	advcl	_	_
+15	tan	_	AUX	_	_	8	aux	_	_
+16	lanká	_	NOUN	_	_	8	obj	_	_
+
+# sent_id = 2_palenquero_10_cv__99
+# text = santa babbara bendita to ané a la bonga a ngritá
+1	santa	_	DET	_	_	3	nsubj	_	_
+2	babbara	_	NOUN	_	_	3	nsubj	_	_
+3	bendita	_	VERB	_	_	0	root	_	_
+4	to	_	PRON	_	_	2	aux	_	_
+5	ané	_	PRON	_	_	2	nsubj	_	_
+6	a	_	AUX	_	_	10	aux	_	_
+7	la	_	DET	_	_	10	aux	_	_
+8	bonga	_	NOUN	_	_	3	obj	_	_
+9	a	_	AUX	_	_	10	aux	_	_
+10	ngritá	_	VERB	_	_	3	obj	_	_
+
+# sent_id = 2_palenquero_10_cv__100
+# text = changaina a chitiá asina , kumo si é konosebá babbarita ri to mbila ri ele
+1	changaina	_	NOUN	_	_	3	obj	_	_
+2	a	_	AUX	_	_	3	aux	_	_
+3	chitiá	_	VERB	_	_	0	root	_	_
+4	asina	_	ADV	_	_	3	advmod	_	_
+5	,	_	PUNCT	_	_	3	punct	_	_
+6	kumo	_	ADV	_	_	3	advmod	_	_
+7	si	_	PRON	_	_	3	nsubj	_	_
+8	é	_	DET	_	_	3	cop	_	_
+9	konosebá	_	NOUN	_	_	3	obj	_	_
+10	babbarita	_	NOUN	_	_	3	obj	_	_
+11	ri	_	ADP	_	_	13	case	_	_
+12	to	_	PRON	_	_	3	aux	_	_
+13	mbila	_	VERB	_	_	3	obj	_	_
+14	ri	_	ADP	_	_	13	case	_	_
+15	ele	_	PRON	_	_	13	det	_	_
+

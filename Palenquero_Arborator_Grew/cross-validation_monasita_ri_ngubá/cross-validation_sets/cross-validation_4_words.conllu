@@ -1,0 +1,2120 @@
+# sent_id = cross-validation_4_words__1
+# text = ku ele bo a miní ri ngubá
+1	ku	ku	PUNCT	_	_	2	root	_	_
+2	ele	ele	PRON	_	_	4	_	_	_
+3	bo	bo	PUNCT	_	_	7	punct	_	_
+4	a	a	PUNCT	_	_	7	punct	_	_
+5	miní	miní	PUNCT	_	_	7	punct	_	_
+6	ri	ri	PUNCT	_	_	7	punct	_	_
+7	ngubá	_	NOUN	_	_	0	root	_	_
+
+# sent_id = cross-validation_4_words__2
+# text = si a sendá tan bonito e beddolaga
+1	si	si	PUNCT	_	_	7	punct	_	_
+2	a	a	PUNCT	_	_	7	punct	_	_
+3	sendá	senda	VERB	_	_	1	_	_	_
+4	tan	tan	PUNCT	_	_	7	punct	_	_
+5	bonito	bonita	VERB	_	_	1	_	_	_
+6	e	e	PUNCT	_	_	7	punct	_	_
+7	beddolaga	_	NOUN	_	_	0	root	_	_
+
+# sent_id = cross-validation_4_words__3
+# text = kuandi babbarita teneba un ma ocho año , un noche , poleba ndrumí nú , i ele a ndrumí chakoso
+1	kuandi	kuandi	NOUN	_	_	19	root	_	_
+2	babbarita	_	NOUN	_	_	19	root	_	_
+3	teneba	teneba	NOUN	_	_	19	root	_	_
+4	un	un	PUNCT	_	_	2	punct	_	_
+5	ma	ma	NOUN	_	_	19	root	_	_
+6	ocho	ocho	PUNCT	_	_	12	root	_	_
+7	año	año	PUNCT	_	_	2	punct	_	_
+8	,	,	PUNCT	_	_	2	punct	_	_
+9	un	un	PUNCT	_	_	2	punct	_	_
+10	noche	noche	PUNCT	_	_	2	punct	_	_
+11	,	,	PUNCT	_	_	2	punct	_	_
+12	poleba	_	NOUN	_	_	0	root	_	_
+13	ndrumí	ndrumí	PUNCT	_	_	2	punct	_	_
+14	nú	nú	PUNCT	_	_	2	punct	_	_
+15	,	,	PUNCT	_	_	2	punct	_	_
+16	i	i	PUNCT	_	_	2	punct	_	_
+17	ele	ele	PUNCT	_	_	12	punct	_	_
+18	a	a	PUNCT	_	_	2	punct	_	_
+19	ndrumí	ndrumí	PUNCT	_	_	12	punct	_	_
+20	chakoso	chakoso	NOUN	_	_	19	root	_	_
+
+# sent_id = cross-validation_4_words__4
+# text = komagrona , ana teresa , ri sendaba numana salomón , repué ri yulá benita ku nasimiento ri monasita , a santigualo i a miná ma ojo penené ri monasita
+1	komagrona	_	NOUN	_	_	0	root	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	ana	ana	NOUN	_	_	2	root	_	_
+4	teresa	teresa	PUNCT	_	_	1	punct	_	_
+5	,	,	PUNCT	_	_	1	punct	_	_
+6	ri	ri	PUNCT	_	_	1	punct	_	_
+7	sendaba	_	VERB	_	_	2	root	_	_
+8	numana	_	NOUN	_	_	2	root	_	_
+9	salomón	salomón	NOUN	_	_	2	root	_	_
+10	,	,	PUNCT	_	_	1	punct	_	_
+11	repué	repué	NOUN	_	_	9	root	_	_
+12	ri	ri	PUNCT	_	_	1	punct	_	_
+13	yulá	yulá	NOUN	_	_	1	root	_	_
+14	benita	benita	VERB	_	_	9	root	_	_
+15	ku	ku	PUNCT	_	_	1	punct	_	_
+16	nasimiento	nasimiento	NOUN	_	_	2	root	_	_
+17	ri	ri	PUNCT	_	_	1	punct	_	_
+18	monasita	_	NOUN	_	_	2	root	_	_
+19	,	,	PUNCT	_	_	1	punct	_	_
+20	a	a	PUNCT	_	_	1	punct	_	_
+21	santigualo	santigualo	NOUN	_	_	2	root	_	_
+22	i	i	PUNCT	_	_	1	punct	_	_
+23	a	a	PUNCT	_	_	1	punct	_	_
+24	miná	miná	VERB	_	_	1	root	_	_
+25	ma	ma	PUNCT	_	_	1	punct	_	_
+26	ojo	ojo	PUNCT	_	_	1	punct	_	_
+27	penené	penena	VERB	_	_	2	root	_	_
+28	ri	ri	PUNCT	_	_	1	punct	_	_
+29	monasita	_	NOUN	_	_	2	root	_	_
+
+# sent_id = cross-validation_4_words__5
+# text = bo é ekojía ri ngubá
+1	bo	bo	PUNCT	_	_	3	punct	_	_
+2	é	é	PUNCT	_	_	5	punct	_	_
+3	ekojía	ekojía	NOUN	_	_	0	root	_	_
+4	ri	ri	PUNCT	_	_	5	punct	_	_
+5	ngubá	_	NOUN	_	_	1	_	_	_
+
+# sent_id = cross-validation_4_words__6
+# text = asina í a aselo
+1	asina	_	VERB	_	_	0	root	_	_
+2	í	í	PUNCT	_	_	1	punct	_	_
+3	a	a	PUNCT	_	_	1	punct	_	_
+4	aselo	_	VERB	_	_	3	_	_	_
+
+# sent_id = cross-validation_4_words__7
+# text = i a eplikalo ke obra a sendaba ri musika i poreo ma atto ateneba ke prepará pa kandá i sarangiá aí tarima
+1	i	i	PUNCT	_	_	20	punct	_	_
+2	a	a	PUNCT	_	_	20	punct	_	_
+3	eplikalo	eplikalo	PUNCT	_	_	20	punct	_	_
+4	ke	ke	PUNCT	_	_	20	punct	_	_
+5	obra	obra	PUNCT	_	_	20	root	_	_
+6	a	a	PUNCT	_	_	20	punct	_	_
+7	sendaba	sendaba	VERB	_	_	9	root	_	_
+8	ri	ri	PUNCT	_	_	20	punct	_	_
+9	musika	musika	NOUN	_	_	0	root	_	_
+10	i	i	PUNCT	_	_	20	punct	_	_
+11	poreo	_	NOUN	_	_	10	_	_	_
+12	ma	ma	PUNCT	_	_	20	punct	_	_
+13	atto	atto	NOUN	_	_	20	punct	_	_
+14	ateneba	ateneba	NOUN	_	_	12	_	_	_
+15	ke	ke	PUNCT	_	_	20	punct	_	_
+16	prepará	prepara	VERB	_	_	9	root	_	_
+17	pa	pa	PUNCT	_	_	20	punct	_	_
+18	kandá	kanda	VERB	_	_	10	_	_	_
+19	i	i	PUNCT	_	_	20	punct	_	_
+20	sarangiá	sarangia	VERB	_	_	9	root	_	_
+21	aí	aí	PUNCT	_	_	20	punct	_	_
+22	tarima	tarima	VERB	_	_	9	root	_	_
+
+# sent_id = cross-validation_4_words__8
+# text = asina kandando i ku rrapá tiela , babbarita a jundá ku kuagro ri ma mujé ri la bonga , pa semblá i rrekojé ngubá
+1	asina	_	VERB	_	_	14	root	_	_
+2	kandando	kandanda	VERB	_	_	14	root	_	_
+3	i	i	PUNCT	_	_	8	punct	_	_
+4	ku	ku	PUNCT	_	_	8	punct	_	_
+5	rrapá	rrapá	PUNCT	_	_	8	punct	_	_
+6	tiela	tiela	PUNCT	_	_	8	punct	_	_
+7	,	,	PUNCT	_	_	8	punct	_	_
+8	babbarita	_	NOUN	_	_	0	root	_	_
+9	a	a	PUNCT	_	_	8	punct	_	_
+10	jundá	junda	VERB	_	_	14	root	_	_
+11	ku	ku	PUNCT	_	_	8	punct	_	_
+12	kuagro	_	NOUN	_	_	14	root	_	_
+13	ri	ri	PUNCT	_	_	8	punct	_	_
+14	ma	ma	PUNCT	_	_	11	root	_	_
+15	mujé	mujé	VERB	_	_	14	root	_	_
+16	ri	ri	PUNCT	_	_	8	punct	_	_
+17	la	la	PUNCT	_	_	8	punct	_	_
+18	bonga	bonga	VERB	_	_	19	_	_	_
+19	,	,	PUNCT	_	_	8	punct	_	_
+20	pa	pa	PUNCT	_	_	8	punct	_	_
+21	semblá	sembla	VERB	_	_	14	root	_	_
+22	i	i	PUNCT	_	_	8	punct	_	_
+23	rrekojé	rrekojé	PUNCT	_	_	8	punct	_	_
+24	ngubá	_	VERB	_	_	14	root	_	_
+
+# sent_id = cross-validation_4_words__9
+# text = a lendralo un soyoso kayao , kumo é aguasero loke tré a niña babbaria , monasita ri ele a konsolalo ku un simía ri ngubá
+1	a	a	PUNCT	_	_	14	punct	_	_
+2	lendralo	lendralo	PUNCT	_	_	14	punct	_	_
+3	un	un	PUNCT	_	_	14	punct	_	_
+4	soyoso	_	NOUN	_	_	15	_	_	_
+5	kayao	kayao	NOUN	_	_	15	_	_	_
+6	,	,	PUNCT	_	_	14	punct	_	_
+7	kumo	_	NOUN	_	_	15	_	_	_
+8	é	é	PUNCT	_	_	14	punct	_	_
+9	aguasero	_	NOUN	_	_	15	_	_	_
+10	loke	loke	NOUN	_	_	14	punct	_	_
+11	tré	tré	PUNCT	_	_	14	punct	_	_
+12	a	a	PUNCT	_	_	14	punct	_	_
+13	niña	niña	NOUN	_	_	7	root	_	_
+14	babbaria	_	NOUN	_	_	0	root	_	_
+15	,	,	PUNCT	_	_	14	punct	_	_
+16	monasita	_	NOUN	_	_	15	_	_	_
+17	ri	ri	PUNCT	_	_	14	punct	_	_
+18	ele	ele	PUNCT	_	_	14	punct	_	_
+19	a	a	PUNCT	_	_	14	punct	_	_
+20	konsolalo	_	NOUN	_	_	15	_	_	_
+21	ku	ku	PUNCT	_	_	14	punct	_	_
+22	un	un	PUNCT	_	_	14	punct	_	_
+23	simía	simía	NOUN	_	_	9	root	_	_
+24	ri	ri	PUNCT	_	_	14	punct	_	_
+25	ngubá	_	NOUN	_	_	15	_	_	_
+
+# sent_id = cross-validation_4_words__10
+# text = maé ku mona ri ele a siguí ku trarisió
+1	maé	maé	VERB	_	_	2	root	_	_
+2	ku	ku	PUNCT	_	_	3	punct	_	_
+3	mona	_	NOUN	_	_	0	root	_	_
+4	ri	ri	PUNCT	_	_	3	punct	_	_
+5	ele	ele	PUNCT	_	_	3	punct	_	_
+6	a	a	PUNCT	_	_	3	punct	_	_
+7	siguí	siguí	NOUN	_	_	2	root	_	_
+8	ku	ku	PUNCT	_	_	2	punct	_	_
+9	trarisió	trarisii	NOUN	_	_	2	root	_	_
+
+# sent_id = cross-validation_4_words__11
+# text = ane ta kandá jarocho , ma kando ri maní ; kando lo ke ta asé , ke ma simia ta kapurí salindo ele solo ri tiela
+1	ane	ane	PUNCT	_	_	19	punct	_	_
+2	ta	ta	PUNCT	_	_	11	punct	_	_
+3	kandá	kandi	VERB	_	_	18	root	_	_
+4	jarocho	jarocha	VERB	_	_	18	root	_	_
+5	,	,	PUNCT	_	_	11	punct	_	_
+6	ma	ma	PUNCT	_	_	19	punct	_	_
+7	kando	_	NOUN	_	_	16	_	_	_
+8	ri	ri	PUNCT	_	_	11	punct	_	_
+9	maní	maní	PUNCT	_	_	11	punct	_	_
+10	;	;	PUNCT	_	_	11	punct	_	_
+11	kando	_	NOUN	_	_	20	root	_	_
+12	lo	lo	PUNCT	_	_	11	punct	_	_
+13	ke	ke	PUNCT	_	_	11	punct	_	_
+14	ta	ta	PUNCT	_	_	11	punct	_	_
+15	asé	asé	PUNCT	_	_	19	punct	_	_
+16	,	,	PUNCT	_	_	11	punct	_	_
+17	ke	ke	PUNCT	_	_	19	punct	_	_
+18	ma	ma	NOUN	_	_	19	root	_	_
+19	simia	simia	NOUN	_	_	0	root	_	_
+20	ta	ta	PUNCT	_	_	19	punct	_	_
+21	kapurí	kapuri	NOUN	_	_	16	_	_	_
+22	salindo	salindo	VERB	_	_	18	root	_	_
+23	ele	ele	PUNCT	_	_	19	punct	_	_
+24	solo	solo	NOUN	_	_	18	punct	_	_
+25	ri	ri	PUNCT	_	_	11	punct	_	_
+26	tiela	tiela	PUNCT	_	_	19	punct	_	_
+
+# sent_id = cross-validation_4_words__12
+# text = ninguno ri ané seba chitialo ndulo nu , pero a peseba ke kala ku mboso babbarita a seba flojá tiela , ke ata simía a seba salí e solo , pirindo pa ma monasito ku ma mujé ngalalo
+1	ninguno	_	NOUN	_	_	9	root	_	_
+2	ri	ri	PUNCT	_	_	16	punct	_	_
+3	ané	ané	PUNCT	_	_	16	punct	_	_
+4	seba	seba	PUNCT	_	_	23	root	_	_
+5	chitialo	chitialo	NOUN	_	_	23	root	_	_
+6	ndulo	ndulo	PUNCT	_	_	16	punct	_	_
+7	nu	nu	PUNCT	_	_	16	punct	_	_
+8	,	,	PUNCT	_	_	16	punct	_	_
+9	pero	pero	NOUN	_	_	0	root	_	_
+10	a	a	PUNCT	_	_	16	punct	_	_
+11	peseba	peseba	NOUN	_	_	9	root	_	_
+12	ke	ke	PUNCT	_	_	16	punct	_	_
+13	kala	kala	NOUN	_	_	23	root	_	_
+14	ku	ku	PUNCT	_	_	23	root	_	_
+15	mboso	_	NOUN	_	_	21	_	_	_
+16	babbarita	_	NOUN	_	_	9	root	_	_
+17	a	a	PUNCT	_	_	16	punct	_	_
+18	seba	seba	NOUN	_	_	9	root	_	_
+19	flojá	floja	NOUN	_	_	9	root	_	_
+20	tiela	tiela	PUNCT	_	_	16	punct	_	_
+21	,	,	PUNCT	_	_	16	punct	_	_
+22	ke	ke	PUNCT	_	_	16	punct	_	_
+23	ata	ata	NOUN	_	_	9	root	_	_
+24	simía	simíi	NOUN	_	_	9	root	_	_
+25	a	a	PUNCT	_	_	16	punct	_	_
+26	seba	seba	NOUN	_	_	9	root	_	_
+27	salí	salí	VERB	_	_	23	root	_	_
+28	e	e	PUNCT	_	_	16	punct	_	_
+29	solo	solo	PUNCT	_	_	16	punct	_	_
+30	,	,	PUNCT	_	_	16	punct	_	_
+31	pirindo	pirindo	NOUN	_	_	9	root	_	_
+32	pa	pa	PUNCT	_	_	16	punct	_	_
+33	ma	ma	NOUN	_	_	23	root	_	_
+34	monasito	_	NOUN	_	_	6	root	_	_
+35	ku	ku	PUNCT	_	_	16	punct	_	_
+36	ma	ma	PUNCT	_	_	23	root	_	_
+37	mujé	mujé	VERB	_	_	23	root	_	_
+38	ngalalo	_	NOUN	_	_	14	root	_	_
+
+# sent_id = cross-validation_4_words__13
+# text = i babbabarita ku maé ri ele , apesá ri ndoló , a siguí kandando i rapando ma jenerosa tiela ri la bonga
+1	i	i	PUNCT	_	_	2	punct	_	_
+2	babbabarita	_	NOUN	_	_	0	root	_	_
+3	ku	ku	PUNCT	_	_	2	punct	_	_
+4	maé	maé	PUNCT	_	_	2	punct	_	_
+5	ri	ri	PUNCT	_	_	2	punct	_	_
+6	ele	ele	PUNCT	_	_	2	punct	_	_
+7	,	,	PUNCT	_	_	2	punct	_	_
+8	apesá	apesa	NOUN	_	_	7	_	_	_
+9	ri	ri	PUNCT	_	_	2	punct	_	_
+10	ndoló	ndoló	PUNCT	_	_	2	punct	_	_
+11	,	,	PUNCT	_	_	2	punct	_	_
+12	a	a	PUNCT	_	_	2	punct	_	_
+13	siguí	siguí	PUNCT	_	_	2	punct	_	_
+14	kandando	_	NOUN	_	_	7	_	_	_
+15	i	i	PUNCT	_	_	2	punct	_	_
+16	rapando	_	NOUN	_	_	7	_	_	_
+17	ma	ma	PUNCT	_	_	2	punct	_	_
+18	jenerosa	jenerosa	PUNCT	_	_	2	punct	_	_
+19	tiela	tiela	PUNCT	_	_	2	punct	_	_
+20	ri	ri	PUNCT	_	_	2	punct	_	_
+21	la	la	PUNCT	_	_	2	punct	_	_
+22	bonga	_	NOUN	_	_	7	_	_	_
+
+# sent_id = cross-validation_4_words__14
+# text = kuandi motiao kabá , mujé a ndalo un bosita ku simía ri ngubá a babbarita i a chitialo : bo a tré fettilirá a paraje sí , babbarita
+1	kuandi	kuandi	NOUN	_	_	4	root	_	_
+2	motiao	_	NOUN	_	_	4	root	_	_
+3	kabá	kabá	PUNCT	_	_	4	root	_	_
+4	,	,	PUNCT	_	_	15	punct	_	_
+5	mujé	mujé	VERB	_	_	15	punct	_	_
+6	a	a	PUNCT	_	_	15	punct	_	_
+7	ndalo	ndalo	NOUN	_	_	4	root	_	_
+8	un	un	PUNCT	_	_	15	punct	_	_
+9	bosita	_	NOUN	_	_	4	root	_	_
+10	ku	ku	PUNCT	_	_	15	punct	_	_
+11	simía	simía	NOUN	_	_	4	root	_	_
+12	ri	ri	PUNCT	_	_	15	punct	_	_
+13	ngubá	_	NOUN	_	_	4	root	_	_
+14	a	a	PUNCT	_	_	15	punct	_	_
+15	babbarita	_	NOUN	_	_	0	root	_	_
+16	i	i	PUNCT	_	_	15	punct	_	_
+17	a	a	PUNCT	_	_	15	punct	_	_
+18	chitialo	chitialo	NOUN	_	_	4	root	_	_
+19	:	:	PUNCT	_	_	15	punct	_	_
+20	bo	bo	PUNCT	_	_	15	punct	_	_
+21	a	a	PUNCT	_	_	15	punct	_	_
+22	tré	tré	PUNCT	_	_	15	punct	_	_
+23	fettilirá	fettilirá	VERB	_	_	4	root	_	_
+24	a	a	PUNCT	_	_	15	punct	_	_
+25	paraje	paraje	NOUN	_	_	4	root	_	_
+26	sí	sí	PUNCT	_	_	15	punct	_	_
+27	,	,	PUNCT	_	_	15	punct	_	_
+28	babbarita	_	NOUN	_	_	4	root	_	_
+
+# sent_id = cross-validation_4_words__15
+# text = salomón tatá ri monasita ri taba nasé e memo ora a mblasá a birikueta ele paría mblandita
+1	salomón	salomóo	NOUN	_	_	15	root	_	_
+2	tatá	tatá	PUNCT	_	_	14	punct	_	_
+3	ri	ri	PUNCT	_	_	14	punct	_	_
+4	monasita	monasita	NOUN	_	_	15	root	_	_
+5	ri	ri	PUNCT	_	_	14	punct	_	_
+6	taba	taba	NOUN	_	_	15	root	_	_
+7	nasé	nasi	NOUN	_	_	15	root	_	_
+8	e	e	PUNCT	_	_	14	punct	_	_
+9	memo	memo	NOUN	_	_	15	root	_	_
+10	ora	ora	PUNCT	_	_	15	root	_	_
+11	a	a	PUNCT	_	_	14	punct	_	_
+12	mblasá	mblasa	NOUN	_	_	15	root	_	_
+13	a	a	PUNCT	_	_	14	punct	_	_
+14	birikueta	_	NOUN	_	_	15	root	_	_
+15	ele	ele	PUNCT	_	_	0	root	_	_
+16	paría	paría	NOUN	_	_	15	root	_	_
+17	mblandita	mblanditi	NOUN	_	_	15	root	_	_
+
+# sent_id = cross-validation_4_words__16
+# text = ma nuebe noche ri rifunto a pasá
+1	ma	ma	NOUN	_	_	0	root	_	_
+2	nuebe	_	NOUN	_	_	1	root	_	_
+3	noche	noche	PUNCT	_	_	1	root	_	_
+4	ri	ri	PUNCT	_	_	1	punct	_	_
+5	rifunto	rifuina	NOUN	_	_	1	root	_	_
+6	a	a	PUNCT	_	_	1	punct	_	_
+7	pasá	pasá	PUNCT	_	_	1	punct	_	_
+
+# sent_id = cross-validation_4_words__17
+# text = e trato ku etefanía , suto a fetejalo un merio ría kun só chokao , a olaya errera andi e taba bibí ata e lungá
+1	e	e	PUNCT	_	_	14	punct	_	_
+2	trato	trato	NOUN	_	_	12	root	_	_
+3	ku	ku	PUNCT	_	_	14	punct	_	_
+4	etefanía	etefanía	PUNCT	_	_	14	punct	_	_
+5	,	,	PUNCT	_	_	14	punct	_	_
+6	suto	suto	NOUN	_	_	12	root	_	_
+7	a	a	PUNCT	_	_	14	punct	_	_
+8	fetejalo	fetejalo	PUNCT	_	_	14	punct	_	_
+9	un	un	PUNCT	_	_	14	punct	_	_
+10	merio	merio	PUNCT	_	_	22	punct	_	_
+11	ría	ría	PUNCT	_	_	14	punct	_	_
+12	kun	kun	PUNCT	_	_	22	root	_	_
+13	só	só	PUNCT	_	_	14	punct	_	_
+14	chokao	chokaa	NOUN	_	_	0	root	_	_
+15	,	,	PUNCT	_	_	14	punct	_	_
+16	a	a	PUNCT	_	_	14	punct	_	_
+17	olaya	_	VERB	_	_	15	_	_	_
+18	errera	_	PUNCT	_	_	16	_	_	_
+19	andi	andi	PUNCT	_	_	14	punct	_	_
+20	e	e	PUNCT	_	_	14	punct	_	_
+21	taba	taba	NOUN	_	_	12	root	_	_
+22	bibí	bibí	PUNCT	_	_	16	_	_	_
+23	ata	ata	PUNCT	_	_	22	punct	_	_
+24	e	e	PUNCT	_	_	14	punct	_	_
+25	lungá	lunga	VERB	_	_	22	root	_	_
+
+# sent_id = cross-validation_4_words__18
+# text = i a prundá ele : ¿ku ke i tan mantenelo ?
+1	i	i	PUNCT	_	_	3	punct	_	_
+2	a	a	PUNCT	_	_	3	punct	_	_
+3	prundá	prunda	NOUN	_	_	0	root	_	_
+4	ele	ele	PUNCT	_	_	3	punct	_	_
+5	:	:	PUNCT	_	_	3	punct	_	_
+6	¿ku	¿ku	PUNCT	_	_	2	_	_	_
+7	ke	ke	PUNCT	_	_	3	punct	_	_
+8	i	i	PUNCT	_	_	3	punct	_	_
+9	tan	tan	PUNCT	_	_	3	root	_	_
+10	mantenelo	_	NOUN	_	_	5	_	_	_
+11	?	?	PUNCT	_	_	3	punct	_	_
+
+# sent_id = cross-validation_4_words__19
+# text = monasita lambía ,
+1	monasita	_	NOUN	_	_	0	root	_	_
+2	lambía	lambía	NOUN	_	_	3	_	_	_
+3	,	,	PUNCT	_	_	1	punct	_	_
+
+# sent_id = cross-validation_4_words__20
+# text = ane ndo a onrra gueta lo ke mbila a se ndá , asendo lo ke má sen nguta ane , kumo jue sembla maní
+1	ane	ane	PUNCT	_	_	13	root	_	_
+2	ndo	ndo	PUNCT	_	_	8	punct	_	_
+3	a	a	PUNCT	_	_	8	punct	_	_
+4	onrra	_	NOUN	_	_	14	root	_	_
+5	gueta	_	VERB	_	_	20	_	_	_
+6	lo	lo	PUNCT	_	_	8	punct	_	_
+7	ke	ke	PUNCT	_	_	8	punct	_	_
+8	mbila	_	NOUN	_	_	17	root	_	_
+9	a	a	PUNCT	_	_	8	punct	_	_
+10	se	se	PUNCT	_	_	8	punct	_	_
+11	ndá	ndá	PUNCT	_	_	8	punct	_	_
+12	,	,	PUNCT	_	_	8	punct	_	_
+13	asendo	_	NOUN	_	_	20	_	_	_
+14	lo	lo	PUNCT	_	_	13	root	_	_
+15	ke	ke	PUNCT	_	_	13	punct	_	_
+16	má	má	NOUN	_	_	21	root	_	_
+17	sen	sen	PUNCT	_	_	0	root	_	_
+18	nguta	_	NOUN	_	_	15	root	_	_
+19	ane	ane	PUNCT	_	_	8	punct	_	_
+20	,	,	PUNCT	_	_	8	punct	_	_
+21	kumo	_	NOUN	_	_	20	_	_	_
+22	jue	jue	PUNCT	_	_	8	punct	_	_
+23	sembla	sembla	PUNCT	_	_	8	punct	_	_
+24	maní	maní	PUNCT	_	_	8	punct	_	_
+
+# sent_id = cross-validation_4_words__21
+# text = rioso , san basilio ku santa babbara tan protegé bo monasita mí komagrona a chitiá , repué ele a sigí : uuummm , uuju
+1	rioso	rioso	NOUN	_	_	23	root	_	_
+2	,	,	PUNCT	_	_	7	punct	_	_
+3	san	san	NOUN	_	_	23	root	_	_
+4	basilio	basilio	NOUN	_	_	23	root	_	_
+5	ku	ku	PUNCT	_	_	7	punct	_	_
+6	santa	santa	NOUN	_	_	23	root	_	_
+7	babbara	_	NOUN	_	_	0	root	_	_
+8	tan	tan	PUNCT	_	_	23	root	_	_
+9	protegé	protegé	VERB	_	_	23	root	_	_
+10	bo	bo	PUNCT	_	_	7	punct	_	_
+11	monasita	_	NOUN	_	_	23	root	_	_
+12	mí	mí	PUNCT	_	_	7	punct	_	_
+13	komagrona	_	NOUN	_	_	16	_	_	_
+14	a	a	PUNCT	_	_	7	punct	_	_
+15	chitiá	chitia	VERB	_	_	23	root	_	_
+16	,	,	PUNCT	_	_	7	punct	_	_
+17	repué	repué	NOUN	_	_	23	root	_	_
+18	ele	ele	PUNCT	_	_	7	punct	_	_
+19	a	a	PUNCT	_	_	7	punct	_	_
+20	sigí	sigí	PUNCT	_	_	7	punct	_	_
+21	:	:	PUNCT	_	_	7	punct	_	_
+22	uuummm	uuummm	NOUN	_	_	23	root	_	_
+23	,	,	PUNCT	_	_	7	punct	_	_
+24	uuju	_	NOUN	_	_	23	root	_	_
+
+# sent_id = cross-validation_4_words__22
+# text = babbarita , ritraia ku ña , ele fijá nu ke noche taba kujelo
+1	babbarita	_	NOUN	_	_	0	root	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	ritraia	ritraia	NOUN	_	_	7	root	_	_
+4	ku	ku	PUNCT	_	_	1	punct	_	_
+5	ña	ña	PUNCT	_	_	1	punct	_	_
+6	,	,	PUNCT	_	_	1	punct	_	_
+7	ele	ele	PUNCT	_	_	10	root	_	_
+8	fijá	fijo	NOUN	_	_	7	root	_	_
+9	nu	nu	PUNCT	_	_	1	punct	_	_
+10	ke	ke	PUNCT	_	_	1	punct	_	_
+11	noche	noche	PUNCT	_	_	12	root	_	_
+12	taba	taba	NOUN	_	_	7	root	_	_
+13	kujelo	kujelo	NOUN	_	_	7	root	_	_
+
+# sent_id = cross-validation_4_words__23
+# text = a pasá tambié nuebe aguasero kayao ku 14 ri matso
+1	a	a	PUNCT	_	_	5	punct	_	_
+2	pasá	pasá	VERB	_	_	10	root	_	_
+3	tambié	tambia	VERB	_	_	8	root	_	_
+4	nuebe	nuebe	PUNCT	_	_	5	root	_	_
+5	aguasero	_	VERB	_	_	0	root	_	_
+6	kayao	_	NOUN	_	_	8	root	_	_
+7	ku	ku	PUNCT	_	_	5	root	_	_
+8	14	14	PUNCT	_	_	5	punct	_	_
+9	ri	ri	PUNCT	_	_	5	punct	_	_
+10	matso	matso	VERB	_	_	8	root	_	_
+
+# sent_id = cross-validation_4_words__24
+# text = andi bonga to mundo a sabeba ke salomón a sendaba un piacha andi ma sekreto ri tiela , po ma siembla ri yuka , maí , ñame ku planda andi losa ele
+1	andi	andi	PUNCT	_	_	8	punct	_	_
+2	bonga	_	NOUN	_	_	26	root	_	_
+3	to	to	PUNCT	_	_	8	punct	_	_
+4	mundo	mundo	NOUN	_	_	8	root	_	_
+5	a	a	PUNCT	_	_	8	punct	_	_
+6	sabeba	sabeba	NOUN	_	_	26	root	_	_
+7	ke	ke	PUNCT	_	_	8	punct	_	_
+8	salomón	salomóo	NOUN	_	_	0	root	_	_
+9	a	a	PUNCT	_	_	8	punct	_	_
+10	sendaba	_	NOUN	_	_	26	root	_	_
+11	un	un	PUNCT	_	_	8	punct	_	_
+12	piacha	piacha	PUNCT	_	_	8	root	_	_
+13	andi	andi	PUNCT	_	_	8	punct	_	_
+14	ma	ma	PUNCT	_	_	8	punct	_	_
+15	sekreto	sekreto	NOUN	_	_	26	root	_	_
+16	ri	ri	PUNCT	_	_	8	punct	_	_
+17	tiela	tiela	PUNCT	_	_	8	root	_	_
+18	,	,	PUNCT	_	_	8	punct	_	_
+19	po	po	PUNCT	_	_	8	punct	_	_
+20	ma	ma	PUNCT	_	_	8	punct	_	_
+21	siembla	siembla	NOUN	_	_	8	punct	_	_
+22	ri	ri	PUNCT	_	_	8	punct	_	_
+23	yuka	yuka	PUNCT	_	_	8	root	_	_
+24	,	,	PUNCT	_	_	8	punct	_	_
+25	maí	maí	PUNCT	_	_	8	punct	_	_
+26	,	,	PUNCT	_	_	8	punct	_	_
+27	ñame	ñame	PUNCT	_	_	8	punct	_	_
+28	ku	ku	PUNCT	_	_	8	punct	_	_
+29	planda	planda	PUNCT	_	_	8	punct	_	_
+30	andi	andi	PUNCT	_	_	8	punct	_	_
+31	losa	losa	NOUN	_	_	26	root	_	_
+32	ele	ele	PUNCT	_	_	8	punct	_	_
+
+# sent_id = cross-validation_4_words__25
+# text = repué a sottalo kabeo i a lanká a motialo , kandandó :
+1	repué	repué	NOUN	_	_	6	_	_	_
+2	a	a	PUNCT	_	_	4	punct	_	_
+3	sottalo	sottala	NOUN	_	_	10	_	_	_
+4	kabeo	_	NOUN	_	_	10	_	_	_
+5	i	i	PUNCT	_	_	7	punct	_	_
+6	a	a	PUNCT	_	_	4	punct	_	_
+7	lanká	lanka	VERB	_	_	0	root	_	_
+8	a	a	PUNCT	_	_	7	punct	_	_
+9	motialo	motiala	NOUN	_	_	10	_	_	_
+10	,	,	PUNCT	_	_	7	punct	_	_
+11	kandandó	kandandi	NOUN	_	_	10	_	_	_
+12	:	:	PUNCT	_	_	7	punct	_	_
+
+# sent_id = cross-validation_4_words__26
+# text = ese sendaba pueto preferío andi bonga , palo ri karakolí ri ele , andi ele aseba trepá tó ma tadde kuendí ele sendaba monasita
+1	ese	ese	PUNCT	_	_	13	root	_	_
+2	sendaba	sendaba	VERB	_	_	13	root	_	_
+3	pueto	pueto	PUNCT	_	_	23	root	_	_
+4	preferío	preferío	PUNCT	_	_	23	punct	_	_
+5	andi	andi	PUNCT	_	_	23	punct	_	_
+6	bonga	bonga	VERB	_	_	13	root	_	_
+7	,	,	PUNCT	_	_	23	punct	_	_
+8	palo	palo	NOUN	_	_	13	root	_	_
+9	ri	ri	PUNCT	_	_	23	punct	_	_
+10	karakolí	karakolí	NOUN	_	_	13	root	_	_
+11	ri	ri	PUNCT	_	_	23	punct	_	_
+12	ele	ele	PUNCT	_	_	23	punct	_	_
+13	,	,	PUNCT	_	_	23	punct	_	_
+14	andi	andi	VERB	_	_	23	punct	_	_
+15	ele	ele	PUNCT	_	_	13	root	_	_
+16	aseba	aseba	PUNCT	_	_	13	root	_	_
+17	trepá	trepa	VERB	_	_	13	root	_	_
+18	tó	tó	PUNCT	_	_	23	punct	_	_
+19	ma	ma	PUNCT	_	_	23	punct	_	_
+20	tadde	tadde	PUNCT	_	_	23	punct	_	_
+21	kuendí	kuendí	NOUN	_	_	13	root	_	_
+22	ele	ele	PUNCT	_	_	15	root	_	_
+23	sendaba	_	VERB	_	_	0	root	_	_
+24	monasita	_	NOUN	_	_	13	root	_	_
+
+# sent_id = cross-validation_4_words__27
+# text = ri repente ele a nda kuenda ri un motiao , ritinto , andi kabeo ri mona ri ele , pero un motiao ke ele nda kuenda ri kiene jue , un motiao ke sendaba en mapa biejo , ku kamino pandi palo ri karakolí
+1	ri	ri	PUNCT	_	_	32	punct	_	_
+2	repente	repente	PUNCT	_	_	32	punct	_	_
+3	ele	ele	PUNCT	_	_	14	punct	_	_
+4	a	a	PUNCT	_	_	32	punct	_	_
+5	nda	nda	PUNCT	_	_	32	punct	_	_
+6	kuenda	kuenda	NOUN	_	_	19	_	_	_
+7	ri	ri	PUNCT	_	_	32	punct	_	_
+8	un	un	PUNCT	_	_	14	punct	_	_
+9	motiao	_	NOUN	_	_	19	_	_	_
+10	,	,	PUNCT	_	_	32	punct	_	_
+11	ritinto	_	NOUN	_	_	12	root	_	_
+12	,	,	PUNCT	_	_	0	root	_	_
+13	andi	andi	PUNCT	_	_	14	punct	_	_
+14	kabeo	_	NOUN	_	_	19	_	_	_
+15	ri	ri	PUNCT	_	_	14	punct	_	_
+16	mona	_	NOUN	_	_	19	_	_	_
+17	ri	ri	PUNCT	_	_	32	punct	_	_
+18	ele	ele	PUNCT	_	_	14	punct	_	_
+19	,	,	PUNCT	_	_	32	punct	_	_
+20	pero	_	NOUN	_	_	19	_	_	_
+21	un	un	PUNCT	_	_	14	punct	_	_
+22	motiao	_	NOUN	_	_	19	_	_	_
+23	ke	ke	PUNCT	_	_	32	punct	_	_
+24	ele	ele	PUNCT	_	_	19	_	_	_
+25	nda	nda	PUNCT	_	_	32	punct	_	_
+26	kuenda	_	NOUN	_	_	19	_	_	_
+27	ri	ri	PUNCT	_	_	32	punct	_	_
+28	kiene	kiene	PUNCT	_	_	12	root	_	_
+29	jue	jue	PUNCT	_	_	32	punct	_	_
+30	,	,	PUNCT	_	_	32	punct	_	_
+31	un	un	PUNCT	_	_	12	root	_	_
+32	motiao	_	NOUN	_	_	12	root	_	_
+33	ke	ke	PUNCT	_	_	14	punct	_	_
+34	sendaba	_	VERB	_	_	19	_	_	_
+35	en	en	PUNCT	_	_	32	punct	_	_
+36	mapa	mapa	NOUN	_	_	12	root	_	_
+37	biejo	biejo	PUNCT	_	_	14	punct	_	_
+38	,	,	PUNCT	_	_	32	punct	_	_
+39	ku	ku	PUNCT	_	_	14	punct	_	_
+40	kamino	_	NOUN	_	_	19	_	_	_
+41	pandi	pandi	PUNCT	_	_	14	punct	_	_
+42	palo	_	NOUN	_	_	19	_	_	_
+43	ri	ri	PUNCT	_	_	14	punct	_	_
+44	karakolí	karakolí	NOUN	_	_	12	root	_	_
+
+# sent_id = cross-validation_4_words__28
+# text = chito a chito , babbarita a konfiá
+1	chito	_	NOUN	_	_	4	_	_	_
+2	a	a	PUNCT	_	_	5	punct	_	_
+3	chito	_	NOUN	_	_	4	_	_	_
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	babbarita	_	NOUN	_	_	0	root	_	_
+6	a	a	PUNCT	_	_	5	punct	_	_
+7	konfiá	konfia	VERB	_	_	4	_	_	_
+
+# sent_id = cross-validation_4_words__29
+# text = a notá un lú ri kolá ma kukuyo ri se alumbrá ma monde andi me ri pakua
+1	a	a	PUNCT	_	_	8	punct	_	_
+2	notá	nota	VERB	_	_	10	root	_	_
+3	un	un	PUNCT	_	_	8	punct	_	_
+4	lú	lú	PUNCT	_	_	17	punct	_	_
+5	ri	ri	PUNCT	_	_	17	punct	_	_
+6	kolá	kolá	VERB	_	_	7	_	_	_
+7	ma	ma	PUNCT	_	_	17	root	_	_
+8	kukuyo	_	NOUN	_	_	10	root	_	_
+9	ri	ri	PUNCT	_	_	17	root	_	_
+10	se	se	PUNCT	_	_	17	root	_	_
+11	alumbrá	_	NOUN	_	_	10	root	_	_
+12	ma	ma	PUNCT	_	_	17	root	_	_
+13	monde	monde	PUNCT	_	_	17	root	_	_
+14	andi	andi	PUNCT	_	_	8	punct	_	_
+15	me	me	PUNCT	_	_	8	punct	_	_
+16	ri	ri	PUNCT	_	_	17	root	_	_
+17	pakua	_	NOUN	_	_	0	root	_	_
+
+# sent_id = cross-validation_4_words__30
+# text = kuandi babbarita a kumplí 5 año , a seba juguá ku muñeka i ku chokorito kumo ma uto monasita , pero kuando e taba a posá e solo a seba ngalá sokito i a seba bae pa kolao a kobá ku rrekojé un ma simiita pa ichalo andi un tutumita
+1	kuandi	kuandi	NOUN	_	_	20	root	_	_
+2	babbarita	_	NOUN	_	_	20	root	_	_
+3	a	a	PUNCT	_	_	15	punct	_	_
+4	kumplí	_	NOUN	_	_	20	root	_	_
+5	5	5	PUNCT	_	_	15	punct	_	_
+6	año	año	PUNCT	_	_	15	punct	_	_
+7	,	,	PUNCT	_	_	15	punct	_	_
+8	a	a	PUNCT	_	_	15	punct	_	_
+9	seba	seba	NOUN	_	_	20	root	_	_
+10	juguá	juguá	VERB	_	_	16	root	_	_
+11	ku	ku	PUNCT	_	_	15	punct	_	_
+12	muñeka	_	NOUN	_	_	20	root	_	_
+13	i	i	PUNCT	_	_	15	punct	_	_
+14	ku	ku	PUNCT	_	_	20	root	_	_
+15	chokorito	_	NOUN	_	_	20	root	_	_
+16	kumo	_	NOUN	_	_	0	root	_	_
+17	ma	ma	PUNCT	_	_	16	punct	_	_
+18	uto	uto	PUNCT	_	_	16	punct	_	_
+19	monasita	_	NOUN	_	_	20	root	_	_
+20	,	,	PUNCT	_	_	16	punct	_	_
+21	pero	pero	NOUN	_	_	20	root	_	_
+22	kuando	kuando	NOUN	_	_	20	root	_	_
+23	e	e	PUNCT	_	_	15	punct	_	_
+24	taba	taba	PUNCT	_	_	16	punct	_	_
+25	a	a	PUNCT	_	_	15	punct	_	_
+26	posá	posá	VERB	_	_	20	root	_	_
+27	e	e	PUNCT	_	_	15	punct	_	_
+28	solo	solo	PUNCT	_	_	16	punct	_	_
+29	a	a	PUNCT	_	_	15	punct	_	_
+30	seba	seba	NOUN	_	_	20	root	_	_
+31	ngalá	_	NOUN	_	_	20	root	_	_
+32	sokito	_	VERB	_	_	20	root	_	_
+33	i	i	PUNCT	_	_	15	punct	_	_
+34	a	a	PUNCT	_	_	16	punct	_	_
+35	seba	seba	NOUN	_	_	20	root	_	_
+36	bae	bae	PUNCT	_	_	15	punct	_	_
+37	pa	pa	PUNCT	_	_	15	punct	_	_
+38	kolao	kolao	PUNCT	_	_	16	punct	_	_
+39	a	a	PUNCT	_	_	15	punct	_	_
+40	kobá	_	NOUN	_	_	20	root	_	_
+41	ku	ku	PUNCT	_	_	15	punct	_	_
+42	rrekojé	rrekojé	PUNCT	_	_	15	punct	_	_
+43	un	un	PUNCT	_	_	15	punct	_	_
+44	ma	ma	PUNCT	_	_	16	punct	_	_
+45	simiita	simiita	NOUN	_	_	20	root	_	_
+46	pa	pa	PUNCT	_	_	15	punct	_	_
+47	ichalo	ichalo	NOUN	_	_	20	root	_	_
+48	andi	andi	PUNCT	_	_	15	punct	_	_
+49	un	un	PUNCT	_	_	15	punct	_	_
+50	tutumita	tutumita	NOUN	_	_	20	root	_	_
+
+# sent_id = cross-validation_4_words__31
+# text = sabó ri é pipita a aselo kolá , benita , ngubá ri tiembo kuandi é taba monasita , i kapurí sin sabé pokke , ele a sindí mejó
+1	sabó	_	NOUN	_	_	0	root	_	_
+2	ri	ri	PUNCT	_	_	1	punct	_	_
+3	é	é	PUNCT	_	_	1	punct	_	_
+4	pipita	pipita	VERB	_	_	10	root	_	_
+5	a	a	PUNCT	_	_	1	punct	_	_
+6	aselo	aselo	VERB	_	_	10	root	_	_
+7	kolá	kolá	VERB	_	_	10	root	_	_
+8	,	,	PUNCT	_	_	1	punct	_	_
+9	benita	benita	VERB	_	_	10	root	_	_
+10	,	,	PUNCT	_	_	1	punct	_	_
+11	ngubá	_	NOUN	_	_	10	root	_	_
+12	ri	ri	PUNCT	_	_	1	punct	_	_
+13	tiembo	tiembo	PUNCT	_	_	1	punct	_	_
+14	kuandi	kuandi	NOUN	_	_	10	root	_	_
+15	é	é	PUNCT	_	_	1	punct	_	_
+16	taba	taba	NOUN	_	_	10	root	_	_
+17	monasita	_	NOUN	_	_	10	root	_	_
+18	,	,	PUNCT	_	_	1	punct	_	_
+19	i	i	PUNCT	_	_	1	punct	_	_
+20	kapurí	kapuri	NOUN	_	_	10	root	_	_
+21	sin	sin	PUNCT	_	_	1	punct	_	_
+22	sabé	sabé	ADV	_	_	10	root	_	_
+23	pokke	pokke	NOUN	_	_	10	root	_	_
+24	,	,	PUNCT	_	_	1	punct	_	_
+25	ele	ele	PUNCT	_	_	1	punct	_	_
+26	a	a	PUNCT	_	_	1	punct	_	_
+27	sindí	sindí	VERB	_	_	1	punct	_	_
+28	mejó	mejó	PUNCT	_	_	1	punct	_	_
+
+# sent_id = cross-validation_4_words__32
+# text = nombre mí gue bernardino pérez i ma kombilesa a se ñamá mí mopli
+1	nombre	nombre	NOUN	_	_	11	_	_	_
+2	mí	mí	NOUN	_	_	1	root	_	_
+3	gue	gue	PUNCT	_	_	1	root	_	_
+4	bernardino	_	NOUN	_	_	11	_	_	_
+5	pérez	pérez	NOUN	_	_	1	root	_	_
+6	i	i	PUNCT	_	_	8	punct	_	_
+7	ma	ma	NOUN	_	_	1	root	_	_
+8	kombilesa	_	NOUN	_	_	0	root	_	_
+9	a	a	PUNCT	_	_	8	punct	_	_
+10	se	se	PUNCT	_	_	8	punct	_	_
+11	ñamá	ñamá	PUNCT	_	_	8	punct	_	_
+12	mí	mí	PUNCT	_	_	8	punct	_	_
+13	mopli	_	NOUN	_	_	3	root	_	_
+
+# sent_id = cross-validation_4_words__33
+# text = primó bo a ten ke pirí pa polé nda ku guen tiela , freko , sekkita ri loyo
+1	primó	primo	NOUN	_	_	10	root	_	_
+2	bo	bo	PUNCT	_	_	1	punct	_	_
+3	a	a	PUNCT	_	_	16	punct	_	_
+4	ten	ten	PUNCT	_	_	16	punct	_	_
+5	ke	ke	PUNCT	_	_	16	punct	_	_
+6	pirí	pirí	NOUN	_	_	10	root	_	_
+7	pa	pa	PUNCT	_	_	16	punct	_	_
+8	polé	polé	NOUN	_	_	10	root	_	_
+9	nda	nda	PUNCT	_	_	16	punct	_	_
+10	ku	ku	PUNCT	_	_	9	root	_	_
+11	guen	guen	PUNCT	_	_	1	punct	_	_
+12	tiela	tiela	PUNCT	_	_	1	punct	_	_
+13	,	,	PUNCT	_	_	16	punct	_	_
+14	freko	_	NOUN	_	_	9	_	_	_
+15	,	,	PUNCT	_	_	16	punct	_	_
+16	sekkita	_	NOUN	_	_	0	root	_	_
+17	ri	ri	PUNCT	_	_	16	punct	_	_
+18	loyo	loyo	NOUN	_	_	10	root	_	_
+
+# sent_id = cross-validation_4_words__34
+# text = etefanía kaisero taba trabesá siurá ri katajena
+1	etefanía	etefanía	PUNCT	_	_	2	root	_	_
+2	kaisero	_	VERB	_	_	3	root	_	_
+3	taba	taba	NOUN	_	_	5	root	_	_
+4	trabesá	trabesa	VERB	_	_	3	root	_	_
+5	siurá	siurá	PUNCT	_	_	7	punct	_	_
+6	ri	ri	PUNCT	_	_	7	punct	_	_
+7	katajena	_	NOUN	_	_	0	root	_	_
+
+# sent_id = cross-validation_4_words__35
+# text = kuandi babbarita a yegá andi posá ri ele , a topetalo yeno ri un chochá ri jende
+1	kuandi	kuandi	NOUN	_	_	3	_	_	_
+2	babbarita	_	NOUN	_	_	0	root	_	_
+3	a	a	PUNCT	_	_	2	punct	_	_
+4	yegá	yega	VERB	_	_	3	_	_	_
+5	andi	andi	PUNCT	_	_	2	punct	_	_
+6	posá	posa	VERB	_	_	3	_	_	_
+7	ri	ri	PUNCT	_	_	2	punct	_	_
+8	ele	ele	PUNCT	_	_	2	punct	_	_
+9	,	,	PUNCT	_	_	2	punct	_	_
+10	a	a	PUNCT	_	_	2	punct	_	_
+11	topetalo	topetalo	NOUN	_	_	3	_	_	_
+12	yeno	yena	VERB	_	_	1	root	_	_
+13	ri	ri	PUNCT	_	_	2	punct	_	_
+14	un	un	PUNCT	_	_	2	punct	_	_
+15	chochá	chocha	VERB	_	_	3	_	_	_
+16	ri	ri	PUNCT	_	_	2	punct	_	_
+17	jende	jende	PUNCT	_	_	2	punct	_	_
+
+# sent_id = cross-validation_4_words__36
+# text = i a saluralo ia bae pa kolaó pa mina kumo jueba beddolaga searregababeddolaga jue ri seba representá etefanía , a patio , aí mboso ele etable ataba floriaoun tiembo repué ia kuchá un chite andi etefanía a jablá joje ngansiaitoria ri kolao yeno ri beddolaga , ke a sendá memo itoria ri buyerenge kease ñamá asinauto ría , katalino parra , lo ke senda foklorita lo memo ke yo , a tre mi un kotea ri tiela
+1	i	i	PUNCT	_	_	59	punct	_	_
+2	a	a	PUNCT	_	_	59	punct	_	_
+3	saluralo	saluralo	NOUN	_	_	70	root	_	_
+4	ia	ia	PUNCT	_	_	59	root	_	_
+5	bae	bae	PUNCT	_	_	59	punct	_	_
+6	pa	pa	PUNCT	_	_	59	punct	_	_
+7	kolaó	_	VERB	_	_	70	root	_	_
+8	pa	pa	PUNCT	_	_	59	punct	_	_
+9	mina	mina	NOUN	_	_	70	root	_	_
+10	kumo	kumo	PUNCT	_	_	70	root	_	_
+11	jueba	jueba	PUNCT	_	_	59	root	_	_
+12	beddolaga	_	ADJ	_	_	70	root	_	_
+13	searregababeddolaga	searregababeddolaga	PUNCT	_	_	59	root	_	_
+14	jue	jue	PUNCT	_	_	59	root	_	_
+15	ri	ri	PUNCT	_	_	59	punct	_	_
+16	seba	seba	PUNCT	_	_	59	root	_	_
+17	representá	representá	VERB	_	_	59	root	_	_
+18	etefanía	etefanía	PUNCT	_	_	59	punct	_	_
+19	,	,	PUNCT	_	_	59	punct	_	_
+20	a	a	PUNCT	_	_	59	punct	_	_
+21	patio	patio	PUNCT	_	_	59	punct	_	_
+22	,	,	PUNCT	_	_	59	punct	_	_
+23	aí	aí	PUNCT	_	_	59	root	_	_
+24	mboso	mboso	VERB	_	_	59	punct	_	_
+25	ele	ele	PUNCT	_	_	59	punct	_	_
+26	etable	etable	PUNCT	_	_	59	punct	_	_
+27	ataba	ataba	PUNCT	_	_	59	punct	_	_
+28	floriaoun	_	VERB	_	_	70	root	_	_
+29	tiembo	tiemba	VERB	_	_	70	root	_	_
+30	repué	repué	PUNCT	_	_	59	root	_	_
+31	ia	ia	PUNCT	_	_	59	root	_	_
+32	kuchá	kuchá	PUNCT	_	_	59	root	_	_
+33	un	un	PUNCT	_	_	59	punct	_	_
+34	chite	chite	PUNCT	_	_	59	root	_	_
+35	andi	andi	PUNCT	_	_	59	punct	_	_
+36	etefanía	etefanía	PUNCT	_	_	59	punct	_	_
+37	a	a	PUNCT	_	_	59	punct	_	_
+38	jablá	jablá	PUNCT	_	_	59	punct	_	_
+39	joje	joje	PUNCT	_	_	59	punct	_	_
+40	ngansiaitoria	ngansiaitoria	VERB	_	_	59	root	_	_
+41	ri	ri	PUNCT	_	_	59	punct	_	_
+42	kolao	_	VERB	_	_	70	root	_	_
+43	yeno	yeno	PUNCT	_	_	59	root	_	_
+44	ri	ri	PUNCT	_	_	59	punct	_	_
+45	beddolaga	beddolaga	ADJ	_	_	70	root	_	_
+46	,	,	PUNCT	_	_	59	punct	_	_
+47	ke	ke	PUNCT	_	_	59	punct	_	_
+48	a	a	PUNCT	_	_	59	punct	_	_
+49	sendá	sendá	VERB	_	_	59	root	_	_
+50	memo	memo	PUNCT	_	_	70	root	_	_
+51	itoria	itoria	PUNCT	_	_	59	punct	_	_
+52	ri	ri	PUNCT	_	_	59	punct	_	_
+53	buyerenge	buyerenge	PUNCT	_	_	59	root	_	_
+54	kease	kease	PUNCT	_	_	70	root	_	_
+55	ñamá	ñamá	PUNCT	_	_	59	punct	_	_
+56	asinauto	asinauto	PUNCT	_	_	59	punct	_	_
+57	ría	ría	PUNCT	_	_	59	punct	_	_
+58	,	,	PUNCT	_	_	59	punct	_	_
+59	katalino	katalino	NOUN	_	_	0	root	_	_
+60	parra	parra	NOUN	_	_	70	root	_	_
+61	,	,	PUNCT	_	_	59	punct	_	_
+62	lo	lo	PUNCT	_	_	59	punct	_	_
+63	ke	ke	PUNCT	_	_	59	punct	_	_
+64	senda	senda	VERB	_	_	70	root	_	_
+65	foklorita	_	NOUN	_	_	70	root	_	_
+66	lo	lo	PUNCT	_	_	59	punct	_	_
+67	memo	memo	PUNCT	_	_	59	root	_	_
+68	ke	ke	PUNCT	_	_	59	punct	_	_
+69	yo	yo	PUNCT	_	_	59	punct	_	_
+70	,	,	PUNCT	_	_	59	root	_	_
+71	a	a	PUNCT	_	_	59	punct	_	_
+72	tre	tre	PUNCT	_	_	59	root	_	_
+73	mi	mi	PUNCT	_	_	59	punct	_	_
+74	un	un	PUNCT	_	_	59	punct	_	_
+75	kotea	kotea	VERB	_	_	70	root	_	_
+76	ri	ri	PUNCT	_	_	59	punct	_	_
+77	tiela	tiela	PUNCT	_	_	59	root	_	_
+
+# sent_id = cross-validation_4_words__37
+# text = benita ta pasá mano ri é po kabesa babbarita , kumo pa asegurá ke ele nú ngalara kaddume pa bae uto begá
+1	benita	benita	VERB	_	_	19	_	_	_
+2	ta	ta	PUNCT	_	_	9	punct	_	_
+3	pasá	pasá	VERB	_	_	19	_	_	_
+4	mano	mano	PUNCT	_	_	9	punct	_	_
+5	ri	ri	PUNCT	_	_	9	punct	_	_
+6	é	é	PUNCT	_	_	9	punct	_	_
+7	po	po	PUNCT	_	_	9	punct	_	_
+8	kabesa	_	NOUN	_	_	19	_	_	_
+9	babbarita	_	NOUN	_	_	0	root	_	_
+10	,	,	PUNCT	_	_	9	punct	_	_
+11	kumo	kumo	PUNCT	_	_	19	_	_	_
+12	pa	pa	PUNCT	_	_	9	punct	_	_
+13	asegurá	asegurá	VERB	_	_	19	_	_	_
+14	ke	ke	PUNCT	_	_	9	punct	_	_
+15	ele	ele	PUNCT	_	_	9	punct	_	_
+16	nú	nú	PUNCT	_	_	8	punct	_	_
+17	ngalara	_	NOUN	_	_	19	_	_	_
+18	kaddume	_	VERB	_	_	19	_	_	_
+19	pa	pa	PUNCT	_	_	9	punct	_	_
+20	bae	bae	PUNCT	_	_	9	punct	_	_
+21	uto	uto	PUNCT	_	_	9	punct	_	_
+22	begá	_	VERB	_	_	19	_	_	_
+
+# sent_id = cross-validation_4_words__38
+# text = oa , mija , i a miní a motrá kaddume sí
+1	oa	oa	PUNCT	_	_	10	punct	_	_
+2	,	,	PUNCT	_	_	10	punct	_	_
+3	mija	mija	NOUN	_	_	10	root	_	_
+4	,	,	PUNCT	_	_	10	punct	_	_
+5	i	i	PUNCT	_	_	10	punct	_	_
+6	a	a	PUNCT	_	_	10	punct	_	_
+7	miní	mina	VERB	_	_	2	_	_	_
+8	a	a	PUNCT	_	_	10	punct	_	_
+9	motrá	motra	VERB	_	_	2	_	_	_
+10	kaddume	kadduma	VERB	_	_	0	root	_	_
+11	sí	sí	PUNCT	_	_	10	punct	_	_
+
+# sent_id = cross-validation_4_words__39
+# text = buyerenge a senda ri sielo
+1	buyerenge	_	NOUN	_	_	0	root	_	_
+2	a	a	PUNCT	_	_	1	punct	_	_
+3	senda	senda	NOUN	_	_	2	_	_	_
+4	ri	ri	PUNCT	_	_	1	punct	_	_
+5	sielo	sielo	PUNCT	_	_	1	punct	_	_
+
+# sent_id = cross-validation_4_words__40
+# text = ele a jablá ke si pero kun kondisión
+1	ele	ele	PUNCT	_	_	6	root	_	_
+2	a	a	PUNCT	_	_	8	punct	_	_
+3	jablá	jablá	PUNCT	_	_	8	punct	_	_
+4	ke	ke	PUNCT	_	_	8	punct	_	_
+5	si	si	PUNCT	_	_	8	punct	_	_
+6	pero	pero	NOUN	_	_	0	root	_	_
+7	kun	kun	NOUN	_	_	6	root	_	_
+8	kondisión	kondisiói	NOUN	_	_	6	root	_	_
+
+# sent_id = cross-validation_4_words__41
+# text = ¿i si suto lo poné e nombre a monasita suto ?
+1	¿i	¿i	PUNCT	_	_	3	punct	_	_
+2	si	si	PUNCT	_	_	9	punct	_	_
+3	suto	suto	NOUN	_	_	2	_	_	_
+4	lo	lo	PUNCT	_	_	9	punct	_	_
+5	poné	poné	PUNCT	_	_	3	root	_	_
+6	e	e	PUNCT	_	_	9	punct	_	_
+7	nombre	nombre	PUNCT	_	_	5	root	_	_
+8	a	a	PUNCT	_	_	9	punct	_	_
+9	monasita	_	NOUN	_	_	0	root	_	_
+10	suto	suto	NOUN	_	_	2	_	_	_
+11	?	?	PUNCT	_	_	9	punct	_	_
+
+# sent_id = cross-validation_4_words__42
+# text = ¿a kiene bo miná asendo eso ?
+1	¿a	¿a	PUNCT	_	_	2	root	_	_
+2	kiene	kiene	NOUN	_	_	0	root	_	_
+3	bo	bo	PUNCT	_	_	2	punct	_	_
+4	miná	miná	VERB	_	_	2	root	_	_
+5	asendo	asendo	VERB	_	_	2	root	_	_
+6	eso	eso	PUNCT	_	_	2	root	_	_
+7	?	?	PUNCT	_	_	2	punct	_	_
+
+# sent_id = cross-validation_4_words__43
+# text = i repué pa komplasé a ma parrokiano ele a se selaba ku " a pilá aló "
+1	i	i	PUNCT	_	_	7	punct	_	_
+2	repué	repué	NOUN	_	_	8	root	_	_
+3	pa	pa	PUNCT	_	_	7	punct	_	_
+4	komplasé	_	NOUN	_	_	10	_	_	_
+5	a	a	PUNCT	_	_	7	punct	_	_
+6	ma	ma	PUNCT	_	_	7	punct	_	_
+7	parrokiano	_	NOUN	_	_	0	root	_	_
+8	ele	ele	PUNCT	_	_	7	punct	_	_
+9	a	a	PUNCT	_	_	7	punct	_	_
+10	se	se	PUNCT	_	_	7	punct	_	_
+11	selaba	_	NOUN	_	_	10	root	_	_
+12	ku	ku	PUNCT	_	_	7	punct	_	_
+13	"	"	PUNCT	_	_	7	punct	_	_
+14	a	a	PUNCT	_	_	7	punct	_	_
+15	pilá	pila	NOUN	_	_	6	_	_	_
+16	aló	aló	PUNCT	_	_	7	punct	_	_
+17	"	"	PUNCT	_	_	7	punct	_	_
+
+# sent_id = cross-validation_4_words__44
+# text = ¡i sabé lo ke etefanía sindí nunca nu !
+1	¡i	¡i	PUNCT	_	_	7	root	_	_
+2	sabé	sabé	ADV	_	_	4	root	_	_
+3	lo	lo	PUNCT	_	_	2	punct	_	_
+4	ke	ke	PUNCT	_	_	5	punct	_	_
+5	etefanía	etefanía	PUNCT	_	_	1	root	_	_
+6	sindí	sindí	VERB	_	_	5	root	_	_
+7	nunca	nunca	VERB	_	_	0	root	_	_
+8	nu	nu	PUNCT	_	_	2	punct	_	_
+9	!	!	PUNCT	_	_	2	punct	_	_
+
+# sent_id = cross-validation_4_words__45
+# text = aguelo mí a kondá mí bié , kumo la bonga , a entritesé po to pate , a chitia mi endi oreo taba sindí mucho angutia ku reseperasió
+1	aguelo	_	NOUN	_	_	17	_	_	_
+2	mí	mí	PUNCT	_	_	8	punct	_	_
+3	a	a	PUNCT	_	_	10	punct	_	_
+4	kondá	_	VERB	_	_	7	root	_	_
+5	mí	mí	PUNCT	_	_	8	punct	_	_
+6	bié	bié	PUNCT	_	_	10	punct	_	_
+7	,	,	PUNCT	_	_	8	punct	_	_
+8	kumo	_	NOUN	_	_	17	_	_	_
+9	la	la	PUNCT	_	_	1	punct	_	_
+10	bonga	_	VERB	_	_	15	root	_	_
+11	,	,	PUNCT	_	_	10	punct	_	_
+12	a	a	PUNCT	_	_	10	punct	_	_
+13	entritesé	_	NOUN	_	_	7	root	_	_
+14	po	po	PUNCT	_	_	8	punct	_	_
+15	to	to	PUNCT	_	_	0	root	_	_
+16	pate	pate	NOUN	_	_	7	root	_	_
+17	,	,	PUNCT	_	_	10	punct	_	_
+18	a	a	PUNCT	_	_	1	punct	_	_
+19	chitia	_	NOUN	_	_	7	root	_	_
+20	mi	mi	PUNCT	_	_	10	punct	_	_
+21	endi	endi	PUNCT	_	_	1	punct	_	_
+22	oreo	_	VERB	_	_	7	root	_	_
+23	taba	taba	NOUN	_	_	7	root	_	_
+24	sindí	sindí	VERB	_	_	8	punct	_	_
+25	mucho	mucho	NOUN	_	_	7	root	_	_
+26	angutia	_	NOUN	_	_	17	_	_	_
+27	ku	ku	PUNCT	_	_	8	punct	_	_
+28	reseperasió	reseperasió	PUNCT	_	_	7	root	_	_
+
+# sent_id = cross-validation_4_words__46
+# text = babbarita a prundá
+1	babbarita	_	NOUN	_	_	0	root	_	_
+2	a	a	PUNCT	_	_	1	punct	_	_
+3	prundá	prunda	NOUN	_	_	2	root	_	_
+
+# sent_id = cross-validation_4_words__47
+# text = gueno , monasita mí , renje agué i tan insiñá bo ma sekreto ri ngubá , abrí oleja
+1	gueno	_	VERB	_	_	16	_	_	_
+2	,	,	PUNCT	_	_	15	punct	_	_
+3	monasita	_	NOUN	_	_	5	_	_	_
+4	mí	mí	PUNCT	_	_	15	punct	_	_
+5	,	,	PUNCT	_	_	15	punct	_	_
+6	renje	renje	PUNCT	_	_	12	punct	_	_
+7	agué	agué	PUNCT	_	_	12	_	_	_
+8	i	i	PUNCT	_	_	15	punct	_	_
+9	tan	tan	PUNCT	_	_	15	punct	_	_
+10	insiñá	insiñá	VERB	_	_	12	punct	_	_
+11	bo	bo	PUNCT	_	_	15	punct	_	_
+12	ma	ma	PUNCT	_	_	0	root	_	_
+13	sekreto	_	VERB	_	_	12	_	_	_
+14	ri	ri	PUNCT	_	_	15	punct	_	_
+15	ngubá	_	NOUN	_	_	12	_	_	_
+16	,	,	PUNCT	_	_	15	punct	_	_
+17	abrí	_	VERB	_	_	16	_	_	_
+18	oleja	oleja	PUNCT	_	_	15	punct	_	_
+
+# sent_id = cross-validation_4_words__48
+# text = ajaa , eso tan sendá kaddume sí
+1	ajaa	_	VERB	_	_	2	_	_	_
+2	,	,	PUNCT	_	_	6	punct	_	_
+3	eso	eso	NOUN	_	_	0	root	_	_
+4	tan	tan	PUNCT	_	_	3	root	_	_
+5	sendá	senda	VERB	_	_	3	root	_	_
+6	kaddume	kadduma	VERB	_	_	3	root	_	_
+7	sí	sí	PUNCT	_	_	6	punct	_	_
+
+# sent_id = cross-validation_4_words__49
+# text = andi sala , ma mujé , ri la bonga ta nyolá i ku kandá lumbalú , pa kumplí uttimo perío loke lungao asé
+1	andi	andi	VERB	_	_	14	punct	_	_
+2	sala	sala	PUNCT	_	_	14	punct	_	_
+3	,	,	PUNCT	_	_	14	punct	_	_
+4	ma	ma	PUNCT	_	_	14	punct	_	_
+5	mujé	mujé	VERB	_	_	14	punct	_	_
+6	,	,	PUNCT	_	_	14	punct	_	_
+7	ri	ri	PUNCT	_	_	14	punct	_	_
+8	la	la	PUNCT	_	_	14	punct	_	_
+9	bonga	bonga	VERB	_	_	16	_	_	_
+10	ta	ta	PUNCT	_	_	14	punct	_	_
+11	nyolá	_	NOUN	_	_	16	_	_	_
+12	i	i	PUNCT	_	_	14	punct	_	_
+13	ku	ku	PUNCT	_	_	14	punct	_	_
+14	kandá	kanda	VERB	_	_	17	root	_	_
+15	lumbalú	lumbalú	PUNCT	_	_	14	punct	_	_
+16	,	,	PUNCT	_	_	14	punct	_	_
+17	pa	pa	PUNCT	_	_	18	punct	_	_
+18	kumplí	_	NOUN	_	_	0	root	_	_
+19	uttimo	uttimo	VERB	_	_	17	root	_	_
+20	perío	perío	PUNCT	_	_	18	punct	_	_
+21	loke	loke	VERB	_	_	17	root	_	_
+22	lungao	lungao	VERB	_	_	17	root	_	_
+23	asé	asé	PUNCT	_	_	14	punct	_	_
+
+# sent_id = cross-validation_4_words__50
+# text = monasita , ese a sendá prinsipio pa semblá ngubá
+1	monasita	_	NOUN	_	_	2	_	_	_
+2	,	,	PUNCT	_	_	8	punct	_	_
+3	ese	ese	PUNCT	_	_	8	root	_	_
+4	a	a	PUNCT	_	_	8	punct	_	_
+5	sendá	senda	VERB	_	_	3	root	_	_
+6	prinsipio	prinsipia	VERB	_	_	2	_	_	_
+7	pa	pa	PUNCT	_	_	8	punct	_	_
+8	semblá	sembla	VERB	_	_	0	root	_	_
+9	ngubá	_	VERB	_	_	2	_	_	_
+
+# sent_id = cross-validation_4_words__51
+# text = repué ri ngubá ke nasé a ten ke rrapalo ku ngutó i sigí kandando ele pa polé ichá un chochá nglano
+1	repué	repué	NOUN	_	_	16	root	_	_
+2	ri	ri	PUNCT	_	_	14	punct	_	_
+3	ngubá	_	NOUN	_	_	16	root	_	_
+4	ke	ke	PUNCT	_	_	14	punct	_	_
+5	nasé	nasé	PUNCT	_	_	14	punct	_	_
+6	a	a	PUNCT	_	_	14	punct	_	_
+7	ten	ten	PUNCT	_	_	14	punct	_	_
+8	ke	ke	PUNCT	_	_	14	punct	_	_
+9	rrapalo	rrapalo	PUNCT	_	_	14	punct	_	_
+10	ku	ku	PUNCT	_	_	16	root	_	_
+11	ngutó	_	NOUN	_	_	16	root	_	_
+12	i	i	PUNCT	_	_	14	punct	_	_
+13	sigí	sigí	PUNCT	_	_	14	punct	_	_
+14	kandando	kandandi	VERB	_	_	16	root	_	_
+15	ele	ele	PUNCT	_	_	16	root	_	_
+16	pa	pa	PUNCT	_	_	0	root	_	_
+17	polé	polé	NOUN	_	_	16	root	_	_
+18	ichá	ichá	VERB	_	_	16	root	_	_
+19	un	un	PUNCT	_	_	14	punct	_	_
+20	chochá	chocha	VERB	_	_	16	root	_	_
+21	nglano	nglano	PUNCT	_	_	16	root	_	_
+
+# sent_id = cross-validation_4_words__52
+# text = ma rretoño a se floresé ku ma primó sereno ri matso
+1	ma	ma	NOUN	_	_	7	_	_	_
+2	rretoño	rretoño	NOUN	_	_	7	_	_	_
+3	a	a	PUNCT	_	_	8	punct	_	_
+4	se	se	PUNCT	_	_	8	punct	_	_
+5	floresé	floresa	VERB	_	_	7	_	_	_
+6	ku	ku	PUNCT	_	_	8	punct	_	_
+7	ma	ma	NOUN	_	_	11	punct	_	_
+8	primó	prero	NOUN	_	_	0	root	_	_
+9	sereno	_	NOUN	_	_	7	_	_	_
+10	ri	ri	PUNCT	_	_	8	punct	_	_
+11	matso	_	NOUN	_	_	6	_	_	_
+
+# sent_id = cross-validation_4_words__53
+# text = monasita , ku reselo , a asekká ku tembló andi ma pie ele
+1	monasita	_	NOUN	_	_	2	_	_	_
+2	,	,	PUNCT	_	_	7	punct	_	_
+3	ku	ku	PUNCT	_	_	7	punct	_	_
+4	reselo	resela	NOUN	_	_	13	root	_	_
+5	,	,	PUNCT	_	_	7	punct	_	_
+6	a	a	PUNCT	_	_	7	punct	_	_
+7	asekká	asekka	VERB	_	_	13	root	_	_
+8	ku	ku	PUNCT	_	_	7	punct	_	_
+9	tembló	temblo	ADJ	_	_	13	root	_	_
+10	andi	andi	PUNCT	_	_	7	punct	_	_
+11	ma	ma	PUNCT	_	_	7	punct	_	_
+12	pie	pie	PUNCT	_	_	0	root	_	_
+13	ele	ele	PUNCT	_	_	12	root	_	_
+
+# sent_id = cross-validation_4_words__54
+# text = i ri e pito tiela í a sendá
+1	i	i	PUNCT	_	_	8	punct	_	_
+2	ri	ri	PUNCT	_	_	8	punct	_	_
+3	e	e	PUNCT	_	_	8	punct	_	_
+4	pito	pito	PUNCT	_	_	8	punct	_	_
+5	tiela	tiela	VERB	_	_	4	_	_	_
+6	í	í	PUNCT	_	_	8	punct	_	_
+7	a	a	PUNCT	_	_	8	punct	_	_
+8	sendá	senda	VERB	_	_	0	root	_	_
+
+# sent_id = cross-validation_4_words__55
+# text = repué sin kabá ri yobé a komensá a yegá ma mbesino pa konosé a babbarita , simía ri un ngongoroko karrusiano kieto i jondo ri a tiembo , ke a jundá benita ku salomón
+1	repué	repué	NOUN	_	_	15	root	_	_
+2	sin	sin	PUNCT	_	_	15	punct	_	_
+3	kabá	kabá	PUNCT	_	_	16	root	_	_
+4	ri	ri	PUNCT	_	_	15	punct	_	_
+5	yobé	_	NOUN	_	_	16	root	_	_
+6	a	a	PUNCT	_	_	15	punct	_	_
+7	komensá	komensa	VERB	_	_	16	root	_	_
+8	a	a	PUNCT	_	_	15	punct	_	_
+9	yegá	yega	VERB	_	_	16	root	_	_
+10	ma	ma	PUNCT	_	_	15	punct	_	_
+11	mbesino	mbesino	NOUN	_	_	16	root	_	_
+12	pa	pa	PUNCT	_	_	15	punct	_	_
+13	konosé	konosa	VERB	_	_	16	root	_	_
+14	a	a	PUNCT	_	_	15	punct	_	_
+15	babbarita	_	NOUN	_	_	0	root	_	_
+16	,	,	PUNCT	_	_	15	punct	_	_
+17	simía	simía	NOUN	_	_	16	root	_	_
+18	ri	ri	PUNCT	_	_	15	punct	_	_
+19	un	un	PUNCT	_	_	15	punct	_	_
+20	ngongoroko	_	NOUN	_	_	16	root	_	_
+21	karrusiano	_	NOUN	_	_	16	root	_	_
+22	kieto	kieta	NOUN	_	_	16	root	_	_
+23	i	i	PUNCT	_	_	15	punct	_	_
+24	jondo	jondo	NOUN	_	_	16	root	_	_
+25	ri	ri	PUNCT	_	_	15	punct	_	_
+26	a	a	PUNCT	_	_	15	punct	_	_
+27	tiembo	tiembo	NOUN	_	_	16	root	_	_
+28	,	,	PUNCT	_	_	15	punct	_	_
+29	ke	ke	PUNCT	_	_	15	punct	_	_
+30	a	a	PUNCT	_	_	15	punct	_	_
+31	jundá	junda	VERB	_	_	16	root	_	_
+32	benita	benita	VERB	_	_	16	root	_	_
+33	ku	ku	PUNCT	_	_	15	punct	_	_
+34	salomón	salomón	NOUN	_	_	16	root	_	_
+
+# sent_id = cross-validation_4_words__56
+# text = a ten ke rrapá tiela uto biaje ma , i ku ma mujé i ma monasito jue ri suto tan kobá ngubá
+1	a	a	PUNCT	_	_	16	punct	_	_
+2	ten	ten	PUNCT	_	_	16	punct	_	_
+3	ke	ke	PUNCT	_	_	16	punct	_	_
+4	rrapá	rrapá	PUNCT	_	_	16	punct	_	_
+5	tiela	tiela	PUNCT	_	_	16	punct	_	_
+6	uto	uto	PUNCT	_	_	15	punct	_	_
+7	biaje	biaje	VERB	_	_	15	root	_	_
+8	ma	ma	PUNCT	_	_	16	punct	_	_
+9	,	,	PUNCT	_	_	16	punct	_	_
+10	i	i	PUNCT	_	_	16	punct	_	_
+11	ku	ku	PUNCT	_	_	16	punct	_	_
+12	ma	ma	PUNCT	_	_	16	punct	_	_
+13	mujé	mujé	VERB	_	_	15	punct	_	_
+14	i	i	PUNCT	_	_	16	punct	_	_
+15	ma	ma	PUNCT	_	_	12	_	_	_
+16	monasito	_	NOUN	_	_	0	root	_	_
+17	jue	jue	PUNCT	_	_	15	root	_	_
+18	ri	ri	PUNCT	_	_	16	punct	_	_
+19	suto	suto	NOUN	_	_	15	root	_	_
+20	tan	tan	PUNCT	_	_	16	punct	_	_
+21	kobá	_	VERB	_	_	9	_	_	_
+22	ngubá	_	VERB	_	_	9	_	_	_
+
+# sent_id = cross-validation_4_words__57
+# text = repuú ri un tiembo , ele a motrá arrepentía po lo ke nu asé ,
+1	repuú	repui	NOUN	_	_	10	root	_	_
+2	ri	ri	PUNCT	_	_	9	punct	_	_
+3	un	un	PUNCT	_	_	9	punct	_	_
+4	tiembo	_	NOUN	_	_	10	root	_	_
+5	,	,	PUNCT	_	_	9	punct	_	_
+6	ele	ele	VERB	_	_	10	root	_	_
+7	a	a	PUNCT	_	_	9	punct	_	_
+8	motrá	motra	VERB	_	_	10	root	_	_
+9	arrepentía	arrepentía	VERB	_	_	0	root	_	_
+10	po	po	PUNCT	_	_	9	punct	_	_
+11	lo	lo	PUNCT	_	_	9	punct	_	_
+12	ke	ke	PUNCT	_	_	9	punct	_	_
+13	nu	nu	PUNCT	_	_	9	punct	_	_
+14	asé	asé	VERB	_	_	9	punct	_	_
+15	,	,	PUNCT	_	_	9	punct	_	_
+
+# sent_id = cross-validation_4_words__58
+# text = kumo ta asé mí fata kietú ri sí , bonga , pito tiela ri palenge
+1	kumo	_	NOUN	_	_	0	root	_	_
+2	ta	ta	PUNCT	_	_	1	punct	_	_
+3	asé	asé	PUNCT	_	_	1	punct	_	_
+4	mí	mí	PUNCT	_	_	1	punct	_	_
+5	fata	fata	PUNCT	_	_	1	punct	_	_
+6	kietú	kietú	NOUN	_	_	11	_	_	_
+7	ri	ri	PUNCT	_	_	10	punct	_	_
+8	sí	sí	PUNCT	_	_	1	punct	_	_
+9	,	,	PUNCT	_	_	10	punct	_	_
+10	bonga	bonga	VERB	_	_	11	_	_	_
+11	,	,	PUNCT	_	_	1	punct	_	_
+12	pito	pito	PUNCT	_	_	1	punct	_	_
+13	tiela	tiela	PUNCT	_	_	1	punct	_	_
+14	ri	ri	PUNCT	_	_	1	punct	_	_
+15	palenge	palenge	NOUN	_	_	11	_	_	_
+
+# sent_id = cross-validation_4_words__59
+# text = andi ete pito tiela ri jende ri ngutalo nda , andi to suto a konosé , andi ata ma nimao a sendá ma asina ría po la maana , ku ma rrebunno , ku ma sibbío ke a se rretirá ma enejía malo
+1	andi	andi	PUNCT	_	_	15	root	_	_
+2	ete	ete	PUNCT	_	_	15	punct	_	_
+3	pito	pito	PUNCT	_	_	15	root	_	_
+4	tiela	tiela	PUNCT	_	_	18	root	_	_
+5	ri	ri	PUNCT	_	_	15	punct	_	_
+6	jende	jende	PUNCT	_	_	15	punct	_	_
+7	ri	ri	PUNCT	_	_	15	root	_	_
+8	ngutalo	ngutala	NOUN	_	_	10	root	_	_
+9	nda	nda	PUNCT	_	_	15	punct	_	_
+10	,	,	PUNCT	_	_	32	punct	_	_
+11	andi	andi	PUNCT	_	_	15	root	_	_
+12	to	to	PUNCT	_	_	15	punct	_	_
+13	suto	suto	NOUN	_	_	10	root	_	_
+14	a	a	PUNCT	_	_	15	punct	_	_
+15	konosé	konosa	VERB	_	_	10	root	_	_
+16	,	,	PUNCT	_	_	15	punct	_	_
+17	andi	andi	VERB	_	_	15	root	_	_
+18	ata	ata	NOUN	_	_	10	root	_	_
+19	ma	ma	PUNCT	_	_	15	punct	_	_
+20	nimao	nimao	NOUN	_	_	35	_	_	_
+21	a	a	PUNCT	_	_	15	punct	_	_
+22	sendá	sendá	VERB	_	_	15	root	_	_
+23	ma	ma	PUNCT	_	_	15	punct	_	_
+24	asina	asina	VERB	_	_	10	root	_	_
+25	ría	ría	PUNCT	_	_	15	punct	_	_
+26	po	po	PUNCT	_	_	15	punct	_	_
+27	la	la	PUNCT	_	_	15	punct	_	_
+28	maana	maana	NOUN	_	_	18	root	_	_
+29	,	,	PUNCT	_	_	15	punct	_	_
+30	ku	ku	PUNCT	_	_	15	punct	_	_
+31	ma	ma	PUNCT	_	_	18	root	_	_
+32	rrebunno	_	NOUN	_	_	0	root	_	_
+33	,	,	PUNCT	_	_	15	punct	_	_
+34	ku	ku	PUNCT	_	_	18	root	_	_
+35	ma	ma	PUNCT	_	_	18	root	_	_
+36	sibbío	sibbío	PUNCT	_	_	15	root	_	_
+37	ke	ke	PUNCT	_	_	15	punct	_	_
+38	a	a	PUNCT	_	_	15	punct	_	_
+39	se	se	PUNCT	_	_	15	punct	_	_
+40	rretirá	rretira	VERB	_	_	18	root	_	_
+41	ma	ma	PUNCT	_	_	15	punct	_	_
+42	enejía	enejía	PUNCT	_	_	15	punct	_	_
+43	malo	malo	PUNCT	_	_	15	root	_	_
+
+# sent_id = cross-validation_4_words__60
+# text = aaa , monasita mí , andi posá sí ta eperá bo un ndoló jóndo , pero yebá é simía ku bó i ba tá bié
+1	aaa	aaa	PUNCT	_	_	17	punct	_	_
+2	,	,	PUNCT	_	_	16	punct	_	_
+3	monasita	_	VERB	_	_	2	root	_	_
+4	mí	mí	PUNCT	_	_	17	punct	_	_
+5	,	,	PUNCT	_	_	17	punct	_	_
+6	andi	andi	VERB	_	_	17	punct	_	_
+7	posá	posa	VERB	_	_	16	root	_	_
+8	sí	sí	PUNCT	_	_	17	punct	_	_
+9	ta	ta	PUNCT	_	_	17	punct	_	_
+10	eperá	eperá	PUNCT	_	_	17	punct	_	_
+11	bo	bo	PUNCT	_	_	17	punct	_	_
+12	un	un	PUNCT	_	_	17	punct	_	_
+13	ndoló	ndoló	PUNCT	_	_	17	punct	_	_
+14	jóndo	jóndo	NOUN	_	_	16	root	_	_
+15	,	,	PUNCT	_	_	17	punct	_	_
+16	pero	pero	NOUN	_	_	0	root	_	_
+17	yebá	yeba	VERB	_	_	2	root	_	_
+18	é	é	PUNCT	_	_	17	punct	_	_
+19	simía	simía	NOUN	_	_	16	root	_	_
+20	ku	ku	PUNCT	_	_	17	punct	_	_
+21	bó	bó	NOUN	_	_	16	root	_	_
+22	i	i	PUNCT	_	_	17	punct	_	_
+23	ba	ba	PUNCT	_	_	17	punct	_	_
+24	tá	tá	PUNCT	_	_	16	root	_	_
+25	bié	bié	PUNCT	_	_	17	punct	_	_
+
+# sent_id = cross-validation_4_words__61
+# text = e tiela sí é mu gueno
+1	e	e	PUNCT	_	_	2	punct	_	_
+2	tiela	tiela	NOUN	_	_	0	root	_	_
+3	sí	sí	PUNCT	_	_	2	punct	_	_
+4	é	é	PUNCT	_	_	2	punct	_	_
+5	mu	mu	PUNCT	_	_	2	punct	_	_
+6	gueno	_	VERB	_	_	1	_	_	_
+
+# sent_id = cross-validation_4_words__62
+# text = kuné bo a resití ri ngubá
+1	kuné	kuné	PUNCT	_	_	2	_	_	_
+2	bo	bo	PUNCT	_	_	6	punct	_	_
+3	a	a	PUNCT	_	_	6	punct	_	_
+4	resití	resita	VERB	_	_	6	root	_	_
+5	ri	ri	PUNCT	_	_	6	punct	_	_
+6	ngubá	_	VERB	_	_	0	root	_	_
+
+# sent_id = cross-validation_4_words__63
+# text = i andi pleno makaneo , un rama ri un palo , ke peseba , ke taba eperando ele , a kaí riba ri ele , i a lungalo
+1	i	i	PUNCT	_	_	4	punct	_	_
+2	andi	andi	PUNCT	_	_	4	punct	_	_
+3	pleno	_	NOUN	_	_	24	root	_	_
+4	makaneo	_	NOUN	_	_	0	root	_	_
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	un	un	PUNCT	_	_	4	punct	_	_
+7	rama	rama	NOUN	_	_	24	root	_	_
+8	ri	ri	PUNCT	_	_	13	punct	_	_
+9	un	un	PUNCT	_	_	13	punct	_	_
+10	palo	palo	NOUN	_	_	18	root	_	_
+11	,	,	PUNCT	_	_	4	punct	_	_
+12	ke	ke	PUNCT	_	_	13	punct	_	_
+13	peseba	_	NOUN	_	_	19	_	_	_
+14	,	,	PUNCT	_	_	4	punct	_	_
+15	ke	ke	PUNCT	_	_	3	root	_	_
+16	taba	taba	NOUN	_	_	24	root	_	_
+17	eperando	_	NOUN	_	_	19	_	_	_
+18	ele	ele	PUNCT	_	_	13	punct	_	_
+19	,	,	PUNCT	_	_	4	punct	_	_
+20	a	a	PUNCT	_	_	4	punct	_	_
+21	kaí	kaí	NOUN	_	_	3	root	_	_
+22	riba	riba	NOUN	_	_	24	root	_	_
+23	ri	ri	PUNCT	_	_	4	punct	_	_
+24	ele	ele	PUNCT	_	_	4	punct	_	_
+25	,	,	PUNCT	_	_	4	punct	_	_
+26	i	i	PUNCT	_	_	4	punct	_	_
+27	a	a	PUNCT	_	_	4	punct	_	_
+28	lungalo	_	NOUN	_	_	19	_	_	_
+
+# sent_id = cross-validation_4_words__64
+# text = a tarima ele a sendaba kandaora i repondona
+1	a	a	PUNCT	_	_	6	punct	_	_
+2	tarima	tarima	NOUN	_	_	1	_	_	_
+3	ele	ele	PUNCT	_	_	6	punct	_	_
+4	a	a	PUNCT	_	_	6	punct	_	_
+5	sendaba	_	NOUN	_	_	7	_	_	_
+6	kandaora	_	NOUN	_	_	7	_	_	_
+7	i	i	PUNCT	_	_	8	punct	_	_
+8	repondona	_	NOUN	_	_	0	root	_	_
+
+# sent_id = cross-validation_4_words__65
+# text = í a nasé andi bonga ta asé 51 año , jundo ku ma palo ngande , ma loyo ancho i ma umedá bonito
+1	í	í	PUNCT	_	_	15	punct	_	_
+2	a	a	PUNCT	_	_	15	punct	_	_
+3	nasé	nasé	VERB	_	_	17	root	_	_
+4	andi	andi	PUNCT	_	_	15	punct	_	_
+5	bonga	bonga	VERB	_	_	16	_	_	_
+6	ta	ta	PUNCT	_	_	15	punct	_	_
+7	asé	asé	VERB	_	_	17	punct	_	_
+8	51	51	PUNCT	_	_	17	punct	_	_
+9	año	año	PUNCT	_	_	17	punct	_	_
+10	,	,	PUNCT	_	_	15	punct	_	_
+11	jundo	jundo	NOUN	_	_	17	root	_	_
+12	ku	ku	PUNCT	_	_	15	punct	_	_
+13	ma	ma	NOUN	_	_	17	punct	_	_
+14	palo	palo	NOUN	_	_	0	root	_	_
+15	ngande	_	NOUN	_	_	13	root	_	_
+16	,	,	PUNCT	_	_	15	punct	_	_
+17	ma	ma	NOUN	_	_	14	root	_	_
+18	loyo	_	NOUN	_	_	16	_	_	_
+19	ancho	_	VERB	_	_	16	_	_	_
+20	i	i	PUNCT	_	_	15	punct	_	_
+21	ma	ma	PUNCT	_	_	17	punct	_	_
+22	umedá	umeda	VERB	_	_	16	_	_	_
+23	bonito	bonito	PUNCT	_	_	17	punct	_	_
+
+# sent_id = cross-validation_4_words__66
+# text = a sendaba 14 ri me ri matso , ta asé 80 año kapurí , kuandi a kaí un yubia ngande etraño
+1	a	a	PUNCT	_	_	13	punct	_	_
+2	sendaba	_	VERB	_	_	8	_	_	_
+3	14	14	PUNCT	_	_	13	punct	_	_
+4	ri	ri	PUNCT	_	_	13	punct	_	_
+5	me	me	PUNCT	_	_	13	punct	_	_
+6	ri	ri	PUNCT	_	_	13	punct	_	_
+7	matso	matsi	NOUN	_	_	12	root	_	_
+8	,	,	PUNCT	_	_	13	punct	_	_
+9	ta	ta	PUNCT	_	_	13	punct	_	_
+10	asé	asé	VERB	_	_	8	_	_	_
+11	80	80	PUNCT	_	_	13	punct	_	_
+12	año	año	NOUN	_	_	0	root	_	_
+13	kapurí	kapuri	NOUN	_	_	12	root	_	_
+14	,	,	PUNCT	_	_	2	punct	_	_
+15	kuandi	_	NOUN	_	_	8	_	_	_
+16	a	a	PUNCT	_	_	13	punct	_	_
+17	kaí	kai	NOUN	_	_	8	_	_	_
+18	un	un	PUNCT	_	_	13	punct	_	_
+19	yubia	yubia	NOUN	_	_	12	root	_	_
+20	ngande	_	NOUN	_	_	8	_	_	_
+21	etraño	etraño	NOUN	_	_	12	root	_	_
+
+# sent_id = cross-validation_4_words__67
+# text = ele a chitialo
+1	ele	ele	PRON	_	_	0	root	_	_
+2	a	a	PUNCT	_	_	1	punct	_	_
+3	chitialo	_	NOUN	_	_	2	_	_	_
+
+# sent_id = cross-validation_4_words__68
+# text = repue ele a seba adsá mboso " manduko pa porriá "
+1	repue	_	NOUN	_	_	9	_	_	_
+2	ele	ele	PUNCT	_	_	8	punct	_	_
+3	a	a	PUNCT	_	_	8	punct	_	_
+4	seba	seba	NOUN	_	_	9	_	_	_
+5	adsá	adsá	VERB	_	_	9	_	_	_
+6	mboso	_	NOUN	_	_	9	_	_	_
+7	"	"	PUNCT	_	_	8	punct	_	_
+8	manduko	_	NOUN	_	_	0	root	_	_
+9	pa	pa	PUNCT	_	_	8	punct	_	_
+10	porriá	porria	VERB	_	_	9	_	_	_
+11	"	"	PUNCT	_	_	8	punct	_	_
+
+# sent_id = cross-validation_4_words__69
+# text = miní , mija , ke i a ten un kusa pa motrá bó
+1	miní	mini	VERB	_	_	11	root	_	_
+2	,	,	PUNCT	_	_	10	punct	_	_
+3	mija	mija	NOUN	_	_	10	root	_	_
+4	,	,	PUNCT	_	_	10	punct	_	_
+5	ke	ke	PUNCT	_	_	10	punct	_	_
+6	i	i	PUNCT	_	_	10	punct	_	_
+7	a	a	PUNCT	_	_	10	punct	_	_
+8	ten	ten	PUNCT	_	_	10	punct	_	_
+9	un	un	PUNCT	_	_	11	root	_	_
+10	kusa	_	NOUN	_	_	0	root	_	_
+11	pa	pa	PUNCT	_	_	10	punct	_	_
+12	motrá	motra	VERB	_	_	11	root	_	_
+13	bó	bó	PUNCT	_	_	11	root	_	_
+
+# sent_id = cross-validation_4_words__70
+# text = í a ngalá mata ri beddolaga rí lao tra rí etario i antose i a semblalo
+1	í	í	PUNCT	_	_	6	punct	_	_
+2	a	a	PUNCT	_	_	6	punct	_	_
+3	ngalá	_	NOUN	_	_	15	_	_	_
+4	mata	mata	PUNCT	_	_	6	root	_	_
+5	ri	ri	PUNCT	_	_	6	punct	_	_
+6	beddolaga	_	NOUN	_	_	0	root	_	_
+7	rí	rí	PUNCT	_	_	6	punct	_	_
+8	lao	lao	PUNCT	_	_	6	punct	_	_
+9	tra	tra	PUNCT	_	_	6	punct	_	_
+10	rí	rí	PUNCT	_	_	6	punct	_	_
+11	etario	etario	PUNCT	_	_	6	punct	_	_
+12	i	i	PUNCT	_	_	3	punct	_	_
+13	antose	_	NOUN	_	_	14	_	_	_
+14	i	i	PUNCT	_	_	3	punct	_	_
+15	a	a	PUNCT	_	_	6	punct	_	_
+16	semblalo	semblalo	NOUN	_	_	14	_	_	_
+
+# sent_id = cross-validation_4_words__71
+# text = a kaí un chochá agua ke a yená loyo i a aselo reboddá yenando ma bera , labando ma baye ata e kelá taponao ri un ma yebba ri po’akí , kumo yuya , bebbena , anamú , anjika ku sinkogoyo
+1	a	a	PUNCT	_	_	18	punct	_	_
+2	kaí	kaí	PUNCT	_	_	18	punct	_	_
+3	un	un	PUNCT	_	_	18	punct	_	_
+4	chochá	chochá	VERB	_	_	36	root	_	_
+5	agua	agua	PUNCT	_	_	18	punct	_	_
+6	ke	ke	PUNCT	_	_	18	punct	_	_
+7	a	a	PUNCT	_	_	18	punct	_	_
+8	yená	yena	VERB	_	_	36	root	_	_
+9	loyo	loyo	NOUN	_	_	36	root	_	_
+10	i	i	PUNCT	_	_	18	punct	_	_
+11	a	a	PUNCT	_	_	18	punct	_	_
+12	aselo	aselo	NOUN	_	_	36	root	_	_
+13	reboddá	reboddá	PUNCT	_	_	18	punct	_	_
+14	yenando	yenanda	VERB	_	_	36	root	_	_
+15	ma	ma	PUNCT	_	_	18	punct	_	_
+16	bera	bera	PUNCT	_	_	32	root	_	_
+17	,	,	PUNCT	_	_	18	punct	_	_
+18	labando	labanda	VERB	_	_	0	root	_	_
+19	ma	ma	PUNCT	_	_	18	punct	_	_
+20	baye	baye	PUNCT	_	_	18	punct	_	_
+21	ata	ata	PUNCT	_	_	18	punct	_	_
+22	e	e	PUNCT	_	_	18	punct	_	_
+23	kelá	kelá	PUNCT	_	_	32	punct	_	_
+24	taponao	taponaa	VERB	_	_	36	root	_	_
+25	ri	ri	PUNCT	_	_	18	punct	_	_
+26	un	un	PUNCT	_	_	18	punct	_	_
+27	ma	ma	PUNCT	_	_	18	punct	_	_
+28	yebba	yebba	PUNCT	_	_	36	root	_	_
+29	ri	ri	PUNCT	_	_	18	punct	_	_
+30	po’akí	po’akí	PUNCT	_	_	18	punct	_	_
+31	,	,	PUNCT	_	_	18	punct	_	_
+32	kumo	_	NOUN	_	_	36	root	_	_
+33	yuya	yuya	PUNCT	_	_	18	punct	_	_
+34	,	,	PUNCT	_	_	18	punct	_	_
+35	bebbena	bebbena	PUNCT	_	_	36	root	_	_
+36	,	,	PUNCT	_	_	18	punct	_	_
+37	anamú	_	NOUN	_	_	36	root	_	_
+38	,	,	PUNCT	_	_	18	punct	_	_
+39	anjika	anjika	NOUN	_	_	36	root	_	_
+40	ku	ku	PUNCT	_	_	18	punct	_	_
+41	sinkogoyo	_	NOUN	_	_	36	root	_	_
+
+# sent_id = cross-validation_4_words__72
+# text = i un miero a krusalo tó kuepo , asina ke ele a abrí ri palo , siguindo goppe ri tabalá
+1	i	i	PUNCT	_	_	5	punct	_	_
+2	un	un	PUNCT	_	_	9	punct	_	_
+3	miero	miero	NOUN	_	_	9	root	_	_
+4	a	a	PUNCT	_	_	5	punct	_	_
+5	krusalo	_	NOUN	_	_	0	root	_	_
+6	tó	tó	PUNCT	_	_	9	punct	_	_
+7	kuepo	kuepo	PUNCT	_	_	9	root	_	_
+8	,	,	PUNCT	_	_	9	punct	_	_
+9	asina	_	NOUN	_	_	16	_	_	_
+10	ke	ke	PUNCT	_	_	5	punct	_	_
+11	ele	ele	PUNCT	_	_	9	punct	_	_
+12	a	a	PUNCT	_	_	5	punct	_	_
+13	abrí	abrí	NOUN	_	_	4	_	_	_
+14	ri	ri	PUNCT	_	_	9	punct	_	_
+15	palo	palo	NOUN	_	_	4	_	_	_
+16	,	,	PUNCT	_	_	5	punct	_	_
+17	siguindo	sieuindo	NOUN	_	_	4	_	_	_
+18	goppe	goppe	NOUN	_	_	4	_	_	_
+19	ri	ri	PUNCT	_	_	5	punct	_	_
+20	tabalá	tabalá	NOUN	_	_	4	_	_	_
+
+# sent_id = cross-validation_4_words__73
+# text = ¿pokké bo ta kandá si suto tando pa monde ?
+1	¿pokké	¿pokka	NOUN	_	_	0	root	_	_
+2	bo	bo	PUNCT	_	_	1	punct	_	_
+3	ta	ta	PUNCT	_	_	1	punct	_	_
+4	kandá	kanda	VERB	_	_	3	_	_	_
+5	si	si	PUNCT	_	_	1	punct	_	_
+6	suto	suta	VERB	_	_	3	_	_	_
+7	tando	tando	PUNCT	_	_	1	punct	_	_
+8	pa	pa	PUNCT	_	_	1	punct	_	_
+9	monde	monde	PUNCT	_	_	1	root	_	_
+10	?	?	PUNCT	_	_	1	punct	_	_
+
+# sent_id = cross-validation_4_words__74
+# text = pero po mita ri kamino a miná un lúso ke taba briyá lendro ma matrojo
+1	pero	pero	NOUN	_	_	0	root	_	_
+2	po	po	NOUN	_	_	1	root	_	_
+3	mita	mita	NOUN	_	_	1	root	_	_
+4	ri	ri	PUNCT	_	_	5	punct	_	_
+5	kamino	_	NOUN	_	_	2	root	_	_
+6	a	a	PUNCT	_	_	5	punct	_	_
+7	miná	mina	VERB	_	_	1	root	_	_
+8	un	un	PUNCT	_	_	5	punct	_	_
+9	lúso	lina	NOUN	_	_	1	root	_	_
+10	ke	ke	PUNCT	_	_	5	punct	_	_
+11	taba	taba	NOUN	_	_	2	root	_	_
+12	briyá	briyá	PUNCT	_	_	1	root	_	_
+13	lendro	lendro	PUNCT	_	_	5	punct	_	_
+14	ma	ma	PUNCT	_	_	5	punct	_	_
+15	matrojo	matrojo	NOUN	_	_	1	root	_	_
+
+# sent_id = cross-validation_4_words__75
+# text = i aí i a ichá kotea mi
+1	i	i	PUNCT	_	_	6	punct	_	_
+2	aí	aí	PUNCT	_	_	6	root	_	_
+3	i	i	PUNCT	_	_	6	punct	_	_
+4	a	a	PUNCT	_	_	6	punct	_	_
+5	ichá	icha	VERB	_	_	1	_	_	_
+6	kotea	kotea	VERB	_	_	0	root	_	_
+7	mi	mi	PUNCT	_	_	6	punct	_	_
+
+# sent_id = cross-validation_4_words__76
+# text = kuendi manesé , ele a salí ri posá ele i kumo tó ma monasito ri ai bonga , a bae a kuje aló ku kafe andi aguela ri ele
+1	kuendi	kuendi	NOUN	_	_	16	root	_	_
+2	manesé	manesa	VERB	_	_	16	root	_	_
+3	,	,	PUNCT	_	_	17	punct	_	_
+4	ele	ele	PUNCT	_	_	11	punct	_	_
+5	a	a	PUNCT	_	_	17	punct	_	_
+6	salí	salí	PUNCT	_	_	16	root	_	_
+7	ri	ri	PUNCT	_	_	17	punct	_	_
+8	posá	posa	VERB	_	_	16	root	_	_
+9	ele	ele	PUNCT	_	_	11	punct	_	_
+10	i	i	PUNCT	_	_	17	punct	_	_
+11	kumo	_	NOUN	_	_	16	root	_	_
+12	tó	tó	PUNCT	_	_	16	root	_	_
+13	ma	ma	PUNCT	_	_	16	root	_	_
+14	monasito	_	NOUN	_	_	16	root	_	_
+15	ri	ri	PUNCT	_	_	11	punct	_	_
+16	ai	ai	NOUN	_	_	0	root	_	_
+17	bonga	_	VERB	_	_	16	root	_	_
+18	,	,	PUNCT	_	_	17	punct	_	_
+19	a	a	PUNCT	_	_	17	punct	_	_
+20	bae	bae	PUNCT	_	_	11	punct	_	_
+21	a	a	PUNCT	_	_	17	punct	_	_
+22	kuje	kuje	NOUN	_	_	16	root	_	_
+23	aló	aló	PUNCT	_	_	11	punct	_	_
+24	ku	ku	PUNCT	_	_	11	punct	_	_
+25	kafe	kafe	PUNCT	_	_	11	punct	_	_
+26	andi	andi	PUNCT	_	_	11	punct	_	_
+27	aguela	aguela	NOUN	_	_	16	root	_	_
+28	ri	ri	PUNCT	_	_	17	punct	_	_
+29	ele	ele	PUNCT	_	_	17	punct	_	_
+
+# sent_id = cross-validation_4_words__77
+# text = kuné bo a nasé ri ngubá
+1	kuné	kuné	VERB	_	_	3	_	_	_
+2	bo	bo	PUNCT	_	_	6	punct	_	_
+3	a	a	PUNCT	_	_	6	punct	_	_
+4	nasé	nasé	PUNCT	_	_	1	root	_	_
+5	ri	ri	PUNCT	_	_	6	punct	_	_
+6	ngubá	_	VERB	_	_	0	root	_	_
+
+# sent_id = cross-validation_4_words__78
+# text = é jue ría ri ma sofoko ri mbila ri benita , é taba akongojao nu ma nu , sinu ku tritesa tambíe , po lungamiento ri mailo ele , sino tambié pokke monasita apareseba nú
+1	é	é	PUNCT	_	_	33	punct	_	_
+2	jue	jue	PUNCT	_	_	27	punct	_	_
+3	ría	ría	PUNCT	_	_	33	punct	_	_
+4	ri	ri	PUNCT	_	_	33	punct	_	_
+5	ma	ma	PUNCT	_	_	27	punct	_	_
+6	sofoko	_	NOUN	_	_	11	root	_	_
+7	ri	ri	PUNCT	_	_	27	punct	_	_
+8	mbila	_	NOUN	_	_	11	root	_	_
+9	ri	ri	PUNCT	_	_	27	punct	_	_
+10	benita	benita	PUNCT	_	_	27	punct	_	_
+11	,	,	PUNCT	_	_	27	punct	_	_
+12	é	é	PUNCT	_	_	33	punct	_	_
+13	taba	taba	PUNCT	_	_	32	root	_	_
+14	akongojao	_	NOUN	_	_	11	root	_	_
+15	nu	nu	PUNCT	_	_	32	root	_	_
+16	ma	ma	PUNCT	_	_	32	punct	_	_
+17	nu	nu	PUNCT	_	_	33	punct	_	_
+18	,	,	PUNCT	_	_	33	punct	_	_
+19	sinu	sinu	NOUN	_	_	11	root	_	_
+20	ku	ku	PUNCT	_	_	32	punct	_	_
+21	tritesa	tritesa	NOUN	_	_	11	root	_	_
+22	tambíe	tambíe	NOUN	_	_	11	root	_	_
+23	,	,	PUNCT	_	_	33	punct	_	_
+24	po	po	PUNCT	_	_	27	punct	_	_
+25	lungamiento	lungamiento	NOUN	_	_	11	root	_	_
+26	ri	ri	PUNCT	_	_	27	punct	_	_
+27	mailo	_	NOUN	_	_	0	root	_	_
+28	ele	ele	PUNCT	_	_	33	punct	_	_
+29	,	,	PUNCT	_	_	27	punct	_	_
+30	sino	sino	PUNCT	_	_	11	root	_	_
+31	tambié	tambié	NOUN	_	_	11	root	_	_
+32	pokke	pokke	PUNCT	_	_	27	root	_	_
+33	monasita	_	NOUN	_	_	11	root	_	_
+34	apareseba	apareseba	VERB	_	_	11	root	_	_
+35	nú	nú	PUNCT	_	_	27	punct	_	_
+
+# sent_id = cross-validation_4_words__79
+# text = ¿ke ta asé puaí ?
+1	¿ke	_	NOUN	_	_	0	root	_	_
+2	ta	ta	PUNCT	_	_	1	punct	_	_
+3	asé	asé	PUNCT	_	_	1	punct	_	_
+4	puaí	puaí	PUNCT	_	_	1	punct	_	_
+5	?	?	PUNCT	_	_	1	punct	_	_
+
+# sent_id = cross-validation_4_words__80
+# text = é memo ría , salomón a salí ma temprano , ke moná ri ele pandi mónde
+1	é	é	PUNCT	_	_	5	punct	_	_
+2	memo	memo	NOUN	_	_	14	root	_	_
+3	ría	ría	PUNCT	_	_	5	punct	_	_
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	salomón	salomóo	NOUN	_	_	14	root	_	_
+6	a	a	PUNCT	_	_	5	punct	_	_
+7	salí	salí	NOUN	_	_	14	root	_	_
+8	ma	ma	PUNCT	_	_	14	root	_	_
+9	temprano	temprano	NOUN	_	_	14	root	_	_
+10	,	,	PUNCT	_	_	5	punct	_	_
+11	ke	ke	PUNCT	_	_	14	root	_	_
+12	moná	mona	NOUN	_	_	14	root	_	_
+13	ri	ri	PUNCT	_	_	5	punct	_	_
+14	ele	ele	PUNCT	_	_	0	root	_	_
+15	pandi	pandi	PUNCT	_	_	5	punct	_	_
+16	mónde	mónda	NOUN	_	_	14	root	_	_
+
+# sent_id = cross-validation_4_words__81
+# text = babbarita , moná mí , miní aka
+1	babbarita	_	NOUN	_	_	0	root	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	moná	mona	NOUN	_	_	2	_	_	_
+4	mí	mí	PUNCT	_	_	1	punct	_	_
+5	,	,	PUNCT	_	_	1	punct	_	_
+6	miní	mini	VERB	_	_	7	root	_	_
+7	aka	_	NOUN	_	_	2	_	_	_
+
+# sent_id = cross-validation_4_words__82
+# text = monasita , jarocha , a ngalá sokito a salí tra mama ele
+1	monasita	_	NOUN	_	_	4	_	_	_
+2	,	,	PUNCT	_	_	7	punct	_	_
+3	jarocha	jarocha	VERB	_	_	2	root	_	_
+4	,	,	PUNCT	_	_	7	punct	_	_
+5	a	a	PUNCT	_	_	7	punct	_	_
+6	ngalá	_	VERB	_	_	4	_	_	_
+7	sokito	_	VERB	_	_	0	root	_	_
+8	a	a	PUNCT	_	_	7	punct	_	_
+9	salí	salí	VERB	_	_	2	root	_	_
+10	tra	tra	PUNCT	_	_	7	punct	_	_
+11	mama	mama	NOUN	_	_	2	root	_	_
+12	ele	ele	PUNCT	_	_	7	punct	_	_
+
+# sent_id = cross-validation_4_words__83
+# text = andi finá ri jonná ri ma kaneo , repue ri un guen kosecha , babbarita ku ma monasito a bae , pandi palo ri karakolí , andi ane ta jugá , ta kandá i ta motia ma kabeo , pa imbentá ma kaddume nuebo
+1	andi	anda	VERB	_	_	15	root	_	_
+2	finá	fina	VERB	_	_	31	root	_	_
+3	ri	ri	PUNCT	_	_	15	punct	_	_
+4	jonná	jonna	VERB	_	_	31	root	_	_
+5	ri	ri	PUNCT	_	_	15	punct	_	_
+6	ma	ma	PUNCT	_	_	15	punct	_	_
+7	kaneo	_	VERB	_	_	31	root	_	_
+8	,	,	PUNCT	_	_	15	punct	_	_
+9	repue	repua	NOUN	_	_	31	root	_	_
+10	ri	ri	PUNCT	_	_	15	punct	_	_
+11	un	un	PUNCT	_	_	15	punct	_	_
+12	guen	guen	PUNCT	_	_	15	punct	_	_
+13	kosecha	_	NOUN	_	_	31	root	_	_
+14	,	,	PUNCT	_	_	15	punct	_	_
+15	babbarita	_	NOUN	_	_	0	root	_	_
+16	ku	ku	PUNCT	_	_	15	punct	_	_
+17	ma	ma	PUNCT	_	_	15	punct	_	_
+18	monasito	_	NOUN	_	_	31	root	_	_
+19	a	a	PUNCT	_	_	15	punct	_	_
+20	bae	bae	PUNCT	_	_	15	punct	_	_
+21	,	,	PUNCT	_	_	15	punct	_	_
+22	pandi	pandi	PUNCT	_	_	15	punct	_	_
+23	palo	palo	NOUN	_	_	31	root	_	_
+24	ri	ri	PUNCT	_	_	15	punct	_	_
+25	karakolí	karakolí	NOUN	_	_	31	root	_	_
+26	,	,	PUNCT	_	_	15	punct	_	_
+27	andi	andi	VERB	_	_	15	punct	_	_
+28	ane	ane	PUNCT	_	_	15	punct	_	_
+29	ta	ta	PUNCT	_	_	15	punct	_	_
+30	jugá	juga	VERB	_	_	31	root	_	_
+31	,	,	PUNCT	_	_	15	punct	_	_
+32	ta	ta	PUNCT	_	_	15	punct	_	_
+33	kandá	kanda	VERB	_	_	31	root	_	_
+34	i	i	PUNCT	_	_	15	punct	_	_
+35	ta	ta	PUNCT	_	_	15	punct	_	_
+36	motia	motia	VERB	_	_	31	root	_	_
+37	ma	ma	PUNCT	_	_	15	punct	_	_
+38	kabeo	kabeo	NOUN	_	_	31	root	_	_
+39	,	,	PUNCT	_	_	15	punct	_	_
+40	pa	pa	PUNCT	_	_	15	punct	_	_
+41	imbentá	imbentá	VERB	_	_	31	root	_	_
+42	ma	ma	PUNCT	_	_	15	punct	_	_
+43	kaddume	_	VERB	_	_	31	root	_	_
+44	nuebo	nuebo	PUNCT	_	_	15	punct	_	_
+
+# sent_id = cross-validation_4_words__84
+# text = i a jablalo ku tetemblá ke i a sendaba lo ke tamba ndae fecha ri un propueta
+1	i	i	PUNCT	_	_	9	punct	_	_
+2	a	a	PUNCT	_	_	9	punct	_	_
+3	jablalo	jablalo	NOUN	_	_	11	root	_	_
+4	ku	ku	PUNCT	_	_	9	punct	_	_
+5	tetemblá	tetemblá	PUNCT	_	_	10	root	_	_
+6	ke	ke	PUNCT	_	_	9	punct	_	_
+7	i	i	PUNCT	_	_	9	punct	_	_
+8	a	a	PUNCT	_	_	9	punct	_	_
+9	sendaba	_	NOUN	_	_	0	root	_	_
+10	lo	lo	PUNCT	_	_	9	punct	_	_
+11	ke	ke	PUNCT	_	_	9	punct	_	_
+12	tamba	_	NOUN	_	_	11	root	_	_
+13	ndae	ndae	PUNCT	_	_	9	punct	_	_
+14	fecha	fecha	PUNCT	_	_	9	punct	_	_
+15	ri	ri	PUNCT	_	_	9	punct	_	_
+16	un	un	PUNCT	_	_	9	punct	_	_
+17	propueta	_	NOUN	_	_	11	root	_	_
+
+# sent_id = cross-validation_4_words__85
+# text = antose un besina mi a yegá i a jablá asina : e ke ata bonito i bonito ia sendá bonito ebeddolaga / po suelo… pokke ataba regaó po suelo
+1	antose	_	NOUN	_	_	18	root	_	_
+2	un	un	PUNCT	_	_	3	punct	_	_
+3	besina	besina	VERB	_	_	18	root	_	_
+4	mi	mi	PUNCT	_	_	3	punct	_	_
+5	a	a	PUNCT	_	_	3	punct	_	_
+6	yegá	yega	VERB	_	_	18	root	_	_
+7	i	i	PUNCT	_	_	3	punct	_	_
+8	a	a	PUNCT	_	_	3	punct	_	_
+9	jablá	jablá	PUNCT	_	_	18	root	_	_
+10	asina	_	VERB	_	_	18	root	_	_
+11	:	:	PUNCT	_	_	3	punct	_	_
+12	e	e	PUNCT	_	_	3	punct	_	_
+13	ke	ke	PUNCT	_	_	3	punct	_	_
+14	ata	ata	NOUN	_	_	18	root	_	_
+15	bonito	bonito	NOUN	_	_	18	root	_	_
+16	i	i	PUNCT	_	_	3	punct	_	_
+17	bonito	bonito	NOUN	_	_	18	root	_	_
+18	ia	ia	NOUN	_	_	0	root	_	_
+19	sendá	senda	VERB	_	_	18	root	_	_
+20	bonito	bonito	NOUN	_	_	18	root	_	_
+21	ebeddolaga	ebeddolaga	PUNCT	_	_	18	root	_	_
+22	/	/	PUNCT	_	_	3	punct	_	_
+23	po	po	PUNCT	_	_	3	punct	_	_
+24	suelo…	suelo…	PUNCT	_	_	3	root	_	_
+25	pokke	pokke	NOUN	_	_	18	root	_	_
+26	ataba	ataba	PUNCT	_	_	3	root	_	_
+27	regaó	regaó	NOUN	_	_	18	root	_	_
+28	po	po	PUNCT	_	_	3	punct	_	_
+29	suelo	suelo	PUNCT	_	_	18	root	_	_
+
+# sent_id = cross-validation_4_words__86
+# text = ri se asé mí , sindí jarocho , ri e pito tiela ri ichá chochá simía , ta miní e ítoria ke i tan kondá , ítoria ri erensia ri babbarita
+1	ri	ri	PUNCT	_	_	31	punct	_	_
+2	se	se	PUNCT	_	_	31	punct	_	_
+3	asé	asé	PUNCT	_	_	31	punct	_	_
+4	mí	mí	PUNCT	_	_	31	punct	_	_
+5	,	,	PUNCT	_	_	31	punct	_	_
+6	sindí	sindí	PUNCT	_	_	31	punct	_	_
+7	jarocho	jarocha	VERB	_	_	2	_	_	_
+8	,	,	PUNCT	_	_	31	punct	_	_
+9	ri	ri	PUNCT	_	_	31	punct	_	_
+10	e	e	PUNCT	_	_	31	punct	_	_
+11	pito	pito	PUNCT	_	_	31	punct	_	_
+12	tiela	tiela	PUNCT	_	_	31	punct	_	_
+13	ri	ri	PUNCT	_	_	31	punct	_	_
+14	ichá	ichá	PUNCT	_	_	31	punct	_	_
+15	chochá	chocha	VERB	_	_	2	_	_	_
+16	simía	simía	NOUN	_	_	19	root	_	_
+17	,	,	PUNCT	_	_	31	punct	_	_
+18	ta	ta	PUNCT	_	_	31	punct	_	_
+19	miní	miní	NOUN	_	_	31	punct	_	_
+20	e	e	PUNCT	_	_	31	punct	_	_
+21	ítoria	ítoria	NOUN	_	_	31	punct	_	_
+22	ke	ke	PUNCT	_	_	31	punct	_	_
+23	i	i	PUNCT	_	_	31	punct	_	_
+24	tan	tan	PUNCT	_	_	31	punct	_	_
+25	kondá	konda	VERB	_	_	2	_	_	_
+26	,	,	PUNCT	_	_	31	punct	_	_
+27	ítoria	ítoria	NOUN	_	_	0	root	_	_
+28	ri	ri	PUNCT	_	_	31	punct	_	_
+29	erensia	erensia	PUNCT	_	_	31	punct	_	_
+30	ri	ri	PUNCT	_	_	31	punct	_	_
+31	babbarita	_	NOUN	_	_	27	root	_	_
+
+# sent_id = cross-validation_4_words__87
+# text = ante ri ten posá a olaya errera etefanía a seba bibí a chambakú uno ri maparaje ri ma jende ri palenge ma ngande ir katajena
+1	ante	ante	NOUN	_	_	18	root	_	_
+2	ri	ri	PUNCT	_	_	16	punct	_	_
+3	ten	ten	PUNCT	_	_	16	punct	_	_
+4	posá	posá	NOUN	_	_	16	punct	_	_
+5	a	a	PUNCT	_	_	16	punct	_	_
+6	olaya	olaya	VERB	_	_	18	root	_	_
+7	errera	errera	VERB	_	_	18	root	_	_
+8	etefanía	etefanía	PUNCT	_	_	16	punct	_	_
+9	a	a	PUNCT	_	_	16	punct	_	_
+10	seba	seba	NOUN	_	_	18	root	_	_
+11	bibí	bibí	NOUN	_	_	18	root	_	_
+12	a	a	PUNCT	_	_	16	punct	_	_
+13	chambakú	chambakú	NOUN	_	_	18	root	_	_
+14	uno	uno	PUNCT	_	_	16	punct	_	_
+15	ri	ri	PUNCT	_	_	16	punct	_	_
+16	maparaje	maparaje	NOUN	_	_	0	root	_	_
+17	ri	ri	PUNCT	_	_	16	punct	_	_
+18	ma	ma	NOUN	_	_	22	punct	_	_
+19	jende	jende	PUNCT	_	_	16	punct	_	_
+20	ri	ri	PUNCT	_	_	16	punct	_	_
+21	palenge	palenge	NOUN	_	_	18	root	_	_
+22	ma	ma	PUNCT	_	_	16	punct	_	_
+23	ngande	_	NOUN	_	_	22	_	_	_
+24	ir	ir	PUNCT	_	_	16	punct	_	_
+25	katajena	_	NOUN	_	_	22	_	_	_
+
+# sent_id = cross-validation_4_words__88
+# text = mae , ¿kuando suto tan kobá ngubá ?
+1	mae	mae	PUNCT	_	_	0	root	_	_
+2	,	,	PUNCT	_	_	7	punct	_	_
+3	¿kuando	¿kuando	NOUN	_	_	1	root	_	_
+4	suto	suta	NOUN	_	_	1	root	_	_
+5	tan	tan	PUNCT	_	_	1	root	_	_
+6	kobá	_	VERB	_	_	1	root	_	_
+7	ngubá	_	VERB	_	_	1	root	_	_
+8	?	?	PUNCT	_	_	7	punct	_	_
+
+# sent_id = cross-validation_4_words__89
+# text = tiela mí oooh tiela mí í ta prepará bo kumo bo meresé pa nda chochá ngubá kumo suto kelé
+1	tiela	tiela	VERB	_	_	13	_	_	_
+2	mí	mí	PUNCT	_	_	16	punct	_	_
+3	oooh	_	VERB	_	_	14	_	_	_
+4	tiela	tiela	VERB	_	_	11	root	_	_
+5	mí	mí	PUNCT	_	_	16	punct	_	_
+6	í	í	PUNCT	_	_	16	punct	_	_
+7	ta	ta	PUNCT	_	_	16	punct	_	_
+8	prepará	prepara	VERB	_	_	13	_	_	_
+9	bo	bo	PUNCT	_	_	11	root	_	_
+10	kumo	_	NOUN	_	_	14	_	_	_
+11	bo	bo	PUNCT	_	_	17	punct	_	_
+12	meresé	meresa	VERB	_	_	13	_	_	_
+13	pa	pa	PUNCT	_	_	16	punct	_	_
+14	nda	nda	PUNCT	_	_	16	punct	_	_
+15	chochá	chocha	VERB	_	_	13	_	_	_
+16	ngubá	_	VERB	_	_	0	root	_	_
+17	kumo	_	NOUN	_	_	14	_	_	_
+18	suto	_	VERB	_	_	13	_	_	_
+19	kelé	kelé	PUNCT	_	_	16	punct	_	_
+
+# sent_id = cross-validation_4_words__90
+# text = repué bo a ten ke rrapá tiela ku juisio , pa nu kelá biruta ;
+1	repué	repue	NOUN	_	_	8	root	_	_
+2	bo	bo	PUNCT	_	_	14	punct	_	_
+3	a	a	PUNCT	_	_	14	punct	_	_
+4	ten	ten	PUNCT	_	_	14	punct	_	_
+5	ke	ke	PUNCT	_	_	14	punct	_	_
+6	rrapá	rrapá	PUNCT	_	_	14	punct	_	_
+7	tiela	tiela	VERB	_	_	8	root	_	_
+8	ku	ku	PUNCT	_	_	0	root	_	_
+9	juisio	juisio	NOUN	_	_	8	root	_	_
+10	,	,	PUNCT	_	_	14	punct	_	_
+11	pa	pa	PUNCT	_	_	1	punct	_	_
+12	nu	nu	PUNCT	_	_	1	punct	_	_
+13	kelá	kelá	VERB	_	_	8	root	_	_
+14	biruta	biruta	VERB	_	_	8	root	_	_
+15	;	;	PUNCT	_	_	14	punct	_	_
+
+# sent_id = cross-validation_4_words__91
+# text = ri repente , ele a kuchá rrepike ri pechiche
+1	ri	ri	PUNCT	_	_	7	punct	_	_
+2	repente	repente	PUNCT	_	_	7	root	_	_
+3	,	,	PUNCT	_	_	7	punct	_	_
+4	ele	ele	PUNCT	_	_	7	root	_	_
+5	a	a	PUNCT	_	_	7	punct	_	_
+6	kuchá	kuchá	PUNCT	_	_	7	root	_	_
+7	rrepike	rrepika	VERB	_	_	0	root	_	_
+8	ri	ri	PUNCT	_	_	7	punct	_	_
+9	pechiche	pechiche	PUNCT	_	_	7	root	_	_
+
+# sent_id = cross-validation_4_words__92
+# text = i repué makaniando a posá mi i a poné a kandá :
+1	i	i	PUNCT	_	_	3	punct	_	_
+2	repué	repué	NOUN	_	_	8	_	_	_
+3	makaniando	_	VERB	_	_	0	root	_	_
+4	a	a	PUNCT	_	_	3	punct	_	_
+5	posá	posa	NOUN	_	_	8	_	_	_
+6	mi	mi	PUNCT	_	_	3	punct	_	_
+7	i	i	PUNCT	_	_	3	punct	_	_
+8	a	a	PUNCT	_	_	3	punct	_	_
+9	poné	poné	NOUN	_	_	8	_	_	_
+10	a	a	PUNCT	_	_	3	punct	_	_
+11	kandá	kanda	VERB	_	_	1	_	_	_
+12	:	:	PUNCT	_	_	3	punct	_	_
+
+# sent_id = cross-validation_4_words__93
+# text = i a yegá a posá ele ri ndo agua , ku flendepindao ku ká , i po lendro sin embarrá i kun ma tabrete kumo un jende riorije bantú
+1	i	i	PUNCT	_	_	24	punct	_	_
+2	a	a	PUNCT	_	_	25	punct	_	_
+3	yegá	yega	VERB	_	_	15	_	_	_
+4	a	a	PUNCT	_	_	25	punct	_	_
+5	posá	posá	VERB	_	_	25	root	_	_
+6	ele	ele	PUNCT	_	_	25	punct	_	_
+7	ri	ri	PUNCT	_	_	25	punct	_	_
+8	ndo	ndo	PUNCT	_	_	25	punct	_	_
+9	agua	agua	PUNCT	_	_	25	punct	_	_
+10	,	,	PUNCT	_	_	24	punct	_	_
+11	ku	ku	PUNCT	_	_	25	punct	_	_
+12	flendepindao	flendepindao	NOUN	_	_	11	root	_	_
+13	ku	ku	PUNCT	_	_	25	punct	_	_
+14	ká	ká	PUNCT	_	_	25	punct	_	_
+15	,	,	PUNCT	_	_	24	punct	_	_
+16	i	i	PUNCT	_	_	24	punct	_	_
+17	po	po	PUNCT	_	_	25	punct	_	_
+18	lendro	lendro	PUNCT	_	_	25	punct	_	_
+19	sin	sin	PUNCT	_	_	25	punct	_	_
+20	embarrá	embarrá	PUNCT	_	_	25	punct	_	_
+21	i	i	PUNCT	_	_	24	punct	_	_
+22	kun	kun	NOUN	_	_	25	root	_	_
+23	ma	ma	PUNCT	_	_	25	punct	_	_
+24	tabrete	tabrete	NOUN	_	_	0	root	_	_
+25	kumo	kumo	NOUN	_	_	15	_	_	_
+26	un	un	PUNCT	_	_	25	punct	_	_
+27	jende	jende	PUNCT	_	_	25	punct	_	_
+28	riorije	riorije	PUNCT	_	_	25	punct	_	_
+29	bantú	banta	NOUN	_	_	15	_	_	_
+
+# sent_id = cross-validation_4_words__94
+# text = benita a chitía kuando e minalo asendo eso
+1	benita	benita	NOUN	_	_	8	root	_	_
+2	a	a	PUNCT	_	_	6	punct	_	_
+3	chitía	chitía	NOUN	_	_	8	root	_	_
+4	kuando	kuando	NOUN	_	_	8	root	_	_
+5	e	e	PUNCT	_	_	6	punct	_	_
+6	minalo	_	NOUN	_	_	0	root	_	_
+7	asendo	asendo	NOUN	_	_	8	root	_	_
+8	eso	eso	PUNCT	_	_	2	_	_	_
+
+# sent_id = cross-validation_4_words__95
+# text = a makaneo ri ané ri sembla , a jundá ma monasito ku ma monasita ke tan siguí indikasió ri babbarita
+1	a	a	PUNCT	_	_	2	punct	_	_
+2	makaneo	_	NOUN	_	_	0	root	_	_
+3	ri	ri	PUNCT	_	_	2	punct	_	_
+4	ané	ané	PUNCT	_	_	2	punct	_	_
+5	ri	ri	PUNCT	_	_	2	punct	_	_
+6	sembla	sembla	PUNCT	_	_	2	punct	_	_
+7	,	,	PUNCT	_	_	2	punct	_	_
+8	a	a	PUNCT	_	_	2	punct	_	_
+9	jundá	junda	VERB	_	_	13	root	_	_
+10	ma	ma	PUNCT	_	_	13	punct	_	_
+11	monasito	_	NOUN	_	_	7	_	_	_
+12	ku	ku	PUNCT	_	_	2	punct	_	_
+13	ma	ma	NOUN	_	_	1	_	_	_
+14	monasita	_	NOUN	_	_	7	_	_	_
+15	ke	ke	PUNCT	_	_	2	punct	_	_
+16	tan	tan	PUNCT	_	_	2	punct	_	_
+17	siguí	siguí	NOUN	_	_	13	root	_	_
+18	indikasió	_	NOUN	_	_	7	_	_	_
+19	ri	ri	PUNCT	_	_	2	punct	_	_
+20	babbarita	_	NOUN	_	_	7	_	_	_
+
+# sent_id = cross-validation_4_words__96
+# text = " gueno mijo bo me saka ri posá mi i bo a ten ke gobbé tre mi "
+1	"	"	PUNCT	_	_	2	punct	_	_
+2	gueno	_	NOUN	_	_	6	root	_	_
+3	mijo	_	NOUN	_	_	6	root	_	_
+4	bo	bo	PUNCT	_	_	2	punct	_	_
+5	me	me	PUNCT	_	_	2	punct	_	_
+6	saka	saka	NOUN	_	_	0	root	_	_
+7	ri	ri	PUNCT	_	_	2	punct	_	_
+8	posá	posa	VERB	_	_	6	root	_	_
+9	mi	mi	PUNCT	_	_	2	punct	_	_
+10	i	i	PUNCT	_	_	2	punct	_	_
+11	bo	bo	PUNCT	_	_	2	punct	_	_
+12	a	a	PUNCT	_	_	2	punct	_	_
+13	ten	ten	PUNCT	_	_	2	root	_	_
+14	ke	ke	PUNCT	_	_	2	punct	_	_
+15	gobbé	_	NOUN	_	_	6	root	_	_
+16	tre	tre	PUNCT	_	_	2	punct	_	_
+17	mi	mi	PUNCT	_	_	2	punct	_	_
+18	"	"	PUNCT	_	_	2	punct	_	_
+
+# sent_id = cross-validation_4_words__97
+# text = i a benita a kelalo ri nato mama ele fofojén pa semblá ngubá , asina ke sendaba etraño nu ke babarita le ngalala amó a monde
+1	i	i	PUNCT	_	_	21	punct	_	_
+2	a	a	PUNCT	_	_	21	punct	_	_
+3	benita	benita	NOUN	_	_	10	root	_	_
+4	a	a	PUNCT	_	_	21	punct	_	_
+5	kelalo	kelalo	NOUN	_	_	16	root	_	_
+6	ri	ri	PUNCT	_	_	21	punct	_	_
+7	nato	nato	NOUN	_	_	10	root	_	_
+8	mama	mama	NOUN	_	_	16	root	_	_
+9	ele	ele	PUNCT	_	_	10	root	_	_
+10	fofojén	_	NOUN	_	_	0	root	_	_
+11	pa	pa	PUNCT	_	_	21	punct	_	_
+12	semblá	semblá	VERB	_	_	10	root	_	_
+13	ngubá	_	VERB	_	_	16	root	_	_
+14	,	,	PUNCT	_	_	21	punct	_	_
+15	asina	_	VERB	_	_	2	_	_	_
+16	ke	ke	PUNCT	_	_	10	punct	_	_
+17	sendaba	_	VERB	_	_	16	root	_	_
+18	etraño	etraño	NOUN	_	_	16	root	_	_
+19	nu	nu	PUNCT	_	_	21	punct	_	_
+20	ke	ke	PUNCT	_	_	21	punct	_	_
+21	babarita	_	NOUN	_	_	16	root	_	_
+22	le	le	PUNCT	_	_	21	punct	_	_
+23	ngalala	_	NOUN	_	_	16	root	_	_
+24	amó	amó	PUNCT	_	_	21	punct	_	_
+25	a	a	PUNCT	_	_	21	punct	_	_
+26	monde	monde	PUNCT	_	_	21	punct	_	_
+
+# sent_id = cross-validation_4_words__98
+# text = repué e ma fló amarío a se seká , antose aí jue andi kosecha tan lanká
+1	repué	_	NOUN	_	_	11	root	_	_
+2	e	e	PUNCT	_	_	14	punct	_	_
+3	ma	ma	NOUN	_	_	15	root	_	_
+4	fló	fló	NOUN	_	_	3	punct	_	_
+5	amarío	_	VERB	_	_	9	_	_	_
+6	a	a	PUNCT	_	_	14	punct	_	_
+7	se	se	PUNCT	_	_	14	punct	_	_
+8	seká	seka	VERB	_	_	11	root	_	_
+9	,	,	PUNCT	_	_	14	punct	_	_
+10	antose	_	NOUN	_	_	9	_	_	_
+11	aí	aí	PUNCT	_	_	3	punct	_	_
+12	jue	jue	PUNCT	_	_	14	punct	_	_
+13	andi	andi	PUNCT	_	_	14	punct	_	_
+14	kosecha	_	VERB	_	_	11	root	_	_
+15	tan	tan	NOUN	_	_	0	root	_	_
+16	lanká	lanka	VERB	_	_	9	_	_	_
+
+# sent_id = cross-validation_4_words__99
+# text = santa babbara bendita to ané a la bonga a ngritá
+1	santa	santa	NOUN	_	_	0	root	_	_
+2	babbara	_	NOUN	_	_	1	root	_	_
+3	bendita	bendita	VERB	_	_	4	_	_	_
+4	to	to	PUNCT	_	_	2	punct	_	_
+5	ané	ané	PUNCT	_	_	1	root	_	_
+6	a	a	PUNCT	_	_	2	punct	_	_
+7	la	la	PUNCT	_	_	2	punct	_	_
+8	bonga	bonga	VERB	_	_	4	_	_	_
+9	a	a	PUNCT	_	_	2	punct	_	_
+10	ngritá	ngrita	VERB	_	_	1	root	_	_
+
+# sent_id = cross-validation_4_words__100
+# text = changaina a chitiá asina , kumo si é konosebá babbarita ri to mbila ri ele
+1	changaina	changaina	NOUN	_	_	0	root	_	_
+2	a	a	PUNCT	_	_	1	punct	_	_
+3	chitiá	chitia	VERB	_	_	6	root	_	_
+4	asina	_	VERB	_	_	5	root	_	_
+5	,	,	PUNCT	_	_	1	punct	_	_
+6	kumo	_	NOUN	_	_	5	root	_	_
+7	si	si	PUNCT	_	_	1	punct	_	_
+8	é	é	PUNCT	_	_	1	punct	_	_
+9	konosebá	_	VERB	_	_	5	root	_	_
+10	babbarita	_	NOUN	_	_	5	root	_	_
+11	ri	ri	PUNCT	_	_	1	punct	_	_
+12	to	to	PUNCT	_	_	1	punct	_	_
+13	mbila	_	NOUN	_	_	5	root	_	_
+14	ri	ri	PUNCT	_	_	1	punct	_	_
+15	ele	ele	PUNCT	_	_	1	punct	_	_
+
